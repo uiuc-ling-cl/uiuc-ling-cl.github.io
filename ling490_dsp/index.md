@@ -7,7 +7,7 @@ active_tab: main_page
 ---
 
 
-# LING 402
+# LING 490
 ## Tools & Techniques for Speech & Language Processing
 
 Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating  data.
