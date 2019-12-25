@@ -7,14 +7,15 @@ active_tab: main_page
 ---
 
 
-# LING 402
-## Tools & Techniques for Speech & Language Processing
+# The Department of Linguistics, UIUC
+## Computational Linguistics courses currently under offer
 
-Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating  data.
 
-* [Syllabus](syllabus.html)
+* [Syllabus](ling490_dsp)
+ 
 <!-- 
-* [Schedule & Readings](schedule.html)
+* [Schedule & Readings](ling490_dsp)
 * [Github](https://github.com/2019-Fall-UIUC-LING402)
 * [Piazza](https://piazza.com/illinois/fall2019/ling402)
  -->
+
