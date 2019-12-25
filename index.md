@@ -11,8 +11,8 @@ active_tab: main_page
 ## Computational Linguistics courses currently under offer
 
 
-* [Syllabus](ling490_dsp)
- 
+* [LING 490 - SPECIAL TOPICS IN LINGUISTICS: Fundamentals of Digital Signal Processing](ling490_dsp)
+* [LING 506 - TOPICS IN COMPUTATIONAL LINGUISTICS: Introductory Machine Learning](ling506_ml)
 <!-- 
 * [Schedule & Readings](ling490_dsp)
 * [Github](https://github.com/2019-Fall-UIUC-LING402)
