@@ -115,11 +115,11 @@ Students will be assessed on the extent to which they have attained the learning
 Grades will be assessed on a 100-point scale:
 
 * Lecture attendance, lab exercises and theory assessments will make up 50% of the overall grade:
-	* Attendance: 10%
-	* Mid- and End-of-term assessments: 20% 
-	* Lab exercise: 20%
+	* Attendance: **10%**
+	* Mid- and End-of-term assessments: **120%**
+	* Lab exercise: **20%**
 
-* After-class programming and scripting assignments will make up 50% of the overall grade
+* After-class programming and scripting assignments will make up **50%** of the overall grade
 
 
  The final letter grade for this course will be converted from the numeric grade using the following table:
