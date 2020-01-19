@@ -1,18 +1,19 @@
 ---
-layout: main
-img: hello
-img_link: https://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
-title: Course Information
+layout: course
+img: dsp.png
+<!-- img_link: assets/img/dsp.png -->
+url_git: https://github.com/uiuc-ling-cl
+url_piazza: https://piazza.com/illinois/spring2020/ling490
+title: LING490 DSP
 active_tab: main_page 
 ---
 
+## LING 490: SPECIAL TOPICS IN LINGUISTICS
+### Fundamentals of Digital Signal Processing
+<br/>
+#### This course aims to give an elementary introduction to concepts, principles and algorithms of digital signal processing
 
-# LING 490
-## Tools & Techniques for Speech & Language Processing
-
-Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating  data.
-
-* [Syllabus](syllabus.html)
-* [Schedule & Readings](schedule.html)
-* [Github](https://github.com/2019-Fall-UIUC-LING402)
-* [Piazza](https://piazza.com/illinois/fall2019/ling402)
+* <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Schedule](schedule.html)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Piazza](https://piazza.com/illinois/spring2020/ling490)</span>

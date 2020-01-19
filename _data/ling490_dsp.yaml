@@ -1,0 +1,390 @@
+###### Week 1 ######
+-
+    week: 1
+    date: 2020-01-22
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Course introduction&#58; from ananlog to digial waveform
+-
+    week: 1
+    date: 2020-01-24
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: Python/anaconda installatoin, Github account
+    
+    
+###### Week 2 ######    
+-
+    week: 2
+    date: 2020-01-27
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Signal waveform and properties
+-
+    week: 2
+    date: 2020-01-29
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 2
+    date: 2020-01-31
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+
+
+
+###### Week 3 ######
+-
+    week: 3
+    date: 2020-02-03
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Sampling and quantisation
+    
+-
+    week: 3
+    date: 2020-02-05
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 3
+    date: 2020-02-07
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+
+
+
+###### Week 4 ######
+-
+    week: 4
+    date: 2020-02-10
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Digtial audio format. Reading and writing WAV file
+-
+    week: 4
+    date: 2020-02-12
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic:
+-
+    week: 4
+    date: 2020-02-14
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic:
+
+
+
+###### Week 5 ######
+-
+    week: 5
+    date: 2020-02-17
+    lecturer: Yan Tang
+    type: Lecture
+    slides:    
+    topic: Sound intensity and pressure
+-
+    week: 5
+    date: 2020-02-19
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 5
+    date: 2020-02-21
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+
+
+
+###### Week 6 ######
+-
+    week: 6
+    date: 2020-02-24
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Harmonics and aperiodic singals
+-
+    week: 6
+    date: 2020-02-26
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 6
+    date: 2020-02-28
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+
+
+
+###### Week 7 ######
+-
+    week: 7
+    date: 2020-03-02
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Discrete Fourier Transform and frequency domain
+-
+    week: 7
+    date: 2020-03-04
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 7
+    date: 2020-03-06
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+
+
+
+###### Week 8 ######
+-
+    week: 8
+    date: 2020-03-09
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Spectra over time&#58; Spectrogram
+-
+    week: 8
+    date: 2020-03-11
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 8
+    date: 2020-03-13
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: Mid-term assessment
+  
+
+  
+###### Week 9 ######
+-
+    week: 9
+    date: 2020-03-16
+    lecturer: Yan Tang
+    type: "&nbsp;"
+    slides:
+    topic: Spring break
+-
+    week: 9
+    date: 2020-03-18
+    lecturer: Yan Tang
+    type: 
+    slides:
+    topic: Spring break
+-
+    week: 9
+    date: 2020-03-20
+    lecturer: Yan Tang
+    type: 
+    slides:
+    topic: Spring break
+  
+
+  
+###### Week 10 ######
+-
+    week: 10
+    date: 2020-03-23
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: LTI system and convolution
+-
+    week: 10
+    date: 2020-03-25
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic:
+-
+    week: 10
+    date: 2020-03-27
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic:   
+
+
+
+###### Week 11 ######
+-
+    week: 11
+    date: 2020-03-30
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Digital filtes and filter design
+-
+    week: 11
+    date: 2020-04-01
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 11
+    date: 2020-04-03
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+    
+
+
+###### Week 12 ######
+-
+    week: 12
+    date: 2020-04-06
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Noise and signal-to-noise ratio
+-
+    week: 12
+    date: 2020-04-08
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 12
+    date: 2020-04-10
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+        
+
+
+###### Week 13 ######
+-
+    week: 13
+    date: 2020-04-13
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Speech parameter extraction&#58; Time domain I
+-
+    week: 13
+    date: 2020-04-15
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 13
+    date: 2020-04-17
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+        
+
+
+###### Week 14 ######
+-
+    week: 14
+    date: 2020-04-20
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Speech parameter extraction&#58; Time domain II
+-
+    week: 14
+    date: 2020-04-22
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 14
+    date: 2020-04-24
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+        
+
+
+###### Week 15 ######
+-
+    week: 15
+    date: 2020-04-27
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Speech parameter extraction&#58; Frequency domain I
+-
+    week: 15
+    date: 2020-04-29
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: 
+-
+    week: 15
+    date: 2020-05-01
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: 
+        
+
+
+###### Week 16 ######
+-
+    week: 16
+    date: 2020-05-04
+    lecturer: Yan Tang
+    type: Lecture
+    slides:
+    topic: Speech parameter extraction&#58; Frequency domain II
+-
+    week: 16
+    date: 2020-05-06
+    lecturer: Yan Tang
+    type: Lecture/Discussion
+    slides:
+    topic: Announcment of Final Project
+-
+    week: 16
+    date: 2020-05-08
+    lecturer: Yan Tang
+    type: Reading day
+    slides:
+    topic:  

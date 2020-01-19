@@ -1,10 +1,10 @@
 ---
 layout: course
-img: wave.png
-<!-- img_link: assets/img/wave.png -->
+img: quantum.png
+<!-- img_link: assets/img/quantum.png -->
 url_home: index.html
-txt_home: LING490 DSP
-title: LING490 DSP - Syllabus
+txt_home: LING506 ML
+title: LING506 ML - Syllabus
 active_tab: syllabus 
 ---
 
@@ -33,39 +33,30 @@ active_tab: syllabus
 ## Logistics
 
 #### Course time and venue
-* Lectures and discussion:  **Mondays and Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G46.
-* Lab sessions: **Fridays 10:00-10:50 AM**, Foreign Languages Building, Room G46.
+* Lectures and discussion: **Mondays and Wednesdays 1-1:50 PM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G13.
+* Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty): 
-	* Walk-in: **2:00-3:00 PM Friday**
+* Assistant Professor <a href="https://linguistics.illinois.edu/directory/profile/yty" target="_blank">Yan Tang</a>: 
+	* Walk-in: **3:00-4:00 PM Friday**
 	* By appointment: **10:00-11:00 AM Thursday**
-
-* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) - Office hours: TBA
-
-<!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
 
 #### Recommended text books and references
 
-* *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
+* *Aurélien Géron*, "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, Second Edition", O'Reilly, 2019. 
 
-* *Ben Gold, et al.*, "Speech and Audio Signal Processing: Processing and Perception of Speech and Music, Second Edition", John Wiley & Sons, 2011.
+* *José Unpingco*, "Python for Probability, Statistics, and Machine Learning, Second Edition", Springer, 2019.
 
-* *Paul A. Lynn* and *Wolfgang Fuerst*, "Introductory Digital Signal Processing with Computer Applications, Second Edition", John Wiley, 1998.
-
-* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.8.1/)
+* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.8.1/" target="_blank">Available for free in multiple formats</a>
 
 	This book is the authoritative reference manual for Python 3.
    
-* *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. [Available for free in multiple formats](https://git-scm.com/book/en/v2)
+* *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. <a href="https://git-scm.com/book/en/v2" target="_blank">Available for free in multiple formats</a>
 	
 	As a quick reference for use of git, this book covers most of hands-on commands for common operations on Git.
 
 #### Required tools and software
-* [i>clicker](http://iclicker.illinois.edu/students.aspx)
-
-  This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
@@ -119,18 +110,17 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 ## Grading
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination practical exercises in computer lab, homework assignments, and projects.
+Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination practical exercises in computer lab and homework assignments. Assessments on theories in a written form however will make up a relatively small portion of the final grade.
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, lab exercises and mid-term assessment will make up 50% of the overall grade:
+* Lecture attendance, lab exercises and theory assessments will make up 50% of the overall grade:
 	* Attendance: 10%
-	* Mid-term assessment: 10% 
-	* Lab exercise: 30%
+	* Mid- and End-of-term assessments: 20% 
+	* Lab exercise: 20%
 
-* After-class programming and scripting assignments will make up 50% of the overall grade:
-	* Bi-weekly homework: 30%
-	* Final project: 20%
+* After-class programming and scripting assignments will make up 50% of the overall grade
+
 
  The final letter grade for this course will be converted from the numeric grade using the following table:
 
@@ -174,9 +164,9 @@ There is zero-tolerance to any form of violations.
 
 #### Excused absence
 
-If a student will be absent from class for any reason, the student is expected to inform the course instructor and TA ahead of time should the student wish to receive penalty-free credit:
+If a student will be absent from class for any reason, the student is expected to inform the course instructor ahead of time should the student wish to receive penalty-free credit:
 
-* Each absence must be separately reported ahead of time via a private post on Piazza to the instructor and TA
+* Each absence must be separately reported ahead of time via a private post on Piazza to the instructor
 * Each Piazza post must be filed under the folder "excused-absence"
 * Each Piazza post must list the date of the absence
 * Each Piazza post must list the reason for the absence
@@ -199,7 +189,7 @@ However, it is understood that illness and other extraordinary events do occur f
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Piazza message to the instructor and the TA:
+* Post a private Piazza message to the instructor:
   * The message **must** be filed under the Piazza folder for that homework assignment.
   * The title of the message **must** be "Penalty-free late day (X of 3)", where X is replaced by the number 1, 2, or 3.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.

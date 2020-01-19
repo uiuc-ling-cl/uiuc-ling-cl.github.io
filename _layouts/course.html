@@ -39,15 +39,22 @@
             <span class="icon-bar"></span>
           </button>
           <ul class="nav navbar-nav">
-            <li id="main_page"><a href="index.html" class="navbar-brand">LING 402 — Tools &amp; Techniques for Speech &amp; Language Processing</a></li>
+            <li id="main_page"><a href="https://linguistics.illinois.edu" class="navbar-brand">The Department of Linguistics, UIUC</a></li>
           </ul>
         </div>
         <nav class="collapse navbar-collapse" role="navigation">
           <ul class="nav navbar-nav">
+          	<li id="home"><a href="../index.html">Courses</a></li>
+          	{% if page.url_home %}
+            	<li id="current"><a href="{{ page.url_home }}">{{ page.txt_home }}</a></li>   
+            {% endif %} 
+          	
+          	
             <li id="syllabus"><a href="syllabus.html">Syllabus</a></li>
-            <li id="readings"><a href="schedule.html">Schedule & Readings</a></li>
+            <li id="schedule"><a href="schedule.html">Schedule</a></li>
             <li id="homework">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">Homework<span class="caret"></span></a>
+<!-- 
               <ol class="dropdown-menu">
                 <li><a href="hw_daily.html">Daily HW</a></li>
                  <li><a href="hw00.html">HW00</a></li>
@@ -68,15 +75,30 @@
                 <li><a href="hw14.html">HW14</a></li>
                 <li><a href="FP.html">Final Project</a></li>
               </ol>
+ -->
             </li>
-            <li id="github"><a href="https://github.com/2019-Fall-UIUC-LING402">Github</a></li>
+            <li id="github">
+            {% if page.url_git %}
+            	<a href="{{ page.url_git }}"  target="_blank">Github</a>
+            {% else %}
+            	<a href="https://github.com"  target="_blank">Github</a>        
+            {% endif %} 
+            
+                       
+            </li>
 <!--              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Github<span class="caret"></span></a>
               <ol class="dropdown-menu">
                 <li><a href="https://github.com/2018-Fall-UIUC-LING402A">Section A</a></li>
                 <li><a href="https://github.com/2018-Fall-UIUC-LING402B">Section B</a></li>
               </ol>
             </li>-->
-            <li id="piazza"><a href="https://piazza.com/illinois/fall2019/ling402">Piazza</a></li>
+            <li id="piazza">
+            {% if page.url_git %}
+            	<a href="{{ page.url_piazza }}"  target="_blank">Piazza</a>
+            {% else %}
+            	<a href="https://piazza.com"  target="_blank">Piazza</a>        
+            {% endif %} 
+			</li>
           </ul>
         </nav>
       </div>
@@ -87,7 +109,7 @@
       <div class="row">
         <div class="col-sm-2 hidden-sm hidden-xs">
           {% if page.img_link %}<a href="{{ page.img_link }}">{% endif %} 
-          <img src="assets/img/{{ page.img }}.jpg" class="img-responsive img-rounded" alt="{{ page.caption }}" title="{{ page.img_credit }}"/>
+          <img src="../assets/img/{{ page.img }}" class="img-responsive img-rounded" alt="{{ page.caption }}" title="{{ page.img_credit }}"/>
           {% if page.img_link %}</a>{% endif %} 
           <span class="text-muted"><i>{{ page.caption }}</i></span>
         </div>
@@ -96,11 +118,10 @@
         </div>
       </div>
 
-      <footer class="text-center text-muted">
+      <footer class="text-left text-muted">
         <hr/>
         The theme of this web site is derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.
-        All additions by Lane Schwartz may likewise be reproduced under the Creative Commons Attribution 3.0 Unported License.<br/>  
-<!--	The source code is on <a href="https://github.com/mt-class/uiuc">github<i class="fa fa-github-alt"></i></a>.<br/> -->
+        All additions by Lane Schwartz and Yan Tang may likewise be reproduced under the Creative Commons Attribution 3.0 Unported License.<br/>
         <br/><br/>
       </footer>
     </div>
