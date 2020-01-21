@@ -37,11 +37,12 @@ active_tab: syllabus
 * Lab sessions: **Fridays 10:00-10:50 AM**, Foreign Languages Building, Room G8A.
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty): 
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) at FLB 4023: 
 	* Walk-in: **2:00-3:00 PM Friday**
 	* By appointment: **10:00-11:00 AM Thursday**
 
-* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) - Office hours: TBA
+* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) at FLB 3037: 
+	* ***10:00-11:00 AM Tuesday**
 
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
