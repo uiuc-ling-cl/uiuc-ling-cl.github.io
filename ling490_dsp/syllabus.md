@@ -33,8 +33,8 @@ active_tab: syllabus
 ## Logistics
 
 #### Course time and venue
-* Lectures and discussion:  **Mondays and Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G46.
-* Lab sessions: **Fridays 10:00-10:50 AM**, Foreign Languages Building, Room G46.
+* Lectures and discussion:  **Mondays and Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A.
+* Lab sessions: **Fridays 10:00-10:50 AM**, Foreign Languages Building, Room G8A.
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty): 
