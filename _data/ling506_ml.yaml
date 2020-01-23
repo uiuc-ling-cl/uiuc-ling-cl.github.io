@@ -4,7 +4,7 @@
     date: 2020-01-22
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/DSP_week1.pdf
     topic: Course introduction
 -
     week: 1
