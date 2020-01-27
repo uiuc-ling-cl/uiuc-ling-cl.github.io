@@ -46,6 +46,8 @@ active_tab: syllabus
 
 * *Aurélien Géron*, "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, Second Edition", O'Reilly, 2019. 
 
+* *Sebastian Raschka, Vahid Mirjalili*, "Python Machine Learning, Third Edition", Packt, 2019.
+
 * *José Unpingco*, "Python for Probability, Statistics, and Machine Learning, Second Edition", Springer, 2019.
 
 * *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.8.1/" target="_blank">Available for free in multiple formats</a>
