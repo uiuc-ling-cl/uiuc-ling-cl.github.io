@@ -21,7 +21,7 @@
     date: 2020-01-27
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week02.pdf
     topic: Signal waveform and properties
 -
     week: 2
