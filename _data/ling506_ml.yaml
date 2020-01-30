@@ -21,7 +21,7 @@
     date: 2020-01-27
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/ml_week02.pdf
     topic: Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction
 -
     week: 2
