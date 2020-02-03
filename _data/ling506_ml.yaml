@@ -46,7 +46,7 @@
     date: 2020-02-03
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/ml_week03.pdf
     topic: Clustering using k-means and Gaussian mixture models
     
 -
