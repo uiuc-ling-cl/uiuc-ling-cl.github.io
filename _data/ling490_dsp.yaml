@@ -46,7 +46,7 @@
     date: 2020-02-03
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week03.pdf
     topic: Sampling and quantisation
     
 -
@@ -54,8 +54,8 @@
     date: 2020-02-05
     lecturer: Yan Tang
     type: Lecture/Discussion
-    slides:
-    topic: 
+    slides: shared/dsp_week03-dsc.pdf
+    topic: Make a uniform quantiser
 -
     week: 3
     date: 2020-02-07
