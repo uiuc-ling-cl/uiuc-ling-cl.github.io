@@ -118,7 +118,7 @@ Grades will be assessed on a 100-point scale:
 
 * Lecture attendance, lab exercises and theory assessments will make up 50% of the overall grade:
 	* Attendance: **10%**
-	* Mid- and End-of-term assessments: **120%**
+	* Mid- and End-of-term assessments: **20%**
 	* Lab exercise: **20%**
 
 * After-class programming and scripting assignments will make up **50%** of the overall grade
