@@ -72,7 +72,7 @@
     date: 2020-02-10
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/ml_week04.pdf
     topic: Interpreting clustering and hierarchical clustering 
 -
     week: 4

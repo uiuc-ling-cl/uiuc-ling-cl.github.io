@@ -72,7 +72,7 @@
     date: 2020-02-10
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week04.pdf
     topic: Digtial audio format. Reading and writing WAV file
 -
     week: 4
