@@ -97,7 +97,7 @@
     date: 2020-02-17
     lecturer: Yan Tang
     type: Lecture
-    slides:    
+    slides: shared/ml_week05.pdf
     topic: Building supervised classification models&#58; from data preparation to model evaluation
 -
     week: 5

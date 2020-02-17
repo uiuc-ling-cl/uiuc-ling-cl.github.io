@@ -97,7 +97,7 @@
     date: 2020-02-17
     lecturer: Yan Tang
     type: Lecture
-    slides:    
+    slides: shared/dsp_week05.pdf 
     topic: Sound intensity and pressure
 -
     week: 5
