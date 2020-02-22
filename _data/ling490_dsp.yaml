@@ -123,7 +123,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: Harmonics and aperiodic singals
+    topic: LTI system I - Principles
 -
     week: 6
     date: 2020-02-26
@@ -148,7 +148,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: Discrete Fourier Transform and frequency domain
+    topic: LTI system II - Impulse response and convolution
 -
     week: 7
     date: 2020-03-04
@@ -173,7 +173,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: Spectra over time&#58; Spectrogram
+    topic: Discrete Fourier Transform and frequency domain
 -
     week: 8
     date: 2020-03-11
@@ -223,7 +223,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: LTI system and convolution
+    topic: Spectra over time&#58; Spectrogram
 -
     week: 10
     date: 2020-03-25
