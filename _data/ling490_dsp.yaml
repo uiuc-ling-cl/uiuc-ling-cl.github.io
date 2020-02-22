@@ -36,7 +36,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Generating sine harmonics - sawtooth wave 
 
 
 
@@ -62,7 +62,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Implementing mid-riser and mid-tread uniform quantisers
 
 
 
@@ -87,7 +87,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic:
+    topic: Making the header for WAV file 
 
 
 
@@ -112,8 +112,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
-
+    topic: Using loudness model to measure loudness of puretones on LUFS
 
 
 ###### Week 6 ######
@@ -180,14 +179,14 @@
     lecturer: Yan Tang
     type: Lecture/Discussion
     slides:
-    topic: 
+    topic: Mid-term assessment
 -
     week: 8
     date: 2020-03-13
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Mid-term assessment
+    topic: 
   
 
   
