@@ -122,7 +122,7 @@
     date: 2020-02-24
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/ml_week06.pdf
     topic: Classification using K-nearest neighbours and decision trees
 -
     week: 6

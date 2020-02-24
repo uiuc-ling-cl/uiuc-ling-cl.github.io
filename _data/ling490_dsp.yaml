@@ -121,7 +121,7 @@
     date: 2020-02-24
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week06.pdf 
     topic: LTI system I - Principles
 -
     week: 6
