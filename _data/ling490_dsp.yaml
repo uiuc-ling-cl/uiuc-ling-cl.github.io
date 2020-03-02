@@ -136,7 +136,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Writing a class for simple linear processing
 
 
 
@@ -146,7 +146,7 @@
     date: 2020-03-02
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week07.pdf 
     topic: LTI system II - Impulse response and convolution
 -
     week: 7
