@@ -171,8 +171,8 @@
     date: 2020-03-09
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: Discrete Fourier Transform and frequency domain
+    slides: shared/dsp_week08.pdf 
+    topic: Discrete Fourier Transform and spectrum
 -
     week: 8
     date: 2020-03-11
