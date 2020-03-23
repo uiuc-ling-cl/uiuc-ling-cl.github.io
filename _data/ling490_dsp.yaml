@@ -221,7 +221,7 @@
     date: 2020-03-23
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week0910.pdf 
     topic: Spectra over time&#58; Spectrogram
 -
     week: 10

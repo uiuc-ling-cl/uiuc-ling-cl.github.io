@@ -222,7 +222,7 @@
     date: 2020-03-23
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/ml_week0910.pdf 
     topic: Reducing predictors using feature transformation and feature selection. Ensemble learning
 -
     week: 10
