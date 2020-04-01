@@ -247,8 +247,8 @@
     date: 2020-03-30
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: Building regression models for linear problems
+    slides: shared/ml_week11.pdf 
+    topic: Regression analysis for linear problems
 -
     week: 11
     date: 2020-04-01
