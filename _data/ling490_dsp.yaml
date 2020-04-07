@@ -161,7 +161,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Gammatone filters and frequency components
 
 
 
@@ -186,7 +186,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Fast Fourier Transform on simple sinusoids
   
 
   
@@ -236,7 +236,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic:   
+    topic: Implementing Inverse Discrete Fourier Transform
 
 
 
@@ -261,7 +261,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Implementing band-stop and band-pass filters
     
 
 
