@@ -272,8 +272,8 @@
     date: 2020-04-06
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: SVMs and trees in linear regression
+    slides: shared/ml_week12.pdf 
+    topic: Polynomial regression and Regularised Linear models
 -
     week: 12
     date: 2020-04-08

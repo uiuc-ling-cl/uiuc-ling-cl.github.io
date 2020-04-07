@@ -271,7 +271,7 @@
     date: 2020-04-06
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week12.pdf 
     topic: Digital filtes and filter design II
 -
     week: 12
