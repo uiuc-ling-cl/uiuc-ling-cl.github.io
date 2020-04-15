@@ -296,7 +296,7 @@
     date: 2020-04-13
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week13.pdf 
     topic: Speech parameter extraction&#58; Time domain I
 -
     week: 13

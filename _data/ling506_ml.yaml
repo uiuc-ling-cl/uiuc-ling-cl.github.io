@@ -297,8 +297,8 @@
     date: 2020-04-13
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: Gaussian process regression
+    slides: shared/ml_week13.pdf 
+    topic: Non-parametric regression models
 -
     week: 13
     date: 2020-04-15
