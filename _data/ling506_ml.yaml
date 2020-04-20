@@ -323,7 +323,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides: shared/ml_week14.pdf 
-    topic: Artificial neuron and feed-forard neural networks
+    topic: Artificial neuron and feedforward neural network
 -
     week: 14
     date: 2020-04-22
