@@ -322,8 +322,8 @@
     date: 2020-04-20
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: Creating feed-forward newural networks for regression
+    slides: shared/ml_week14.pdf 
+    topic: Artificial neuron and feed-forard neural networks
 -
     week: 14
     date: 2020-04-22
@@ -348,7 +348,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: Creating feed-forward newural networks for classification
+    topic: 
 -
     week: 15
     date: 2020-04-29
@@ -373,14 +373,15 @@
     lecturer: Yan Tang
     type: Lecture
     slides:
-    topic: Neural network applications&#58; A case study
+    topic:
+#    topic: Neural network applications&#58; A case study
 -
     week: 16
     date: 2020-05-06
     lecturer: Yan Tang
     type: Lecture/Discussion
     slides:
-    topic: End-of-term assessment
+    topic: 
 -
     week: 16
     date: 2020-05-08
