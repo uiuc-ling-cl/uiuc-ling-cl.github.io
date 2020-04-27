@@ -346,7 +346,7 @@
     date: 2020-04-27
     lecturer: Yan Tang
     type: Lecture
-    slides:
+    slides: shared/dsp_week15.pdf 
     topic: Speech parameter extraction&#58; Frequency domain I
 -
     week: 15

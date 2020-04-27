@@ -347,8 +347,8 @@
     date: 2020-04-27
     lecturer: Yan Tang
     type: Lecture
-    slides:
-    topic: 
+    slides: shared/ml_week15.pdf 
+    topic: Fine-tunining artificial neural networkds
 -
     week: 15
     date: 2020-04-29
