@@ -5,7 +5,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides: shared/dsp_week01.pdf
-    topic: Course introduction&#58; from ananlog to digital signal
+    topic: Course introduction&#58; from analog to digital signal
 -
     week: 1
     date: 2020-01-24
@@ -73,7 +73,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides: shared/dsp_week04.pdf
-    topic: Digtial audio format. Reading and writing WAV file
+    topic: Digital audio format. Reading and writing WAV file
 -
     week: 4
     date: 2020-02-12
@@ -247,7 +247,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides: shared/dsp_week11.pdf 
-    topic: Digital filtes and filter design I
+    topic: Digital filters and filter design design I
 -
     week: 11
     date: 2020-04-01
@@ -272,7 +272,7 @@
     lecturer: Yan Tang
     type: Lecture
     slides: shared/dsp_week12.pdf 
-    topic: Digital filtes and filter design II
+    topic: Digital filters and filter design II
 -
     week: 12
     date: 2020-04-08
@@ -286,7 +286,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Vowel synthsis using the source-filter model
         
 
 
@@ -311,7 +311,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Implement signal endpoint detector
         
 
 
@@ -336,7 +336,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Implement F0 estimator using AMDF
         
 
 
@@ -361,7 +361,7 @@
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
+    topic: Calculating CoG and central moment related measures
         
 
 
