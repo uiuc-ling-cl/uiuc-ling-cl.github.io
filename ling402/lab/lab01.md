@@ -1,13 +1,13 @@
 ---
-layout: main
+layout: course_inactive
 img: scribe
 img_link: https://en.wikipedia.org/wiki/Scribe#/media/File:Escribano.jpg
 img_credit: Escribano by Jean Le Tavernier. Public Domain via Wikimedia Commons.
-title: Homework 00
-active_tab: homework
+title: Lab 01
+active_tab: lab
 ---
 
-# Homework 00
+# Lab 00
 
 <!--
 <div class="alert alert-info">
