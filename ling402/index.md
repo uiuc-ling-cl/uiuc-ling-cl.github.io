@@ -1,5 +1,5 @@
 ---
-layout: course
+layout: course_inactive
 img: cl.png
 <!-- img_link: assets/img/neuron.png -->
 url_git: https://github.com/uiuc-ling-cl
