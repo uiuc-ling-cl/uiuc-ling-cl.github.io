@@ -3,7 +3,7 @@ layout: course_inactive
 img: cl.png
 <!-- img_link: assets/img/neuron.png -->
 url_git: https://github.com/uiuc-ling-cl
-title: LING402 - LAB 01
+title: LING402 - LAB01
 active_tab: main_page 
 ---
 
