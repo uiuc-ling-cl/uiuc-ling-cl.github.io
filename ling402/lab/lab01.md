@@ -1,13 +1,13 @@
 ---
 layout: course_inactive
-img: scribe
-img_link: https://en.wikipedia.org/wiki/Scribe#/media/File:Escribano.jpg
-img_credit: Escribano by Jean Le Tavernier. Public Domain via Wikimedia Commons.
-title: Lab 01
-active_tab: lab
+img: cl.png
+<!-- img_link: assets/img/neuron.png -->
+url_git: https://github.com/uiuc-ling-cl
+title: LING402 - LAB 01
+active_tab: main_page 
 ---
 
-# Lab 00
+# Lab 01
 
 <!--
 <div class="alert alert-info">
