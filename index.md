@@ -10,7 +10,8 @@ active_tab: main_page
 <!-- # Computational Linguistics courses currently under offer -->
 <br/>
 
-
+#### [LING 402 - Tools & Techniques for Speech & Language Processing](ling402)
+<br/>
 #### [LING 490 - SPECIAL TOPICS IN LINGUISTICS: Fundamentals of Digital Signal Processing](ling490_dsp)
 <br/>
 #### [LING 506 - TOPICS IN COMPUTATIONAL LINGUISTICS: Introductory Machine Learning](ling506_ml)
