@@ -1,8 +1,10 @@
 ---
-layout: main
-img: hello
-img_link: https://en.wikipedia.org/wiki/List_of_Hello_world_program_examples
-title: Course Information
+layout: course
+img: cl.png
+<!-- img_link: assets/img/neuron.png -->
+url_git: https://github.com/uiuc-ling-cl
+<!-- url_piazza: https://piazza.com/illinois/spring2020/ling506 -->
+title: LING402
 active_tab: main_page 
 ---
 
