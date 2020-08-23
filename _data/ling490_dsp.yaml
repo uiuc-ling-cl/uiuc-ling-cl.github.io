@@ -4,7 +4,7 @@
     date: 2020-01-22
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week01.pdf
+#    slides: shared/dsp_week01.pdf
     topic: Course introduction&#58; from analog to digital signal
 -
     week: 1
@@ -21,7 +21,7 @@
     date: 2020-01-27
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week02.pdf
+#    slides: shared/dsp_week02.pdf
     topic: Signal waveform and properties
 -
     week: 2
@@ -46,7 +46,7 @@
     date: 2020-02-03
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week03.pdf
+#    slides: shared/dsp_week03.pdf
     topic: Sampling and quantisation
     
 -
@@ -54,7 +54,7 @@
     date: 2020-02-05
     lecturer: Yan Tang
     type: Lecture/Discussion
-    slides: shared/dsp_week03-dsc.pdf
+#    slides: shared/dsp_week03-dsc.pdf
     topic: Make a uniform quantiser
 -
     week: 3
@@ -72,7 +72,7 @@
     date: 2020-02-10
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week04.pdf
+#    slides: shared/dsp_week04.pdf
     topic: Digital audio format. Reading and writing WAV file
 -
     week: 4
@@ -97,7 +97,7 @@
     date: 2020-02-17
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week05.pdf 
+#    slides: shared/dsp_week05.pdf 
     topic: Sound intensity and pressure
 -
     week: 5
@@ -121,7 +121,7 @@
     date: 2020-02-24
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week06.pdf 
+#    slides: shared/dsp_week06.pdf 
     topic: LTI system I - Principles
 -
     week: 6
@@ -146,7 +146,7 @@
     date: 2020-03-02
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week07.pdf 
+#    slides: shared/dsp_week07.pdf 
     topic: LTI system II - Impulse response and convolution
 -
     week: 7
@@ -171,7 +171,7 @@
     date: 2020-03-09
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week08.pdf 
+#    slides: shared/dsp_week08.pdf 
     topic: Discrete Fourier Transform and spectrum
 -
     week: 8
@@ -221,7 +221,7 @@
     date: 2020-03-23
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week0910.pdf 
+#    slides: shared/dsp_week0910.pdf 
     topic: Spectra over time&#58; Spectrogram
 -
     week: 10
@@ -246,7 +246,7 @@
     date: 2020-03-30
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week11.pdf 
+#    slides: shared/dsp_week11.pdf 
     topic: Digital filters and filter design design I
 -
     week: 11
@@ -271,7 +271,7 @@
     date: 2020-04-06
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week12.pdf 
+#    slides: shared/dsp_week12.pdf 
     topic: Digital filters and filter design II
 -
     week: 12
@@ -296,7 +296,7 @@
     date: 2020-04-13
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week13.pdf 
+#    slides: shared/dsp_week13.pdf 
     topic: Speech parameter extraction&#58; Time domain I
 -
     week: 13
@@ -321,7 +321,7 @@
     date: 2020-04-20
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week14.pdf 
+#    slides: shared/dsp_week14.pdf 
     topic: Speech parameter extraction&#58; Time domain II
 -
     week: 14
@@ -346,7 +346,7 @@
     date: 2020-04-27
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week15.pdf 
+#    slides: shared/dsp_week15.pdf 
     topic: Speech parameter extraction&#58; Frequency domain I
 -
     week: 15
@@ -371,7 +371,7 @@
     date: 2020-05-04
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/dsp_week16.pdf
+#    slides: shared/dsp_week16.pdf
     topic: Speech parameter extraction&#58; Frequency domain II
 -
     week: 16

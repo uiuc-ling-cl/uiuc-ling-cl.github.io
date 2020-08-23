@@ -4,7 +4,7 @@
     date: 2020-01-22
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week01.pdf
+#    slides: shared/ml_week01.pdf
     topic: Course introduction
 -
     week: 1
@@ -21,7 +21,7 @@
     date: 2020-01-27
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week02.pdf
+#    slides: shared/ml_week02.pdf
     topic: Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction
 -
     week: 2
@@ -46,7 +46,7 @@
     date: 2020-02-03
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week03.pdf
+#    slides: shared/ml_week03.pdf
     topic: Clustering using k-means and Gaussian mixture models
     
 -
@@ -72,7 +72,7 @@
     date: 2020-02-10
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week04.pdf
+#    slides: shared/ml_week04.pdf
     topic: Interpreting clustering and hierarchical clustering 
 -
     week: 4
@@ -97,7 +97,7 @@
     date: 2020-02-17
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week05.pdf
+#    slides: shared/ml_week05.pdf
     topic: Building supervised classification models&#58; from data preparation to model evaluation
 -
     week: 5
@@ -122,7 +122,7 @@
     date: 2020-02-24
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week06.pdf
+#    slides: shared/ml_week06.pdf
     topic: Classification using K-nearest neighbours and decision trees
 -
     week: 6
@@ -172,7 +172,7 @@
     date: 2020-03-09
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week08.pdf
+#    slides: shared/ml_week08.pdf
     topic: Data partition, cross-validation and hyperparameter tuning
 -
     week: 8
@@ -222,7 +222,7 @@
     date: 2020-03-23
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week0910.pdf 
+#    slides: shared/ml_week0910.pdf 
     topic: Reducing predictors using feature transformation and feature selection. Ensemble learning
 -
     week: 10
@@ -247,7 +247,7 @@
     date: 2020-03-30
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week11.pdf 
+#    slides: shared/ml_week11.pdf 
     topic: Regression analysis for linear problems
 -
     week: 11
@@ -272,7 +272,7 @@
     date: 2020-04-06
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week12.pdf 
+#    slides: shared/ml_week12.pdf 
     topic: Polynomial regression and Regularised Linear models
 -
     week: 12
@@ -297,7 +297,7 @@
     date: 2020-04-13
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week13.pdf 
+#    slides: shared/ml_week13.pdf 
     topic: Non-parametric regression models
 -
     week: 13
@@ -322,7 +322,7 @@
     date: 2020-04-20
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week14.pdf 
+#    slides: shared/ml_week14.pdf 
     topic: Artificial neuron and feedforward neural network
 -
     week: 14
@@ -347,7 +347,7 @@
     date: 2020-04-27
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week15.pdf 
+#    slides: shared/ml_week15.pdf 
     topic: Fine-tuning artificial neural networkds
 -
     week: 15
