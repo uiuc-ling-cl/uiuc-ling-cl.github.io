@@ -10,7 +10,7 @@ active_tab: main_page
 # LING402: lab02
 ## Due at 23:59:59 Friday, September 04 2020
 
-Use shell commands and pipe operators to identify the _longest_ Finnish word in the file "ep-00-01.17.fi", and print the length of the word, i.e. the number of characters, to the STDOUT.
+Use shell commands and pipe operators to identify the _longest_ Finnish word in the file **"ep-00-01.17.fi"**, and print the length of the word, i.e. the number of characters, to the STDOUT.
 
 * Save your command to a file called "longest.sh"
 
