@@ -19,7 +19,7 @@ active_tab: main_page
 	* Your code should check the input length, making sure it matches the length of the target word. If the length of input does not match that of the target word, the program should prompt the user for a valid input until it matches.
 
 * Hints:
-	* You might wish examine the format of "words_en" by openning it. After reading in the file, one way to go about it is to save all individual words in one list for easy access
+	* You might wish to examine the format of "words_en" by openning it. After reading in the file, one way to go about it is to save all individual words in one list for easy access
 	* You can use methods from the "random" module to draw word randomly from the word list built above. You need to decide which exact method(s) in this module to use for your purpose.
 	* In order to prompt the number of correct letters in the correct position, you might need to check every character one by one in a guess against the character in the same position in the target word
 	* You need a loop to keep the program running until the user hits the correct answer 
