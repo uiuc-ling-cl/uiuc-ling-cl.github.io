@@ -14,7 +14,7 @@ active_tab: main_page
 
 * Revisit and comprehend Section 1.3 "Document Classification" in Chapter 6 of the NLTK book (Bird et al.)
 
-* Following the template to implement the Python script "classifier.py"
+* Follow the template to implement the Python script "classifier.py"
 
 * Perform document classification on the movie review document mentioned in the above reading
 
