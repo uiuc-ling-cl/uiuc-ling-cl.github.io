@@ -147,7 +147,7 @@
     date: 2020-03-02
     lecturer: Yan Tang
     type: Lecture
-    slides: shared/ml_week07.pdf
+#    slides: shared/ml_week07.pdf
     topic: Classification using naive Bayes and Support Vector Machines
 -
     week: 7
