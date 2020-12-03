@@ -3,7 +3,7 @@ layout: course
 img: neuron.png
 <!-- img_link: assets/img/neuron.png -->
 url_git: https://github.com/uiuc-ling-cl
-url_piazza: https://piazza.com/illinois/spring2020/ling506
+<!-- url_piazza: https://piazza.com/illinois/spring2020/ling506 -->
 title: LING506 ML
 active_tab: main_page 
 ---
