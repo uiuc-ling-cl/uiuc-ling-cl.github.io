@@ -16,4 +16,4 @@ active_tab: main_page
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Schedule](schedule.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
-* <span style="font-family:Papyrus; font-size:1.2em;">[Piazza](https://piazza.com/illinois/spring2020/ling506)</span>
+<!-- * <span style="font-family:Papyrus; font-size:1.2em;">[Piazza](https://piazza.com/illinois/spring2020/ling506)</span> -->
