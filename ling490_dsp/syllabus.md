@@ -63,9 +63,11 @@ active_tab: syllabus
 	As a quick reference for use of git, this book covers most of hands-on commands for common operations on Git.
 
 #### Required tools and software
+<!-- 
 * [i>clicker](http://iclicker.illinois.edu/students.aspx)
 
   This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
+ -->
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
