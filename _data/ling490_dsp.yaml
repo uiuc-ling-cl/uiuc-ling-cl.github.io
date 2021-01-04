@@ -1,363 +1,290 @@
 ###### Week 1 ######
 -
     week: 1
-    date: 2020-01-22
+    date: 2020-01-26
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week01.pdf
     topic: Course introduction&#58; from analog to digital signal
 -
     week: 1
-    date: 2020-01-24
+    date: 2020-01-28
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Python/anaconda installatoin, Github account
+    topic: # Python/anaconda installatoin, Github account
     
     
 ###### Week 2 ######    
 -
     week: 2
-    date: 2020-01-27
+    date: 2020-02-02
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week02.pdf
     topic: Signal waveform and properties
 -
     week: 2
-    date: 2020-01-29
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 2
-    date: 2020-01-31
+    date: 2020-02-04
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Generating sine harmonics - sawtooth wave 
+    topic: # Generating sine harmonics - sawtooth wave 
 
 
 
 ###### Week 3 ######
 -
     week: 3
-    date: 2020-02-03
+    date: 2020-02-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week03.pdf
     topic: Sampling and quantisation
     
+#-
+#    week: 3
+#    date: 2020-02-05
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+##    slides: shared/dsp_week03-dsc.pdf
+#    topic: Make a uniform quantiser
 -
     week: 3
-    date: 2020-02-05
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-#    slides: shared/dsp_week03-dsc.pdf
-    topic: Make a uniform quantiser
--
-    week: 3
-    date: 2020-02-07
+    date: 2020-02-11
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Implementing mid-riser and mid-tread uniform quantisers
+    topic: # Implementing mid-riser and mid-tread uniform quantisers
+
+
+
+###### Week 4 ######
+#-
+#    week: 4
+#    date: 2020-02-10
+#    lecturer: Yan Tang
+#    type: Lecture
+##    slides: shared/dsp_week04.pdf
+#    topic: Digital audio format. Reading and writing WAV file
+#-
+#    week: 4
+#    date: 2020-02-12
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+#    slides:
+#    topic:
+#-
+#    week: 4
+#    date: 2020-02-14
+#    lecturer: Yan Tang
+#    type: Lab session
+#    slides:
+#    topic: Making the header for WAV file 
 
 
 
 ###### Week 4 ######
 -
     week: 4
-    date: 2020-02-10
+    date: 2020-02-16
     lecturer: Yan Tang
     type: Lecture
-#    slides: shared/dsp_week04.pdf
-    topic: Digital audio format. Reading and writing WAV file
+#    slides: shared/dsp_week05.pdf 
+    topic: Sound intensity and pressure
+
 -
     week: 4
-    date: 2020-02-12
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic:
--
-    week: 4
-    date: 2020-02-14
+    date: 2020-02-18
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Making the header for WAV file 
-
+    topic: # Using loudness model to measure loudness of puretones on LUFS
 
 
 ###### Week 5 ######
 -
     week: 5
-    date: 2020-02-17
+    date: 2020-02-23
     lecturer: Yan Tang
     type: Lecture
-#    slides: shared/dsp_week05.pdf 
-    topic: Sound intensity and pressure
+#    slides: shared/dsp_week06.pdf 
+    topic: LTI system I - Principles
+
 -
     week: 5
-    date: 2020-02-19
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 5
-    date: 2020-02-21
+    date: 2020-02-25
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Using loudness model to measure loudness of puretones on LUFS
+    topic: # Writing a class for simple linear processing
+
 
 
 ###### Week 6 ######
 -
     week: 6
-    date: 2020-02-24
+    date: 2020-03-02
     lecturer: Yan Tang
     type: Lecture
-#    slides: shared/dsp_week06.pdf 
-    topic: LTI system I - Principles
+#    slides: shared/dsp_week07.pdf 
+    topic: LTI system II - Impulse response and convolution
+
 -
     week: 6
-    date: 2020-02-26
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 6
-    date: 2020-02-28
+    date: 2020-03-04
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Writing a class for simple linear processing
+    topic: # Gammatone filters and frequency components
 
 
 
 ###### Week 7 ######
 -
     week: 7
-    date: 2020-03-02
-    lecturer: Yan Tang
-    type: Lecture
-#    slides: shared/dsp_week07.pdf 
-    topic: LTI system II - Impulse response and convolution
--
-    week: 7
-    date: 2020-03-04
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 7
-    date: 2020-03-06
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: Gammatone filters and frequency components
-
-
-
-###### Week 8 ######
--
-    week: 8
     date: 2020-03-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week08.pdf 
-    topic: Discrete Fourier Transform and spectrum
+    topic: Discrete Fourier Transform and spectrum (Mid-term asssessment)
+
 -
-    week: 8
+    week: 7
     date: 2020-03-11
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: Mid-term assessment
--
-    week: 8
-    date: 2020-03-13
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Fast Fourier Transform on simple sinusoids
+    topic: # Fast Fourier Transform on simple sinusoids 
   
 
   
-###### Week 9 ######
+###### Week 8 ######
 -
-    week: 9
+    week: 8
     date: 2020-03-16
-    lecturer: Yan Tang
-    type: "&nbsp;"
-    slides:
-    topic: Spring break
--
-    week: 9
-    date: 2020-03-18
-    lecturer: Yan Tang
-    type: 
-    slides:
-    topic: Spring break
--
-    week: 9
-    date: 2020-03-20
-    lecturer: Yan Tang
-    type: 
-    slides:
-    topic: Spring break
-  
-
-  
-###### Week 10 ######
--
-    week: 10
-    date: 2020-03-23
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week0910.pdf 
     topic: Spectra over time&#58; Spectrogram
+
 -
-    week: 10
-    date: 2020-03-25
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic:
--
-    week: 10
-    date: 2020-03-27
+    week: 8
+    date: 2020-03-18
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Implementing Inverse Discrete Fourier Transform
+    topic: # Implementing Inverse Discrete Fourier Transform
+  
 
+
+###### Week 9 ######
+-
+    week: 9
+    date: 2020-03-23
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week11.pdf 
+    topic: Digital filters and filter design design I
+
+-
+    week: 9
+    date: 2020-03-25
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing band-stop and band-pass filters
+    
+
+
+###### Week 10 ######
+-
+    week: 10
+    date: 2020-03-31
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week12.pdf 
+    topic: Digital filters and filter design II
+
+-
+    week: 10
+    date: 2020-04-01
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Vowel synthsis using the source-filter model
+        
 
 
 ###### Week 11 ######
 -
     week: 11
-    date: 2020-03-30
-    lecturer: Yan Tang
-    type: Lecture
-#    slides: shared/dsp_week11.pdf 
-    topic: Digital filters and filter design design I
--
-    week: 11
-    date: 2020-04-01
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 11
-    date: 2020-04-03
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: Implementing band-stop and band-pass filters
-    
-
-
-###### Week 12 ######
--
-    week: 12
     date: 2020-04-06
-    lecturer: Yan Tang
-    type: Lecture
-#    slides: shared/dsp_week12.pdf 
-    topic: Digital filters and filter design II
--
-    week: 12
-    date: 2020-04-08
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 12
-    date: 2020-04-10
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: Vowel synthsis using the source-filter model
-        
-
-
-###### Week 13 ######
--
-    week: 13
-    date: 2020-04-13
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week13.pdf 
     topic: Speech parameter extraction&#58; Time domain I
+
 -
-    week: 13
-    date: 2020-04-15
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 13
-    date: 2020-04-17
+    week: 11
+    date: 2020-04-08
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: Implement signal endpoint detector
+    topic: # Implement signal endpoint detector
+   
+   
+
+###### Week 12 ######
+-
+    week: 12
+    date: 2020-04-13
+    lecturer: Yan Tang
+    type: 
+#    slides: shared/dsp_week14.pdf 
+    topic: Non-instructional day
+
+-
+    week: 12
+    date: 2020-04-15
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
+
+     
+
+###### Week 13 ######
+-
+    week: 13
+    date: 2020-04-20
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week14.pdf 
+    topic: Speech parameter extraction&#58; Time domain II
+
+-
+    week: 13
+    date: 2020-04-22
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
         
 
 
 ###### Week 14 ######
 -
     week: 14
-    date: 2020-04-20
-    lecturer: Yan Tang
-    type: Lecture
-#    slides: shared/dsp_week14.pdf 
-    topic: Speech parameter extraction&#58; Time domain II
--
-    week: 14
-    date: 2020-04-22
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 14
-    date: 2020-04-24
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: Implement F0 estimator using AMDF
-        
-
-
-###### Week 15 ######
--
-    week: 15
     date: 2020-04-27
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week15.pdf 
     topic: Speech parameter extraction&#58; Frequency domain I
+
 -
-    week: 15
-    date: 2020-04-29
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 15
-    date: 2020-05-01
+    week: 14
+    date: 2020-05-29
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -365,24 +292,18 @@
         
 
 
-###### Week 16 ######
+###### Week 15 ######
 -
     week: 16
     date: 2020-05-04
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week16.pdf
-    topic: Speech parameter extraction&#58; Frequency domain II
+    topic: Speech parameter extraction&#58; Frequency domain II <br/> Announcment of Final Project 
+
 -
-    week: 16
+    week: 15
     date: 2020-05-06
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides: 
-    topic: Announcment of Final Project
--
-    week: 16
-    date: 2020-05-08
     lecturer: Yan Tang
     type: Reading day
     slides:
