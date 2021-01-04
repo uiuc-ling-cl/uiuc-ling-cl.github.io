@@ -147,7 +147,7 @@
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week08.pdf 
-    topic: Discrete Fourier Transform and spectrum (Mid-term asssessment)
+    topic: Discrete Fourier Transform and spectrum <br/> Mid-term asssessment
 
 -
     week: 7
@@ -299,7 +299,7 @@
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week16.pdf
-    topic: Speech parameter extraction&#58; Frequency domain II <br/> Announcment of Final Project 
+    topic: Speech parameter extraction&#58; Frequency domain II <br/> Announcment of Final Project <br/> End-term asssessment
 
 -
     week: 15
