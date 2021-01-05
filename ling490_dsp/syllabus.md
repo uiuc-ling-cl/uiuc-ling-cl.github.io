@@ -199,7 +199,7 @@ For some or all lab exercises and homework assignments, reference solutions will
 
 #### Penalty-free late days
 
-However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of three (3) penalty-free late days for which no late penalty will be assessed for lab session tasks and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
+However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of five (5) penalty-free late days for which no late penalty will be assessed for lab session tasks and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 

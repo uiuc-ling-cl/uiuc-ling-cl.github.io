@@ -33,13 +33,20 @@ active_tab: syllabus
 ## Logistics
 
 #### Course time and venue
+<!-- 
 * Lectures and discussion: **Mondays and Wednesdays 1-1:50 PM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G13.
 * Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
+ -->
+
+* Lectures:  **Tuesdays 11:00 AM -12:20 PM**, online via Zoom
+* Lab sessions: **Thursdays 11:00 AM -12:20 PM**, 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street
 
 #### Office hours
-* Assistant Professor <a href="https://linguistics.illinois.edu/directory/profile/yty" target="_blank">Yan Tang</a>: 
+* Assistant Professor <a href="https://linguistics.illinois.edu/directory/profile/yty" target="_blank">Yan Tang</a>: TBA
+<!-- 
 	* Walk-in: **3:00-4:00 PM Friday**
 	* By appointment: **10:00-11:00 AM Thursday**
+ -->
 
 
 #### Recommended text books and references
@@ -88,7 +95,7 @@ active_tab: syllabus
 * Students are responsible for **all** of the material covered in lab session.
 * Students are responsible for **all** of the material covered in homework.
 * Students are responsible for **all** of the material covered in final project.
-* Students are responsible for **all** of the material covered in public Piazza posts. This includes clarifications to homework instructions.
+* Students are responsible for **all** of the material covered in public Campuswise posts. This includes clarifications to homework instructions.
 * Students are responsible for informing the instructs of any issues that they have encountered during the course in a timely manner.
 * Students are responsible for the **originality** of their solutions/code. 
 
@@ -118,10 +125,11 @@ Grades will be assessed on a 100-point scale:
 
 * Lecture attendance, lab exercises and theory assessments will make up 50% of the overall grade:
 	* Attendance: **10%**
-	* Mid- and End-of-term assessments: **20%**
-	* Lab exercise: **20%**
+	* Mid-term assessment: **10%**
+	* End-term assessment: **10%**
+	* Lab exercise: **30%**
 
-* After-class programming and scripting assignments will make up **50%** of the overall grade
+* After-class programming and scripting assignments will make up **40%** of the overall grade
 
 
  The final letter grade for this course will be converted from the numeric grade using the following table:
@@ -145,7 +153,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to post a private message to the instructor on Piazza (filed under the DRES folder) no later than the beginning of the second day of class. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA no later than the beginning of the third week. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is actually requesting for this class.
@@ -168,11 +176,11 @@ There is zero-tolerance to any form of violations.
 
 If a student will be absent from class for any reason, the student is expected to inform the course instructor ahead of time should the student wish to receive penalty-free credit:
 
-* Each absence must be separately reported ahead of time via a private post on Piazza to the instructor
-* Each Piazza post must be filed under the folder "excused-absence"
-* Each Piazza post must list the date of the absence
-* Each Piazza post must list the reason for the absence
-* Each Piazza post must mention whether or not makeup credit is being requested
+* Each absence must be separately reported ahead of time via a private post on Campuswise to the instructor
+* Each Campuswise post must be filed under the folder "excused-absence"
+* Each Campuswise post must list the date of the absence
+* Each Campuswise post must list the reason for the absence
+* Each Campuswise post must mention whether or not makeup credit is being requested
 
 No penalty-free credit will be granted if the procedure is not strictly followed. However, **penalty-free credits from excused absence can be no more than 30% of the total Attendance credits presented above**. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
 
@@ -191,9 +199,9 @@ However, it is understood that illness and other extraordinary events do occur f
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Piazza message to the instructor:
-  * The message **must** be filed under the Piazza folder for that homework assignment.
-  * The title of the message **must** be "Penalty-free late day (X of 3)", where X is replaced by the number 1, 2, or 3.
+* Post a private Campuswise message to the instructor:
+  * The message **must** be filed under the Campuswise category for that homework assignment.
+  * The title of the message **must** be "Penalty-free late day (X of 5)", where X is replaced by the number 1, 2, 3, 4 or 5.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
 * In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
 
@@ -203,4 +211,4 @@ Penalty-free late days cannot be used to extend any deadline beyond the last reg
 
 Penalty-free late days cannot be used to turn in work after the solution has been presented to the students.
 
-Penalty-free late days do not apply to mid-term assessment and final project.
+Penalty-free late days do not apply to mid- and end-term assessment.
