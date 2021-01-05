@@ -1,41 +1,33 @@
 ###### Week 1 ######
 -
     week: 1
-    date: 2020-01-22
+    date: 2021-01-26
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week01.pdf
-    topic: Course introduction
+    topic: <b>Course introduction</b>
 -
     week: 1
-    date: 2020-01-24
+    date: 2021-01-28
     lecturer: Yan Tang
     type: Lab session
-    slides:
-    topic: Python/anaconda installatoin, Github account
+    topic: <b>Python/anaconda installatoin, Github account</b>
     
     
 ###### Week 2 ######    
 -
     week: 2
-    date: 2020-01-27
+    date: 2021-02-02
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week02.pdf
-    topic: Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction
+    topic: <b>Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction</b>
+
 -
     week: 2
-    date: 2020-01-29
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic:
--
-    week: 2
-    date: 2020-01-31
+    date: 2021-02-04
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic: 
 
 
@@ -43,22 +35,15 @@
 ###### Week 3 ######
 -
     week: 3
-    date: 2020-02-03
+    date: 2021-02-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week03.pdf
-    topic: Clustering using k-means and Gaussian mixture models
-    
+    topic: <b>Clustering using k-means and Gaussian mixture models</b>
+
 -
     week: 3
-    date: 2020-02-05
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 3
-    date: 2020-02-07
+    date: 2021-02-11
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -69,24 +54,17 @@
 ###### Week 4 ######
 -
     week: 4
-    date: 2020-02-10
+    date: 2021-02-16
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week04.pdf
-    topic: Interpreting clustering and hierarchical clustering 
+    topic: <b>Interpreting clustering and hierarchical clustering</b> 
+
 -
     week: 4
-    date: 2020-02-12
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic:
--
-    week: 4
-    date: 2020-02-14
+    date: 2021-02-18
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic:
 
 
@@ -94,24 +72,17 @@
 ###### Week 5 ######
 -
     week: 5
-    date: 2020-02-17
+    date: 2021-02-23
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week05.pdf
-    topic: Building supervised classification models&#58; from data preparation to model evaluation
+    topic: <b>Building supervised classification models&#58; from data preparation to model evaluation</b>
+
 -
     week: 5
-    date: 2020-02-19
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 5
-    date: 2020-02-21
+    date: 2021-02-25
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic: 
 
 
@@ -119,21 +90,15 @@
 ###### Week 6 ######
 -
     week: 6
-    date: 2020-02-24
+    date: 2021-03-02
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week06.pdf
-    topic: Classification using K-nearest neighbours and decision trees
+    topic: <b>Classification using K-nearest neighbours and decision trees</b>
+
 -
     week: 6
-    date: 2020-02-26
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 6
-    date: 2020-02-28
+    date: 2021-03-04
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -144,24 +109,17 @@
 ###### Week 7 ######
 -
     week: 7
-    date: 2020-03-02
+    date: 2021-03-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week07.pdf
-    topic: Classification using naive Bayes and Support Vector Machines
+    topic: <b>Classification using naive Bayes and Support Vector Machines</b> <br/>  <span style="color:red;bold">Mid-term asssessment</span>
+
 -
     week: 7
-    date: 2020-03-04
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 7
-    date: 2020-03-06
+    date: 2021-03-11
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic: 
 
 
@@ -169,24 +127,17 @@
 ###### Week 8 ######
 -
     week: 8
-    date: 2020-03-09
+    date: 2021-03-16
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week08.pdf
-    topic: Data partition, cross-validation and hyperparameter tuning
+    topic: <b>Data partition, cross-validation and hyperparameter tuning</b>
+
 -
     week: 8
-    date: 2020-03-11
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: Mid-term assessment
--
-    week: 8
-    date: 2020-03-13
+    date: 2021-03-18
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic: 
   
 
@@ -194,124 +145,90 @@
 ###### Week 9 ######
 -
     week: 9
-    date: 2020-03-16
-    lecturer: Yan Tang
-    type: "&nbsp;"
-    slides:
-    topic: Spring break
--
-    week: 9
-    date: 2020-03-18
-    lecturer: Yan Tang
-    type: 
-    slides:
-    topic: Spring break
--
-    week: 9
-    date: 2020-03-20
-    lecturer: Yan Tang
-    type: 
-    slides:
-    topic: Spring break
-  
-
-  
-###### Week 10 ######
--
-    week: 10
-    date: 2020-03-23
+    date: 2021-03-23
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week0910.pdf 
-    topic: Reducing predictors using feature transformation and feature selection. Ensemble learning
+    topic: <b>Reducing predictors using feature transformation and feature selection. Ensemble learning</b>
+
 -
-    week: 10
-    date: 2020-03-25
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic:
--
-    week: 10
-    date: 2020-03-27
+    week: 9
+    date: 2021-03-25
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic:   
 
+
+
+###### Week 10 ######
+-
+    week: 10
+    date: 2021-03-30
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/ml_week11.pdf 
+    topic: <b>Regression analysis for linear problems</b>
+
+-
+    week: 10
+    date: 2021-04-01
+    lecturer: Yan Tang
+    type: Lab session
+    topic: 
+    
 
 
 ###### Week 11 ######
 -
     week: 11
-    date: 2020-03-30
-    lecturer: Yan Tang
-    type: Lecture
-#    slides: shared/ml_week11.pdf 
-    topic: Regression analysis for linear problems
--
-    week: 11
-    date: 2020-04-01
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 11
-    date: 2020-04-03
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: 
-    
-
-
-###### Week 12 ######
--
-    week: 12
-    date: 2020-04-06
+    date: 2021-04-06
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week12.pdf 
-    topic: Polynomial regression and Regularised Linear models
+    topic: <b>Polynomial regression and Regularised Linear models</b>
+
 -
-    week: 12
-    date: 2020-04-08
+    week: 11
+    date: 2021-04-08
     lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
+    type: Lab session
     topic: 
+        
+        
+        
+###### Week 12 ######
 -
     week: 12
-    date: 2020-04-10
+    date: 2021-04-13
+    lecturer: Yan Tang
+    type: "&nbsp;"
+#    slides: shared/dsp_week14.pdf 
+    topic: Non-instructional day
+
+-
+    week: 12
+    date: 2021-04-15
     lecturer: Yan Tang
     type: Lab session
     slides:
-    topic: 
-        
+    topic: # Implement F0 estimator using AMDF
+
 
 
 ###### Week 13 ######
 -
     week: 13
-    date: 2020-04-13
+    date: 2021-04-20
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week13.pdf 
-    topic: Non-parametric regression models
+    topic: <b>Non-parametric regression models<b>
+
 -
     week: 13
-    date: 2020-04-15
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 13
-    date: 2020-04-17
+    date: 2021-04-22
     lecturer: Yan Tang
     type: Lab session
-    slides:
     topic: 
         
 
@@ -319,21 +236,15 @@
 ###### Week 14 ######
 -
     week: 14
-    date: 2020-04-20
+    date: 2021-04-27
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week14.pdf 
-    topic: Artificial neuron and feedforward neural network
+    topic: <b>Artificial neuron and feedforward neural network</b>
+
 -
     week: 14
-    date: 2020-04-22
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 14
-    date: 2020-04-24
+    date: 2021-04-29
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -344,48 +255,15 @@
 ###### Week 15 ######
 -
     week: 15
-    date: 2020-04-27
+    date: 2021-05-04
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week15.pdf 
-    topic: Fine-tuning artificial neural networkds
+    topic: <b>Fine-tuning artificial neural networkds <br/> <span style="color:red;">End-term asssessment</span></b>
 -
     week: 15
-    date: 2020-04-29
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 15
-    date: 2020-05-01
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: 
-        
-
-
-###### Week 16 ######
--
-    week: 16
-    date: 2020-05-04
-    lecturer: Yan Tang
-    type: Lecture
-    slides:
-    topic:
-#    topic: Neural network applications&#58; A case study
--
-    week: 16
-    date: 2020-05-06
-    lecturer: Yan Tang
-    type: Lecture/Discussion
-    slides:
-    topic: 
--
-    week: 16
-    date: 2020-05-08
+    date: 2021-05-06
     lecturer: Yan Tang
     type: Reading day
-    slides:
-    topic:  
+    topic: 
+        

@@ -1,14 +1,14 @@
 ###### Week 1 ######
 -
     week: 1
-    date: 2020-01-26
+    date: 2021-01-26
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week01.pdf
     topic: <b>Course introduction&#58; from analog to digital signal</b>
 -
     week: 1
-    date: 2020-01-28
+    date: 2021-01-28
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -18,14 +18,14 @@
 ###### Week 2 ######    
 -
     week: 2
-    date: 2020-02-02
+    date: 2021-02-02
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week02.pdf
     topic: <b>Signal waveform and properties</b>
 -
     week: 2
-    date: 2020-02-04
+    date: 2021-02-04
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -36,7 +36,7 @@
 ###### Week 3 ######
 -
     week: 3
-    date: 2020-02-09
+    date: 2021-02-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week03.pdf
@@ -44,14 +44,14 @@
     
 #-
 #    week: 3
-#    date: 2020-02-05
+#    date: 2021-02-05
 #    lecturer: Yan Tang
 #    type: Lecture/Discussion
 ##    slides: shared/dsp_week03-dsc.pdf
 #    topic: Make a uniform quantiser
 -
     week: 3
-    date: 2020-02-11
+    date: 2021-02-11
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -62,21 +62,21 @@
 ###### Week 4 ######
 #-
 #    week: 4
-#    date: 2020-02-10
+#    date: 2021-02-10
 #    lecturer: Yan Tang
 #    type: Lecture
 ##    slides: shared/dsp_week04.pdf
 #    topic: Digital audio format. Reading and writing WAV file
 #-
 #    week: 4
-#    date: 2020-02-12
+#    date: 2021-02-12
 #    lecturer: Yan Tang
 #    type: Lecture/Discussion
 #    slides:
 #    topic:
 #-
 #    week: 4
-#    date: 2020-02-14
+#    date: 2021-02-14
 #    lecturer: Yan Tang
 #    type: Lab session
 #    slides:
@@ -87,7 +87,7 @@
 ###### Week 4 ######
 -
     week: 4
-    date: 2020-02-16
+    date: 2021-02-16
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week05.pdf 
@@ -95,7 +95,7 @@
 
 -
     week: 4
-    date: 2020-02-18
+    date: 2021-02-18
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -105,7 +105,7 @@
 ###### Week 5 ######
 -
     week: 5
-    date: 2020-02-23
+    date: 2021-02-23
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week06.pdf 
@@ -113,7 +113,7 @@
 
 -
     week: 5
-    date: 2020-02-25
+    date: 2021-02-25
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -124,7 +124,7 @@
 ###### Week 6 ######
 -
     week: 6
-    date: 2020-03-02
+    date: 2021-03-02
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week07.pdf 
@@ -132,7 +132,7 @@
 
 -
     week: 6
-    date: 2020-03-04
+    date: 2021-03-04
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -143,7 +143,7 @@
 ###### Week 7 ######
 -
     week: 7
-    date: 2020-03-09
+    date: 2021-03-09
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week08.pdf 
@@ -151,7 +151,7 @@
 
 -
     week: 7
-    date: 2020-03-11
+    date: 2021-03-11
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -162,7 +162,7 @@
 ###### Week 8 ######
 -
     week: 8
-    date: 2020-03-16
+    date: 2021-03-16
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week0910.pdf 
@@ -170,7 +170,7 @@
 
 -
     week: 8
-    date: 2020-03-18
+    date: 2021-03-18
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -181,7 +181,7 @@
 ###### Week 9 ######
 -
     week: 9
-    date: 2020-03-23
+    date: 2021-03-23
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week11.pdf 
@@ -189,7 +189,7 @@
 
 -
     week: 9
-    date: 2020-03-25
+    date: 2021-03-25
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -200,7 +200,7 @@
 ###### Week 10 ######
 -
     week: 10
-    date: 2020-03-31
+    date: 2021-03-30
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week12.pdf 
@@ -208,7 +208,7 @@
 
 -
     week: 10
-    date: 2020-04-01
+    date: 2021-04-01
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -219,7 +219,7 @@
 ###### Week 11 ######
 -
     week: 11
-    date: 2020-04-06
+    date: 2021-04-06
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week13.pdf 
@@ -227,7 +227,7 @@
 
 -
     week: 11
-    date: 2020-04-08
+    date: 2021-04-08
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -238,7 +238,7 @@
 ###### Week 12 ######
 -
     week: 12
-    date: 2020-04-13
+    date: 2021-04-13
     lecturer: Yan Tang
     type: "&nbsp;"
 #    slides: shared/dsp_week14.pdf 
@@ -246,7 +246,7 @@
 
 -
     week: 12
-    date: 2020-04-15
+    date: 2021-04-15
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -257,7 +257,7 @@
 ###### Week 13 ######
 -
     week: 13
-    date: 2020-04-20
+    date: 2021-04-20
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week14.pdf 
@@ -265,7 +265,7 @@
 
 -
     week: 13
-    date: 2020-04-22
+    date: 2021-04-22
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -276,7 +276,7 @@
 ###### Week 14 ######
 -
     week: 14
-    date: 2020-04-27
+    date: 2021-04-27
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week15.pdf 
@@ -284,7 +284,7 @@
 
 -
     week: 14
-    date: 2020-05-29
+    date: 2021-05-29
     lecturer: Yan Tang
     type: Lab session
     slides:
@@ -295,15 +295,15 @@
 ###### Week 15 ######
 -
     week: 15
-    date: 2020-05-04
+    date: 2021-05-04
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/dsp_week16.pdf
-    topic: <b>Speech parameter extraction&#58; Frequency domain II <br/> <span style="color:red;">Final-term asssessment <br/> Announcment of Final Project</span></b>
+    topic: <b>Speech parameter extraction&#58; Frequency domain II <br/> <span style="color:red;">End-term asssessment <br/> Announcment of Final Project</span></b>
 
 -
     week: 15
-    date: 2020-05-06
+    date: 2021-05-06
     lecturer: Yan Tang
     type: Reading day
     slides:
