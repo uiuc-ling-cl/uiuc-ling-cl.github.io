@@ -189,7 +189,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before 12:00:00 the **first** Friday after the lab session takes place. 
+In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. 
 <!-- Any late submission will result in zeros point from that lab session. -->
 
 A Homework assignment is expected to be turned by **23:59:59 the _second_ Saturday** after it is announced. Homework turned in late will be docked 10 percentage points per day late.
