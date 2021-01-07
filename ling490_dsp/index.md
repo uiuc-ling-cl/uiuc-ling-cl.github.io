@@ -3,7 +3,7 @@ layout: course
 img: dsp.png
 <!-- img_link: assets/img/dsp.png -->
 url_git: https://github.com/uiuc-ling-cl
-url_campuswise: https://campuswire.com/p/GDFDBB9B1
+url_campuswire: https://campuswire.com/p/GDFDBB9B1
 title: LING490 DSP
 active_tab: main_page 
 ---
@@ -16,4 +16,4 @@ active_tab: main_page
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Schedule](schedule.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
-* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswise](https://campuswire.com/p/GDFDBB9B1)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/p/GDFDBB9B1)</span>

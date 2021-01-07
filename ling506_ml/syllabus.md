@@ -96,7 +96,7 @@ active_tab: syllabus
 * Students are responsible for **all** of the material covered in lab session.
 * Students are responsible for **all** of the material covered in homework.
 * Students are responsible for **all** of the material covered in final project.
-* Students are responsible for **all** of the material covered in public Campuswise posts. This includes clarifications to homework instructions.
+* Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
 * Students are responsible for informing the instructs of any issues that they have encountered during the course in a timely manner.
 * Students are responsible for the **originality** of their solutions/code. 
 
@@ -177,11 +177,11 @@ There is zero-tolerance to any form of violations.
 
 If a student will be absent from class for any reason, the student is expected to inform the course instructor ahead of time should the student wish to receive penalty-free credit:
 
-* Each absence must be separately reported ahead of time via a private post on Campuswise to the instructor
-* Each Campuswise post must be filed under the folder "excused-absence"
-* Each Campuswise post must list the date of the absence
-* Each Campuswise post must list the reason for the absence
-* Each Campuswise post must mention whether or not makeup credit is being requested
+* Each absence must be separately reported ahead of time via a private post on Campuswire to the instructor
+* Each Campuswire post must be filed under the folder "excused-absence"
+* Each Campuswire post must list the date of the absence
+* Each Campuswire post must list the reason for the absence
+* Each Campuswire post must mention whether or not makeup credit is being requested
 
 No penalty-free credit will be granted if the procedure is not strictly followed. However, **penalty-free credits from excused absence can be no more than 30% of the total Attendance credits presented above**. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
 
@@ -200,8 +200,8 @@ However, it is understood that illness and other extraordinary events do occur f
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Campuswise message to the instructor:
-  * The message **must** be filed under the Campuswise category for that homework assignment.
+* Post a private Campuswire message to the instructor:
+  * The message **must** be filed under the Campuswire category for that homework assignment.
   * The title of the message **must** be "Penalty-free late day (X of 5)", where X is replaced by the number 1, 2, 3, 4 or 5.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
 * In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
