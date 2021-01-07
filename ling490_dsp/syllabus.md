@@ -212,4 +212,4 @@ Penalty-free late days cannot be used to extend any deadline beyond the last reg
 
 Penalty-free late days cannot be used to turn in work after the solution has been presented to the students.
 
-Penalty-free late days do not apply to mid- and end-term assessment, and final project.
+Penalty-free late days do not apply to mid- and end-term assessments, and final project.

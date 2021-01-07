@@ -124,7 +124,7 @@ Students will be assessed on the extent to which they have attained the learning
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, lab exercises and theory assessments will make up 50% of the overall grade:
+* Lecture attendance, lab exercises and theory assessments (via Moodle) will make up 60% of the overall grade:
 	* Attendance: **10%**
 	* Mid-term assessment: **10%**
 	* End-term assessment: **10%**
@@ -154,7 +154,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA no later than the beginning of the third week. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the third week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is actually requesting for this class.
@@ -187,22 +187,20 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before 23:59:59 the day the lab session takes place. Any late submission will result in zeros point from that lab session.
+In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set for that homework in its description when being announced. Lab exercise and homework assignment turned in late will be docked 10 percentage points per day late.
 
-Homework assignments are expected to be turned in on time. Homework turned in late will be docked 10 percentage points per day late.
-
-For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. The solution will typically be presented during the class on Wednesday after the assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
+For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Tuesday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
 
 #### Penalty-free late days
 
-However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of five (5) penalty-free late days for which no late penalty will be assessed for lab session tasks and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
+It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of five (5) penalty-free late days for which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Campuswire message to the instructor:
-  * The message **must** be filed under the Campuswire category for that homework assignment.
-  * The title of the message **must** be "Penalty-free late day (X of 5)", where X is replaced by the number 1, 2, 3, 4 or 5.
+* Post a private Campuswire message to the instructor and the TA:
+  * The message must be filed under the Campuswire category for that homework assignment.
+  * The title of the message must be "Penalty-free late day (X of 5)", where X is replaced by the number 1, 2, 3, 4 or 5.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
 * In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
 
@@ -212,4 +210,4 @@ Penalty-free late days cannot be used to extend any deadline beyond the last reg
 
 Penalty-free late days cannot be used to turn in work after the solution has been presented to the students.
 
-Penalty-free late days do not apply to mid- and end-term assessment.
+Penalty-free late days do not apply to mid- and end-term assessments.
