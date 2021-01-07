@@ -153,7 +153,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the third week**. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the third week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is actually requesting for this class.
@@ -197,7 +197,7 @@ It is understood that illness and other extraordinary events do occur from time 
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Campuswire message to the instructor and the TA:
+* Post a private Campuswire message to the instructor:
   * The message must be filed under the Campuswire category for that homework assignment.
   * The title of the message must be "Penalty-free late day (X of 5)", where X is replaced by the number 1, 2, 3, 4 or 5.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
