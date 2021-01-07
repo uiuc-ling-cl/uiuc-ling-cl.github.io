@@ -95,7 +95,6 @@ active_tab: syllabus
 * Students are responsible for **all** of the material covered in class.
 * Students are responsible for **all** of the material covered in lab session.
 * Students are responsible for **all** of the material covered in homework.
-* Students are responsible for **all** of the material covered in final project.
 * Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
 * Students are responsible for informing the instructs of any issues that they have encountered during the course in a timely manner.
 * Students are responsible for the **originality** of their solutions/code. 
