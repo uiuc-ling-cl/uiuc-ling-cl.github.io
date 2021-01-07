@@ -180,7 +180,7 @@ There is zero-tolerance to any form of violations.
 If a student will be absent from class for any reason, the student is expected to inform the course instructor and the TA ahead of time should the student wish to receive penalty-free credit:
 
 * Each absence must be separately reported ahead of time via a private post on Campuswire to the instructor and TA
-* Each Campuswire post must be filed under the folder "excused-absence"
+* Each Campuswire post must be filed under the folder "Excused absence"
 * Each Campuswire post must list the date of the absence
 * Each Campuswire post must list the reason for the absence
 * Each Campuswire post must mention whether or not makeup credit is being requested
@@ -189,10 +189,10 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before 12:00:00 the **first** Friday after lab session takes place. 
+In-class exercises during a lab session must be turned in before 12:00:00 the **first** Friday after the lab session takes place. 
 <!-- Any late submission will result in zeros point from that lab session. -->
 
-A Homework assignment is expected to be turned by 23:59:59 the **second** Saturday after it is announced. Homework turned in late will be docked 10 percentage points per day late.
+A Homework assignment is expected to be turned by **23:59:59 the __second__ Saturday** after it is announced. Homework turned in late will be docked 10 percentage points per day late.
 
 For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Tuesday after the assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 

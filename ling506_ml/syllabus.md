@@ -178,7 +178,7 @@ There is zero-tolerance to any form of violations.
 If a student will be absent from class for any reason, the student is expected to inform the course instructor ahead of time should the student wish to receive penalty-free credit:
 
 * Each absence must be separately reported ahead of time via a private post on Campuswire to the instructor
-* Each Campuswire post must be filed under the folder "excused-absence"
+* Each Campuswire post must be filed under the folder "Excused absence"
 * Each Campuswire post must list the date of the absence
 * Each Campuswire post must list the reason for the absence
 * Each Campuswire post must mention whether or not makeup credit is being requested
