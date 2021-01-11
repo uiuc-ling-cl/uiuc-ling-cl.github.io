@@ -38,12 +38,12 @@ active_tab: syllabus
 * Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
  -->
 
-* Lectures:  **Tuesdays 11:00 AM -12:20 PM**, online via Zoom
+* Lectures:  **Tuesdays 11:00 AM -12:20 PM**, online via [Zoom](https://illinois.zoom.us/j/88688870062?pwd=MnNMVmxzL3lWM09CdzFNYmNTdFplZz09)
 * Lab sessions: **Thursdays 11:00 AM -12:20 PM**, 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) ~~at FLB 4023~~:
-	* 02:00-03:00 PM Friday
+	* **02:00-03:00 PM Friday**
 	* [Zoom link](https://illinois.zoom.us/j/82305653046?pwd=Y2ZVMWpMWTc1aVREWWs1Nkl3QkFDZz09)
 
 <!-- 
