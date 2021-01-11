@@ -39,9 +39,13 @@ active_tab: syllabus
 * Lab sessions: **Thursdays 2:00-3:20 PM**, 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) at FLB 4023: TBA
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) ~~at FLB 4023~~:
+	* **10:00-11:00 AM Friday**
+	* [Zoom link](https://illinois.zoom.us/j/86910808684?pwd=cWVrTlNzcnMwK1FjdmdFcUR0cDJpUT09)
 
-* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) at FLB 4036: TBA
+* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) ~~at FLB 4036~~:
+	* **10:00-11:00 AM Wednesday**
+	* Zoom link
 
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 

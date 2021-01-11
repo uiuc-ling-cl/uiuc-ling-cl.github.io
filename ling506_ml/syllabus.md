@@ -42,7 +42,9 @@ active_tab: syllabus
 * Lab sessions: **Thursdays 11:00 AM -12:20 PM**, 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street
 
 #### Office hours
-* Assistant Professor <a href="https://linguistics.illinois.edu/directory/profile/yty" target="_blank">Yan Tang</a>: TBA
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) ~~at FLB 4023~~:
+	* 02:00-03:00 PM Friday
+	* [Zoom link](https://illinois.zoom.us/j/82305653046?pwd=Y2ZVMWpMWTc1aVREWWs1Nkl3QkFDZz09)
 
 <!-- 
 	* Walk-in: **3:00-4:00 PM Friday**
