@@ -4,6 +4,7 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
+url_campuswire: https://campuswire.com/p/GD03E1221
 txt_home: LING506 ML
 title: LING506 ML - Syllabus
 active_tab: syllabus 
