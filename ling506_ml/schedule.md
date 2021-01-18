@@ -3,6 +3,7 @@ layout: course
 img: brain.png
 <!-- img_link: assets/img/dsp.png -->
 url_home: index.html
+url_git: https://github.com/uiuc-ling-cl
 txt_home: LING506 ML
 title: LING506 ML - Schedule
 active_tab: schedule

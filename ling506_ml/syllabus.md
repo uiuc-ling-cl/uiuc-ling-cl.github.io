@@ -3,6 +3,7 @@ layout: course
 img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
+url_git: https://github.com/uiuc-ling-cl
 txt_home: LING506 ML
 title: LING506 ML - Syllabus
 active_tab: syllabus 
@@ -39,10 +40,10 @@ active_tab: syllabus
  -->
 
 * Lectures
-	* Time: **Tuesdays 11:00 AM - 12:20 PM**
+	* Time: **11:00 AM - 12:20 PM Tuesdays**
 	* Venue: [Zoom](https://illinois.zoom.us/j/88688870062?pwd=MnNMVmxzL3lWM09CdzFNYmNTdFplZz09)
 * Lab sessions
-	* Time:	**Thursdays 11:00 AM - 12:20 PM**
+	* Time:	**11:00 AM - 12:20 PM Thursdays**
 	* Venue: 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street / [Zoom](https://illinois.zoom.us/j/88688870062?pwd=MnNMVmxzL3lWM09CdzFNYmNTdFplZz09)
 
 #### Office hours

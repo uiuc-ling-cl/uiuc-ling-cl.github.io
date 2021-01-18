@@ -3,6 +3,7 @@ layout: course
 img: sg.png
 <!-- img_link: assets/img/sg.png -->
 url_home: index.html
+url_git: https://github.com/uiuc-ling-cl
 txt_home: LING490 DSP
 title: LING490 DSP - Schedule
 active_tab: schedule

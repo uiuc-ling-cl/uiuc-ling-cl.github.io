@@ -3,6 +3,7 @@ layout: course
 img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
+url_git: https://github.com/uiuc-ling-cl
 txt_home: LING490 DSP
 title: LING490 DSP - Syllabus
 active_tab: syllabus 
@@ -36,10 +37,10 @@ active_tab: syllabus
 <!-- * Lectures:  **Tuesdays 2:00-3:20 PM**, [English Building](http://ada.fs.illinois.edu/0044.html), Room 304. -->
 <!-- * Lectures and discussion:  **Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A. -->
 * Lectures  
-	* Time: **Tuesdays 2:00-3:20 PM**
+	* Time: **2:00-3:20 PM Tuesdays**
 	* Venue: [Zoom](https://illinois.zoom.us/j/83547930178?pwd=QS9kMnltb25ZVWFNWlF6WitCcWN3UT09)
 * Lab sessions
-	* Time: **Thursdays 2:00-3:20 PM**
+	* Time: **2:00-3:20 PM Thursdays**
 	* Venue: 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street / [Zoom](https://illinois.zoom.us/j/83547930178?pwd=QS9kMnltb25ZVWFNWlF6WitCcWN3UT09)
 
 #### Office hours
