@@ -43,6 +43,8 @@ active_tab: schedule
         	{% else %}{{ lecture.topic }}{% endif %}    	
         {% endif %}
       </td>
+      
+      td>{{ lecture.readings }}</td>
     </tr>
     {% endfor %}
 
