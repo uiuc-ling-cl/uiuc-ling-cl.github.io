@@ -58,11 +58,13 @@ active_tab: syllabus
 
 #### Recommended text books and references
 
-* *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
+* *Stuart Rosen* and *Peter Howell*, "Signals and Systems for Speech and Hearing", Academic Press, 1991.
+
+* *Paul A. Lynn* and *Wolfgang Fuerst*, "Introductory Digital Signal Processing with Computer Applications, Second Edition", John Wiley, 1998.
 
 * *Ben Gold, et al.*, "Speech and Audio Signal Processing: Processing and Perception of Speech and Music, Second Edition", John Wiley & Sons, 2011.
 
-* *Paul A. Lynn* and *Wolfgang Fuerst*, "Introductory Digital Signal Processing with Computer Applications, Second Edition", John Wiley, 1998.
+* *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
 
 * *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.8.1/)
 

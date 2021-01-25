@@ -6,7 +6,7 @@
     type: Lecture
 #    slides: shared/dsp_week01.pdf
     topic: <b>Course introduction&#58; from analog to digital signal</b>
-    reading: Lynn and Fuerst, Chapter 1.1
+    readings: Lynn and Fuerst, Chapter 1.1
 -
     week: 1
     date: 2021-01-28
@@ -24,6 +24,8 @@
     type: Lecture
 #    slides: shared/dsp_week02.pdf
     topic: <b>Signal waveform and properties</b>
+    readings: Rosen and Howell, Chapter 2 & 3 
+    
 -
     week: 2
     date: 2021-02-04
@@ -42,6 +44,7 @@
     type: Lecture
 #    slides: shared/dsp_week03.pdf
     topic: <b>Sampling and quantisation</b>
+    readings: Lynn and Fuerst, Chapter 1.2 <br/> Rosen and Howell, Chapter 14
     
 #-
 #    week: 3

@@ -23,6 +23,7 @@ active_tab: schedule
       <th>Date</th>
       <th>Type</th>
       <th>Topic</th>
+      <th>Readings</th>
     </tr>
     {% for lecture in site.data.ling506_ml %}
     <tr>
