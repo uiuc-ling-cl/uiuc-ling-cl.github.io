@@ -139,7 +139,7 @@
     type: Lecture
 #    slides: shared/ml_week08.pdf
     topic: <b>Data partition, cross-validation and hyperparameter tuning</b>
-    Readings: Géron, Chapter 2: Select and Train a Model; Fine-tune Your Model
+    Readings: Géron, Chapter 2&#58 Select and Train a Model; Fine-tune Your Model
 
 -
     week: 8
