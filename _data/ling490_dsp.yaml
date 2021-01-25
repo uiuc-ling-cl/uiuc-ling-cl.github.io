@@ -6,6 +6,7 @@
     type: Lecture
 #    slides: shared/dsp_week01.pdf
     topic: <b>Course introduction&#58; from analog to digital signal</b>
+    reading: Lynn and Fuerst, Chapter 1.1
 -
     week: 1
     date: 2021-01-28

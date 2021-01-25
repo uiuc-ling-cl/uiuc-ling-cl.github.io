@@ -51,7 +51,7 @@ active_tab: syllabus
 
 * Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) ~~at FLB 4036~~:
 	* **10:00-11:00 AM Wednesday**
-	* Zoom link
+	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09)
 
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
