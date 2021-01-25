@@ -275,7 +275,7 @@
     type: Lecture
 #    slides: shared/dsp_week14.pdf 
     topic: <b>Speech parameter extraction&#58; Time domain II</b>
-    readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelatio" target="_blank">Autocorrleation</a>
+    readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelation" target="_blank">Autocorrleation</a>
 
 -
     week: 13
