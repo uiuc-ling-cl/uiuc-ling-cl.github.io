@@ -8,7 +8,7 @@ title: LING446 DSP
 active_tab: main_page 
 ---
 
-## LING 490: Fundamentals for Speech Signal Processing and Analysis
+## LING 446: Fundamentals for Speech Signal Processing and Analysis
 <br/>
 #### This course aims to give an elementary introduction to concepts, principles and algorithms of digital signal processing and speech analysis
 
