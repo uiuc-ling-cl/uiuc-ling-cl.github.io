@@ -14,9 +14,10 @@ active_tab: main_page
 
 Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating  data.
 
-<!-- 
+
 * [Syllabus](syllabus.html)
 * [Schedule & Readings](schedule.html)
+<!-- 
 * [Github](https://github.com/2019-Fall-UIUC-LING402)
 * [Piazza](https://piazza.com/illinois/fall2019/ling402)
  -->
