@@ -5,8 +5,8 @@ img: wave.png
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
 url_campuswire: https://campuswire.com/p/GDFDBB9B1
-txt_home: LING446 DSP
-title: LING446 DSP - Syllabus
+txt_home: LING446
+title: LING446 - Syllabus
 active_tab: syllabus 
 ---
 

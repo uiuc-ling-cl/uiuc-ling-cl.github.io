@@ -12,7 +12,7 @@ active_tab: main_page
 
 #### [LING 402 - Tools & Techniques for Speech & Language Processing](ling402)
 <br/>
-#### [LING 446 - Fundamentals for Speech Signal Processing and Analysis](ling490_dsp)
+#### [LING 446 - Fundamentals for Speech Signal Processing and Analysis](ling446)
 <br/>
 #### [LING 506 - TOPICS IN COMPUTATIONAL LINGUISTICS: Introductory Machine Learning](ling506_ml)
 

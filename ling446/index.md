@@ -4,7 +4,7 @@ img: dsp.png
 <!-- img_link: assets/img/dsp.png -->
 url_git: https://github.com/uiuc-ling-cl
 url_campuswire: https://campuswire.com/p/GDFDBB9B1
-title: LING446 DSP
+title: LING446
 active_tab: main_page 
 ---
 
