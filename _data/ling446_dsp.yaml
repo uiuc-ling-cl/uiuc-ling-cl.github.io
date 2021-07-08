@@ -1,0 +1,326 @@
+###### Week 1 ######
+-
+    week: 1
+    date: 2021-01-26
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week01.pdf
+    topic: <b>Course introduction&#58; from analog to digital signal</b>
+    readings: Lynn and Fuerst, Chapter 1.1
+-
+    week: 1
+    date: 2021-01-28
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Python/anaconda installatoin, Github account
+    
+    
+###### Week 2 ######    
+-
+    week: 2
+    date: 2021-02-02
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week02.pdf
+    topic: <b>Signal waveform and properties</b>
+    readings: Rosen and Howell, Chapter 2 & 3 
+    
+-
+    week: 2
+    date: 2021-02-04
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Generating sine harmonics - sawtooth wave 
+
+
+
+###### Week 3 ######
+-
+    week: 3
+    date: 2021-02-09
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week03.pdf
+    topic: <b>Sampling and quantisation</b>
+    readings: Rosen and Howell, Chapter 14 <br/> Lynn and Fuerst, Chapter 1.2
+    
+#-
+#    week: 3
+#    date: 2021-02-05
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+##    slides: shared/dsp_week03-dsc.pdf
+#    topic: Make a uniform quantiser
+-
+    week: 3
+    date: 2021-02-11
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing mid-riser and mid-tread uniform quantisers
+
+
+
+###### Week 4 ######
+#-
+#    week: 4
+#    date: 2021-02-10
+#    lecturer: Yan Tang
+#    type: Lecture
+##    slides: shared/dsp_week04.pdf
+#    topic: Digital audio format. Reading and writing WAV file
+#-
+#    week: 4
+#    date: 2021-02-12
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+#    slides:
+#    topic:
+#-
+#    week: 4
+#    date: 2021-02-14
+#    lecturer: Yan Tang
+#    type: Lab session
+#    slides:
+#    topic: Making the header for WAV file 
+
+
+
+###### Week 4 ######
+-
+    week: 4
+    date: 2021-02-16
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week05.pdf 
+    topic: <b>Sound intensity and pressure</b>
+    readings: Rosen and Howell, Chapter 3
+
+-
+    week: 4
+    date: 2021-02-18
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Using loudness model to measure loudness of puretones on LUFS
+
+
+###### Week 5 ######
+-
+    week: 5
+    date: 2021-02-23
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week06.pdf 
+    topic: <b>LTI system I - Principles</b>
+    readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
+
+-
+    week: 5
+    date: 2021-02-25
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Writing a class for simple linear processing
+
+
+
+###### Week 6 ######
+-
+    week: 6
+    date: 2021-03-02
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week07.pdf 
+    topic: <b>LTI system II - Impulse response and convolution</b>
+    readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
+
+-
+    week: 6
+    date: 2021-03-04
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Gammatone filters and frequency components
+
+
+
+###### Week 7 ######
+-
+    week: 7
+    date: 2021-03-09
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week08.pdf 
+    topic: <b>Discrete Fourier Transform and spectrum <br/>  <span style="color:red;bold">Mid-term asssessment</span></b>
+    readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
+
+-
+    week: 7
+    date: 2021-03-11
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Fast Fourier Transform on simple sinusoids 
+  
+
+  
+###### Week 8 ######
+-
+    week: 8
+    date: 2021-03-16
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week0910.pdf 
+    topic: <b>Spectra over time&#58; Spectrogram</b>
+    readings: Rosen and Howell, Chapter 11 <br/> Lynn and Fuerst, Chapter 8.2
+    
+-
+    week: 8
+    date: 2021-03-18
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing Inverse Discrete Fourier Transform
+  
+
+
+###### Week 9 ######
+-
+    week: 9
+    date: 2021-03-23
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week11.pdf 
+    topic: <b>Digital filters and filter design I</b>
+    readings: Rosen and Howell, Chapter 6 & 8 <br/> Ben Gold et al., Chapter 7.2
+
+-
+    week: 9
+    date: 2021-03-25
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing band-stop and band-pass filters
+    
+
+
+###### Week 10 ######
+-
+    week: 10
+    date: 2021-03-30
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week12.pdf 
+    topic: <b>Digital filters and filter design II</b>
+    readings: Rosen and Howell, Chapter 10
+
+-
+    week: 10
+    date: 2021-04-01
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Vowel synthsis using the source-filter model
+        
+
+
+###### Week 11 ######
+-
+    week: 11
+    date: 2021-04-06
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week13.pdf 
+    topic: <b>Speech parameter extraction&#58; Time domain I</b>
+    readings: Wiki for <a href="https://en.wikipedia.org/wiki/Zero_crossing" target="_blank">zero-crossing</a> and <a href="https://en.wikipedia.org/wiki/Voice_activity_detection" target="_blank">Voice Activity Detection</a>
+
+-
+    week: 11
+    date: 2021-04-08
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement signal endpoint detector
+   
+   
+
+###### Week 12 ######
+-
+    week: 12
+    date: 2021-04-13
+    lecturer: Yan Tang
+    type: "&nbsp;"
+#    slides: shared/dsp_week14.pdf 
+    topic: Non-instructional day
+    readings:
+
+-
+    week: 12
+    date: 2021-04-15
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
+
+     
+
+###### Week 13 ######
+-
+    week: 13
+    date: 2021-04-20
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week14.pdf 
+    topic: <b>Speech parameter extraction&#58; Time domain II</b>
+    readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelation" target="_blank">Autocorrleation</a>
+
+-
+    week: 13
+    date: 2021-04-22
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
+        
+
+
+###### Week 14 ######
+-
+    week: 14
+    date: 2021-04-27
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week15.pdf 
+    topic: <b>Speech parameter extraction&#58; Frequency domain I</b>
+    readings: Ben Gold et al., Chapter 21 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Spectral_centroid" target="_blank">spectral centroid</a> and <a href="https://en.wikipedia.org/wiki/Linear_predictive_coding" target="_blank">Linear Predictive Coding (LPC)</a>
+
+-
+    week: 14
+    date: 2021-05-29
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Calculating CoG and central moment related measures
+        
+
+
+###### Week 15 ######
+-
+    week: 15
+    date: 2021-05-04
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week16.pdf
+    topic: <b>Speech parameter extraction&#58; Frequency domain II <br/> <span style="color:red;">End-term asssessment <br/> Announcment of Final Project</span></b>
+    readings: Ben Gold et al., Chapter 20 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Cepstrum" target="_blank">Cepstrum analysis</a> and <a href="https://en.wikipedia.org/wiki/Mel-frequency_cepstrum" target="_blank">MFCC</a>
+
+-
+    week: 15
+    date: 2021-05-06
+    lecturer: Yan Tang
+    type: Reading day
+    slides:
+    topic:  
