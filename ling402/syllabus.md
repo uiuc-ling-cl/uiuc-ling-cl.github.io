@@ -147,6 +147,26 @@ Grades will be assessed on a 10-point fixed letter grade system.
 	* Quizzes: 5%
 * Daily homework and reading log will make up approximately 20% of the overall grade.
 
+ The final letter grade for this course will be converted from the numeric grade using the following table:
+
+| Numerical grade		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Letter grade 	|
+| :----:       			|:----:|    :----   	|
+| 98.00 - 100.00      	|      | A+       		|
+| 92.00 - 97.99      	|      | A       		|
+| 90.00 - 91.99     	|      | A-       		|
+| 88.00 - 89.99   		|      | B+       		|
+| 82.00 - 87.99      	|      | B       		|
+| 80.00 - 81.99      	|      | B-       		|
+| 78.00 - 79.99      	|      | C+       		|
+| 72.00 - 77.99      	|      | C       		|
+| 70.00 - 71.99      	|      | C-       		|
+| 68.00 - 69.99      	|      | D+       		|
+| 62.00 - 67.99      	|      | D       		|
+| 60.00 - 61.99     	|      | D-       		|
+| < 60.00		     	|      | F       		|
+
+
+
 ## DRES
 
 If a student has a disability or condition that requires special consideration, the student is expected to post a private message to the instructor on Piazza (filed under the DRES folder) no later than the beginning of the second day of class. The message should:
