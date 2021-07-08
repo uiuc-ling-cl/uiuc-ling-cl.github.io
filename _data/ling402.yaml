@@ -1,8 +1,9 @@
+###### Week 1 ######
 -
    week: 1
    date: 2018-08-28
    title: Overview
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day01.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day01.pdf
    lecturer: Lane Schwartz
    reading:
     -
@@ -13,7 +14,7 @@
    week: 1
    date: 2018-08-30
    title: Introduction to the shell
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day02.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day02.pdf
    lecturer: Lane Schwartz
    reading:
      -
@@ -76,7 +77,7 @@
    week: 2
    date: 2018-09-04
    title: Bash basics
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day03.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day03.pdf
    lecturer: 
    reading:
      -
@@ -160,7 +161,7 @@
    week: 3
    date: 2018-09-11
    title: Day 05
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day05.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day05.pdf
    lecturer: Lane Schwartz
    reading: 
      - 
@@ -200,7 +201,7 @@
    week: 3
    date: 2018-09-13
    title: Day 06
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day06.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day06.pdf
    lecturer: Lane Schwartz
    reading:
      -
@@ -236,7 +237,7 @@
    week: 4
    date: 2018-09-18
    title: Day 07
-   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day07.pdf
+#   slides: https://github.com/2017-Fall-UIUC-LING402/lectures/raw/master/in_class/day07.pdf
    lecturer: Lane Schwartz
    reading:
      -
