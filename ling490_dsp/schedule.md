@@ -25,7 +25,7 @@ active_tab: schedule
       <th>Topic</th>
       <th>Readings</th>
     </tr>
-    {% for lecture in site.data.ling490_dsp %}
+    {% for lecture in site.data.ling446_dsp %}
     <tr>
       <td>
         {% if lecture.type == "Lecture" or lecture.type == "&nbsp;" %}Week {{ lecture.week }}
