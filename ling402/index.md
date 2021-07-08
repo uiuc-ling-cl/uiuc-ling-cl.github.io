@@ -17,7 +17,6 @@ Introduction to aspects of the tools and methods of studies in speech and natura
 
 * [Syllabus](syllabus.html)
 * [Schedule & Readings](schedule.html)
-<!-- 
-* [Github](https://github.com/2019-Fall-UIUC-LING402)
-* [Piazza](https://piazza.com/illinois/fall2019/ling402)
- -->
+
+<!-- * [Github](https://github.com/2019-Fall-UIUC-LING402)
+* [Piazza](https://piazza.com/illinois/fall2019/ling402) -->
