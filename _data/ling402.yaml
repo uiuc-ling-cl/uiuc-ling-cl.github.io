@@ -1,763 +1,326 @@
+###### Week 1 ######
 -
-  week: 1
-  date: 2019-08-27
-  title: Day 01
-  #slides: lecture_slides/day01.pdf
-  lecturer: Chase Adams
-  reading:
-   -
-     author: "Due at 5:00 PM"
-     title: HW00
-     #url: hw00.html
+    week: 1
+    date: 2021-01-26
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week01.pdf
+    topic: <b>Course introduction&#58</b> <br/> <b>Intro to bash and command line tools</b> <br/> <b>Working with the system and managing files</b> <br/> <b>Editing text files using "vi"</b> <br/> <b>Git basics and Github</b>
+    readings: Ramey, Chapter 1 - Introduction <br/> Ramey, Chapter 2 - Definitions <br/>
 -
-  week: 1
-  date: 2019-08-29
-  title: Day 02
-  #slides: lecture_slides/day02.pdf
-  lecturer: Chase Adams
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW01a
-     #url: hw01a.html
-    - 
-      author: Ramey
-      title: Chapter 1 - "Introduction"
-    -
-      author: Ramey
-      title: Chapter 2 - "Definitions"
-    -
-      author: Shotts
-      title: Chapter 1 - "What is the shell?"
-    -
-      author: Shotts
-      title: Chapter 2 - "Navigation"
-    -
-      author: Shotts
-      title: Chapter 3 - "Exploring the system"
-    -
-      author: Shotts
-      title: Chapter 4 - "Manipulating files and directories"
-    -
-      author: Shotts
-      title: Chapter 12 - "A gentle introduction to vi"
-    -
-      author: Shotts
-      title: Chapter 24 - "Writing your first script"
-    -
-      author: Schwartz
-      title: Video Lectures covering cal, date, pwd, exit, mkdir, ls, less, rm, cd, ln file, cp, echo, bash navigation, and relative paths
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5XbOE5TQYZyO7xfEdv8pgb3 
-    -
-      author: Github
-      title: Cloning a repository
-      #url: https://help.github.com/articles/cloning-a-repository
-    -
-      author: Chacon and Straub
-      title: "Chapter 1: Getting Started (with git)"
-      #url: https://git-scm.com/book/en/v2
-    -
-      author: Chacon and Straub
-      title: "Chapter 2: Git basics"
-      #url: https://git-scm.com/book/en/v2
-    -
-      author: Schwartz
-      title: "Video lecture: Practice basic shell commands"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5XhHIYBnZ7T3KJbp7c7ajOT
+    week: 1
+    date: 2021-01-28
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Python/anaconda installatoin, Github account
+    
+    
+###### Week 2 ######    
 -
-  week: 1
-  date: 2019-08-31
-  title: HW01b
-  lecturer: Chase Adams
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW01b
-     #url: hw01b.html
+    week: 2
+    date: 2021-02-02
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week02.pdf
+    topic: <b>Signal waveform and properties</b>
+    readings: Rosen and Howell, Chapter 2 & 3 
+    
 -
-  week: 2
-  date: 2019-09-03
-  title: Day 03
-  #slides: lecture_slides/day03.pdf
-  lecturer: Chase Adams
-  reading:
-    -
-      author: Shotts
-      title: Chapter 6 - "Redirection"
-    -
-      author: Schwartz
-      title: Lecture notes to accompany video lectures
-      #url: https://github.com/2017-Fall-UIUC-LING402/lectures/tree/master/Shotts_ch6
-    -
-      author: Schwartz
-      title: Video Lectures covering standard input, standard output, and standard error streams, as well as redirection
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5U5azdURmcOqNd26c9KKkXd
-    -
-      author: Schwartz
-      title: Video Lectures covering cat, uniq, wc, grep, head, and tail
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5X05aMvr7cE3qCOV7lT8gcm
-    -
-      author: Shotts
-      title: Chapter 7 - "Seeing the world as the shell sees it"
-    -
-      author: Schwartz
-      title: Video lectures covering expansions, substitutions, escaping, and quoting
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5XconOvRwpEX-9zQj-dhY2Y
-    -
-      author: Ramey
-      title: Section 3.1 - "Shell syntax"
-    -
-      author: Ramey
-      title: Section 3.5 - "Shell expansions"
-      optional: true
-    -
-      author: Shotts
-      title: Chapter 19 - "Regular expressions"   
-    -
-      author: Schwartz
-      title: Video lectures covering grep regular expressions
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5VwK8RajTwNzW8v4edsi8hL
-    -
-      author: Schwartz
-      title: "Video lecture: Determining the most frequent words in a corpus using basic shell commands"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5XXg3ht-cPoVjQqzcUCJOwY
+    week: 2
+    date: 2021-02-04
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Generating sine harmonics - sawtooth wave 
+
+
+
+###### Week 3 ######
 -
-  week: 2
-  date: 2019-09-05
-  title: Day 04
-  #slides: lecture_slides/day04.pdf
-  lecturer: Chase Adams
-  reading:
-    -
-      author: Abdar
-      title: git clone add commit push
-      #url: https://youtu.be/L8wU7dW7TKs
-    -
-      author: Shotts
-      title: Chapter 5 - "Working with commands"
-    -
-      author: Bryce
-      title: "Video lectures covering getting help with commands"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5VaSP7WOZhHIF4HDtP12csX
-    -
-      author: Ramey
-      title: Chapter 4 - "Shell builtin commands"
-      optional: true
-    -
-      author: Shotts
-      title: Chapter 20 - "Text processing"
-    -
-      author: Bryce
-      title: "Video lectures covering Chapter 20 content"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5UnV5xvgH4T9y9fNdBmliqv
+    week: 3
+    date: 2021-02-09
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week03.pdf
+    topic: <b>Sampling and quantisation</b>
+    readings: Rosen and Howell, Chapter 14 <br/> Lynn and Fuerst, Chapter 1.2
+    
+#-
+#    week: 3
+#    date: 2021-02-05
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+##    slides: shared/dsp_week03-dsc.pdf
+#    topic: Make a uniform quantiser
 -
-  week: 2
-  date: 2019-09-07
-  title: HW02
-  lecturer: Chase Adams
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW02
-     #url: hw02.html
+    week: 3
+    date: 2021-02-11
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing mid-riser and mid-tread uniform quantisers
+
+
+
+###### Week 4 ######
+#-
+#    week: 4
+#    date: 2021-02-10
+#    lecturer: Yan Tang
+#    type: Lecture
+##    slides: shared/dsp_week04.pdf
+#    topic: Digital audio format. Reading and writing WAV file
+#-
+#    week: 4
+#    date: 2021-02-12
+#    lecturer: Yan Tang
+#    type: Lecture/Discussion
+#    slides:
+#    topic:
+#-
+#    week: 4
+#    date: 2021-02-14
+#    lecturer: Yan Tang
+#    type: Lab session
+#    slides:
+#    topic: Making the header for WAV file 
+
+
+
+###### Week 4 ######
 -
-  week: 3
-  date: 2019-09-10
-  title: Day 05
-  #slides: lecture_slides/day05.pdf
-  lecturer: Lane Schwartz
-  reading: 
-    - 
-      author: Elkner et al
-      title: Chapter 1 - "The way of the program"
-      #url: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
-    -
-      author: Shotts
-      title: Chapter 8 - "Advanced keyboard tricks"
-    -
-      author: Ramey
-      title: Sections 8.1 & 8.2 - "Introduction to Line Editing & Readline Interaction"
-      optional: true 
-    -
-      author: Ramey
-      title: Chapter 9 - "Using History Interactively"
-      optional: true
-    -
-      author: Shotts
-      title: Chapter 9 - "Permissions"
-    -
-      author: Shotts
-      title: Chapter 11 - "The environment"
-    -
-      author: Schwartz
-      title: "Video lecture: Adding a directory to your PATH"
-      #url: https://www.youtube.com/watch?v=2TfAG7MaE0M
-    -
-      author: Bryce
-      title: "Video lectures on programming concepts; bash history, permissions, and environment"
-      #url: https://www.youtube.com/watch?v=pkbrlz-WxJs&list=PLydysiDoFy5UNmI5GOYJSBqvuawdpMNMg
-    -
-      author: Bird et al
-      title: Chapter 0 - "Preface" 
-      #url: http://www.nltk.org/book/ch00.html
--
-  week: 3
-  date: 2019-09-12
-  title: Day 06
-  #slides: lecture_slides/day06.pdf
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 2 - "Variables, expressions, and statements"
-      #url: http://openbookproject.net/thinkcs/python/english3e/variables_expressions_statements.html
-    -
-      author: Shotts
-      title: Chapter 10 - "Processes"  
-    -
-      author: Shotts
-      title: Chapter 25 - "Starting a project"
-    -
-      author: Shotts
-      title: Chapter 26 - "Top-down design"
-    -
-      author: Shotts
-      title: Chapter 27 - "Flow control&#58; Branching with if"
-    -
-      author: Bryce
-      title: "Video lectures on bash and python concepts"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5UR0JVDOYI48Wyzz76kC0bb
--
-  week: 3
-  date: 2019-09-14
-  title: HW03
-  lecturer: Chase Adams
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW03
-     #url: hw03.html
--
-  week: 4
-  date: 2019-09-17
-  title: Day 07
-  #slides: lecture_slides/day07.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 5 - "Conditionals"
-      #url: http://openbookproject.net/thinkcs/python/english3e/conditionals.html  
-    -
-      author: Shotts
-      title: Chapter 28 - "Reading keyboard input"
-    -
-      author: Shotts
-      title: Chapter 29 - "Flow control&#58; Looping with while and until"
-    -
-      author: Shotts
-      title: Chapter 30 - "Troubleshooting"
-    -
-      author: Shotts
-      title: Chapter 31 - "Flow control&#58; Branching with case"
-    -
-      author: Shotts
-      title: Chapter 32 - "Positional parameters"
-    -
-      author: Bryce
-      title: "Video lectures on control flow, troubleshooting, and positional parameters"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5W_doaLmEtxXVBe2Rpwffjr
--
-  week: 4
-  date: 2019-09-19
-  title: Day 08
-  #slides: lecture_slides/day08.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Shotts
-      title: Chapter 17 - "Searching for files"
-    -
-      author: Shotts
-      title: Chapter 33 - "Flow control&#58; Looping with for"
-    -
-      author: Shotts
-      title: Chapter 34 - "Strings and numbers"
-    -
-      author: Shotts
-      title: Chapter 35 - "Arrays"
-    -
-      author: Elkner et al
-      title: Chapter 3 - "Hello, little turtles!"
-      #url: http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html
-    -
-      author: Elkner et al
-      title: Chapter 12 - "Modules"
-      #url: http://openbookproject.net/thinkcs/python/english3e/modules.html
-    -
-      author: Bryce
-      title: "Video lectures on finding files, bash arrays, and python modules"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5WvTenI0nYi8x6iOcOqMBDG 
--
-  week: 4
-  date: 2019-09-21
-  title: HW04
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW04
-     #url: hw04.html
--
-  week: 5
-  date: 2019-09-24
-  title: Day 09
-  #slides: lecture_slides/day09.pdf
-  lecturer: Yan Tang
-  reading: 
-    -
-      author: Elkner et al
-      title: Appendix - "Debugging"
-      #url: http://openbookproject.net/thinkcs/python/english3e/app_a.html  
-    -
-      author: Elkner et al
-      title: Chapter 4 - "Functions"
-      #url: http://openbookproject.net/thinkcs/python/english3e/functions.html  
-    -
-      author: Elkner et al
-      title: Chapter 7 - "Fruitful function"
-      #url: http://openbookproject.net/thinkcs/python/english3e/fruitful_functions.html
-    -
-      author: Python Tutorial
-      title: Chapter 1 - "Whetting Your Appetite"
-      #url: https://docs.python.org/3/tutorial/appetite.html
-    -
-      author: Python Tutorial
-      title: Chapter 2 - "Using the Python Interpreter"
-      #url: https://docs.python.org/3/tutorial/interpreter.html
-    -
-      author: Python Tutorial
-      title: Chapter 3 - "An Informal Introduction to Python"
-      #url: https://docs.python.org/3/tutorial/introduction.html
-    -
-      author: Bryce
-      title: "Videos on Python control flow and programming concepts"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5UO2GPjfnpivzrl93inJp2X
--
-  week: 5
-  date: 2019-09-26
-  title: Day 10
-  #slides: lecture_slides/day10.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Python Tutorial
-      title: Chapter 4 - "More Control Flow Tools"
-      #url: https://docs.python.org/3/tutorial/controlflow.html
-    -
-      author: Elkner et al
-      title: Chapter 8 - "Iteration"
-      #url: http://openbookproject.net/thinkcs/python/english3e/iteration.html
-    -
-      author: Bird et al
-      title: Chapter 1 - "Language processing and Python"
-      #url: http://www.nltk.org/book/ch01.html
--
-  week: 5
-  date: 2019-09-28
-  title: HW05
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW05
--
-  week: 6
-  date: 2019-10-01
-  title: Day 11
-  #slides: lecture_slides/day11.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 8 - "Strings"
-      #url: http://openbookproject.net/thinkcs/python/english3e/strings.html
-    -
-      author: Ramey
-      title: Section 3.5.3 - "Shell Parameter Expansion"
-    -
-      author: Bird et al
-      title: Chapter 2 - "Accessing text corpora and lexical resources"
-      #url: http://www.nltk.org/book/ch02.html
-    -
-      author: Bryce
-      title: "Strings and lists in hangman game"
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5WMnG-xJX0JX03yiE6LI4LG
--
-  week: 6
-  date: 2019-10-03
-  title: Day 12
-  #slides: lecture_slides/day12.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 11 - "Lists"
-      #url: http://openbookproject.net/thinkcs/python/english3e/lists.html
-    -
-      author: Bryce
-      title: Benefits of immutability
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5Wi3PtTp2Lq84c-LSGPouxw
--
-  week: 6
-  date: 2019-10-05
-  title: HW06
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw06.html
-     title: HW06
--
-  week: 7
-  date: 2019-10-08
-  title: Day 13
-  #slides: lecture_slides/day13.pdf
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 13 - "Files"
-      #url: http://openbookproject.net/thinkcs/python/english3e/files.html 
-    -
-      author: Bird et al
-      title: Chapter 3 - "Processing raw text"
-      #url: http://www.nltk.org/book/ch03.html
-    -
-      author: Python Tutorial
-      title: Chapter 7 - "Input and Output"
-      #url: https://docs.python.org/3/tutorial/inputoutput.html
-    -
-      author: Bryce
-      title: Using Python's re module to process text files
-      #url: https://www.youtube.com/playlist?list=PLydysiDoFy5W9pBtjZRRySaJr8CwaGWoW
--
-  week: 7
-  date: 2019-10-10
-  title: Day 14
-  #slides: lecture_slides/day14.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 15 - "Classes and Objects - the Basics"
-      #url: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html 
-    -
-      author: Elkner et al
-      title: Chapter 20 - "Dictionaries"
-      #url: http://openbookproject.net/thinkcs/python/english3e/dictionaries.html 
--
-  week: 7
-  date: 2019-10-12
-  title: HW07
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw07.html
-     title: HW07
--
-  week: 8
-  date: 2019-10-15
-  title: Day 15
-  #slides: lecture_slides/day15.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Bird et al
-      title: Chapter 4 - "Writing structured programs"
-      #url: http://www.nltk.org/book/ch04.html
-    -
-      author: Elkner et al
-      title: Chapter 19 - "Exceptions"
-      #url: http://openbookproject.net/thinkcs/python/english3e/exceptions.html
-    -
-      author: Python Tutorial
-      title: Chapter 7 - "Errors and Exceptions"
-      #url: https://docs.python.org/3/tutorial/errors.html
--
-  week: 8
-  date: 2019-10-17
-  title: Day 16
-  #slides: lecture_slides/day16.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 18 - "Recursion"
-      #url: http://openbookproject.net/thinkcs/python/english3e/recursion.html
--
-  week: 8
-  date: 2019-10-19
-  title: HW08
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw08.html
-     title: HW08
--
-  week: 9
-  date: 2019-10-22
-  title: Day 17
-  #slides: lecture_slides/day17.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Appendix E - "Some Tips, Tricks, and Common Errors"
-      #url: http://openbookproject.net/thinkcs/python/english3e/app_e.html
--
-  week: 9
-  date: 2019-10-24
-  title: Day 18
-  #slides: lecture_slides/day18.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Elkner et al
-      title: Chapter 16 - "Classes and Objects - Digging a Little Deeper"
-      #url: http://openbookproject.net/thinkcs/python/english3e/classes_and_objects_II.html 
-    -
-      author: Bird et al
-      title: Chapter 5 - "Categorizing and tagging words"
-      #url: http://www.nltk.org/book/ch05.html
--
-  week: 9
-  date: 2019-10-26
-  title: HW09
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw09.html
-     title: HW09
--
-  week: 10
-  date: 2019-10-29
-  title: Day 19
-  #slides: lecture_slides/day19.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Python Tutorial
-      title: Chapter 5 - "Data Structures"
-      #url: https://docs.python.org/3/tutorial/datastructures.html
-    -
-      author: Bird et al
-      title: Chapter 6 - "Learning to classify text"
-      #url: http://www.nltk.org/book/ch06.html
--
-  week: 10
-  date: 2019-10-31
-  title: Day 20
-  #slides: lecture_slides/day20.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Python Tutorial
-      title: Chapter 6 - "Modules"
-      #url: https://docs.python.org/3/tutorial/modules.html
-    -
-      author: Python Tutorial
-      title: Chapter 9 - "Classes"
-      #url: https://docs.python.org/3/tutorial/classes.html
--
-  week: 10
-  date: 2019-11-02
-  title: HW10
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW10
-     #url: hw10.html
--
-  week: 11
-  date: 2019-11-05
-  title: Day 21
-  #slides: lecture_slides/day21.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Prandoni and Vetterli
-      title: Chapter 1 - What Is Digital Signal Processing?
-      #url:
--
-  week: 11
-  date: 2019-11-07
-  title: Day 22
-  #slides: lecture_slides/day22.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Ellis
-      title: Section 1 - Resonance
-      #url:
-      
-    -
-      author: Ellis
-      title: Section 2 - Sinusoids
-      #url:
+    week: 4
+    date: 2021-02-16
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week05.pdf 
+    topic: <b>Sound intensity and pressure</b>
+    readings: Rosen and Howell, Chapter 3
 
 -
-  week: 11
-  date: 2019-11-09
-  title: HW11
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW11
-     #url: hw11.html
+    week: 4
+    date: 2021-02-18
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Using loudness model to measure loudness of puretones on LUFS
+
+
+###### Week 5 ######
 -
-  week: 12
-  date: 2019-11-12
-  title: Day 23
-  #slides: lecture_slides/day23.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Ellis
-      title: Section 3 - Linearity
-      #url:
-    - 
-      author: Gelfand
-      title: Section COMBINED WAVES
-      #url:
-    -
-      author: Wikipedia
-      title: Audio file format
-      #url: https://en.wikipedia.org/wiki/Audio_file_format
+    week: 5
+    date: 2021-02-23
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week06.pdf 
+    topic: <b>LTI system I - Principles</b>
+    readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
+
+-
+    week: 5
+    date: 2021-02-25
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Writing a class for simple linear processing
+
+
+
+###### Week 6 ######
+-
+    week: 6
+    date: 2021-03-02
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week07.pdf 
+    topic: <b>LTI system II - Impulse response and convolution</b>
+    readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
+
+-
+    week: 6
+    date: 2021-03-04
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Gammatone filters and frequency components
+
+
+
+###### Week 7 ######
+-
+    week: 7
+    date: 2021-03-09
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week08.pdf 
+    topic: <b>Discrete Fourier Transform and spectrum <br/>  <span style="color:red;bold">Mid-term asssessment</span></b>
+    readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
+
+-
+    week: 7
+    date: 2021-03-11
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Fast Fourier Transform on simple sinusoids 
+  
+
+  
+###### Week 8 ######
+-
+    week: 8
+    date: 2021-03-16
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week0910.pdf 
+    topic: <b>Spectra over time&#58; Spectrogram</b>
+    readings: Rosen and Howell, Chapter 11 <br/> Lynn and Fuerst, Chapter 8.2
+    
+-
+    week: 8
+    date: 2021-03-18
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing Inverse Discrete Fourier Transform
+  
+
+
+###### Week 9 ######
+-
+    week: 9
+    date: 2021-03-23
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week11.pdf 
+    topic: <b>Digital filters and filter design I</b>
+    readings: Rosen and Howell, Chapter 6 & 8 <br/> Ben Gold et al., Chapter 7.2
+
+-
+    week: 9
+    date: 2021-03-25
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implementing band-stop and band-pass filters
+    
+
+
+###### Week 10 ######
+-
+    week: 10
+    date: 2021-03-30
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week12.pdf 
+    topic: <b>Digital filters and filter design II</b>
+    readings: Rosen and Howell, Chapter 10
+
+-
+    week: 10
+    date: 2021-04-01
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Vowel synthsis using the source-filter model
         
+
+
+###### Week 11 ######
 -
-  week: 12
-  date: 2019-11-14
-  title: Day 24
-  #slides: lecture_slides/day24.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Wikipedia
-      title: WAV
-      #url: https://en.wikipedia.org/wiki/WAV
-    -
-      author: Wikipedia
-      title: Pulse-code modulation
-      #url: https://en.wikipedia.org/wiki/Pulse-code_modulation
-      
--
-  week: 12
-  date: 2019-11-16
-  title: HW12
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     title: HW12
-     #url: hw12.html
--
-  week: 13
-  date: 2019-11-19
-  title: Day 25
-  #slides: lecture_slides/day25.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Moore
-      title: 2C - The Measurement of Sound Level
-    -
-      author: Gelfand
-      title: Section - PHYSICAL QUANTITIES
--
-  week: 13
-  date: 2019-11-21
-  title: Day 26
-  #slides: lecture_slides/day26.pdf
-  lecturer: Yan Tang
-  reading:
-    -
-      author: Gelfand
-      title: Section - DECIBEL NOTATION
+    week: 11
+    date: 2021-04-06
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week13.pdf 
+    topic: <b>Speech parameter extraction&#58; Time domain I</b>
+    readings: Wiki for <a href="https://en.wikipedia.org/wiki/Zero_crossing" target="_blank">zero-crossing</a> and <a href="https://en.wikipedia.org/wiki/Voice_activity_detection" target="_blank">Voice Activity Detection</a>
 
 -
-  week: 13
-  date: 2019-11-23
-  title: HW13
-  lecturer: 
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw13.html
-     title: HW13
+    week: 11
+    date: 2021-04-08
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement signal endpoint detector
+   
+   
+
+###### Week 12 ######
 -
-  week: 14
-  date: 2019-11-26
-  title: Thanksgiving Vacation
+    week: 12
+    date: 2021-04-13
+    lecturer: Yan Tang
+    type: "&nbsp;"
+#    slides: shared/dsp_week14.pdf 
+    topic: Non-instructional day
+    readings:
 
 -
-  week: 14
-  date: 2019-11-28
-  title: Thanksgiving Vacation
+    week: 12
+    date: 2021-04-15
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
+
+     
+
+###### Week 13 ######
+-
+    week: 13
+    date: 2021-04-20
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week14.pdf 
+    topic: <b>Speech parameter extraction&#58; Time domain II</b>
+    readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelation" target="_blank">Autocorrleation</a>
 
 -
-  week: 14
-  date: 2019-11-30
-  title: Thanksgiving Vacation
+    week: 13
+    date: 2021-04-22
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Implement F0 estimator using AMDF
+        
+
+
+###### Week 14 ######
 -
-  week: 15
-  date: 2019-12-03
-  title: Day 27
-  lecturer: Yan Tang
-  #slides: lecture_slides/day27.pdf
-  reading:
-    -
-      author: Ellis
-      title: Section 4 - Fourier analysis
-    -
-      author: Gelfand
-      title: Section COMPLEX WAVES
--
-  week: 15
-  date: 2019-12-05
-  title: Day 28
-  lecturer: Yan Tang
-  #slides: lecture_slides/day28.pdf
-  reading:
-    -
-      author: Ellis
-      title: Section 5 - Filters
-    -
-      author: Gelfand
-      title: Section FILTERS
--
-  week: 15
-  date: 2019-12-07
-  title: HW14
-  lecturer: Yan Tang
-  reading:
-    -
-     author: "Due at 11:59 PM"
-     #url: hw14.html
-     title: HW14
--
-  week: 16
-  date: 2019-12-10
-  title: Day 29
-  lecturer: Yan Tang
+    week: 14
+    date: 2021-04-27
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week15.pdf 
+    topic: <b>Speech parameter extraction&#58; Frequency domain I</b>
+    readings: Ben Gold et al., Chapter 21 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Spectral_centroid" target="_blank">spectral centroid</a> and <a href="https://en.wikipedia.org/wiki/Linear_predictive_coding" target="_blank">Linear Predictive Coding (LPC)</a>
 
 -
-  week: 16
-  date: 2019-12-12
-  title: Reading day
-  lecturer: 
+    week: 14
+    date: 2021-05-29
+    lecturer: Yan Tang
+    type: Lab session
+    slides:
+    topic: # Calculating CoG and central moment related measures
+        
+
+
+###### Week 15 ######
+-
+    week: 15
+    date: 2021-05-04
+    lecturer: Yan Tang
+    type: Lecture
+#    slides: shared/dsp_week16.pdf
+    topic: <b>Speech parameter extraction&#58; Frequency domain II <br/> <span style="color:red;">End-term asssessment <br/> Announcment of Final Project</span></b>
+    readings: Ben Gold et al., Chapter 20 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Cepstrum" target="_blank">Cepstrum analysis</a> and <a href="https://en.wikipedia.org/wiki/Mel-frequency_cepstrum" target="_blank">MFCC</a>
+
+-
+    week: 15
+    date: 2021-05-06
+    lecturer: Yan Tang
+    type: Reading day
+    slides:
+    topic:  
