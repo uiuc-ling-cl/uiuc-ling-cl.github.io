@@ -10,7 +10,8 @@
       author: "Due at 5:00 PM"
       title: HW00
       url: hw00.html
- -
+
+-
    week: 1
    date: 2018-08-30
    title: Introduction to the shell
@@ -64,7 +65,8 @@
        author: Schwartz
        title: "Video lecture: Practice basic shell commands"
        url: https://www.youtube.com/playlist?list=PLydysiDoFy5XhHIYBnZ7T3KJbp7c7ajOT
- -
+
+-
    week: 1
    date: 2018-09-01
    title: 
@@ -73,7 +75,8 @@
      -
       author: "Due at 11:59 PM"
       title: HW01b
- -
+
+-
    week: 2
    date: 2018-09-04
    title: Bash basics
