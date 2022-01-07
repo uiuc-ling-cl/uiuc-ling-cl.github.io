@@ -37,21 +37,25 @@ active_tab: syllabus
 #### Course time and venue
 <!-- * Lectures:  **Tuesdays 2:00-3:20 PM**, [English Building](http://ada.fs.illinois.edu/0044.html), Room 304. -->
 <!-- * Lectures and discussion:  **Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A. -->
-* Lectures  
-	* Time: **2:00-3:20 PM Tuesdays**
-	* Venue: [Zoom](https://illinois.zoom.us/j/83547930178?pwd=QS9kMnltb25ZVWFNWlF6WitCcWN3UT09)
-* Lab sessions
-	* Time: **2:00-3:20 PM Thursdays**
-	* Venue: 122 Nevada Computer Lab, 1203 1/2 W. Nevada Street / [Zoom](https://illinois.zoom.us/j/83547930178?pwd=QS9kMnltb25ZVWFNWlF6WitCcWN3UT09)
+* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G17. *(The week w/c Jan 17, 2022 will be online as per the University guidlines)*
+* Time: 
+	* Lectures: **2:00 PM - 3:20 PM Tuesdays**
+	* Lab: **2:00 PM - 3:20 PM Thursdays**
+
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) ~~at FLB 4023~~:
-	* **10:00-11:00 AM Friday**
-	* [Zoom link](https://illinois.zoom.us/j/86910808684?pwd=cWVrTlNzcnMwK1FjdmdFcUR0cDJpUT09)
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
+	* **TBD**
+<!-- 	* [Zoom link](https://illinois.zoom.us/j/86910808684?pwd=cWVrTlNzcnMwK1FjdmdFcUR0cDJpUT09) -->
 
-* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2) ~~at FLB 4036~~:
-	* **10:00-11:00 AM Wednesday**
-	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09)
+	
+* Teaching Assistant [Yinglun Sun](https://linguistics.illinois.edu/directory/profile/yinglun2):
+	* **TBD*
+<!-- 	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09) -->
+	
+* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2):
+	* **TBD**
+<!-- 	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09) -->
 
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
@@ -93,6 +97,7 @@ active_tab: syllabus
 	
 	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted to for grading during the course. 
 	
+	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
 
 
