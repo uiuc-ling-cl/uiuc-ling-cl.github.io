@@ -50,7 +50,7 @@ active_tab: syllabus
 
 	
 * Teaching Assistant [Yinglun Sun](https://linguistics.illinois.edu/directory/profile/yinglun2):
-	* **TBD*
+	* **TBD**
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09) -->
 	
 * Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2):
