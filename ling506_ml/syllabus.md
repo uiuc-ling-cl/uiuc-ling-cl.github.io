@@ -40,14 +40,14 @@ active_tab: syllabus
 * Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
  -->
 
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G13 (The week w/c Jan 17, 2022 will be online as per the University guidlines)
+* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G13. *(The week w/c Jan 17, 2022 will be online as per the University guidlines)*
 * Time: 
-	* Lectures: ***11:00 AM - 12:20 PM Tuesdays**
+	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
 	* Lab: **11:00 AM - 12:20 PM Thursdays**
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) ~~at FLB 4023~~:
-<!-- 	* **02:00-03:00 PM Friday** -->
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
+	* **TBD**
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/82305653046?pwd=Y2ZVMWpMWTc1aVREWWs1Nkl3QkFDZz09) -->
 
 <!-- 
@@ -86,6 +86,7 @@ active_tab: syllabus
 	
 	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted to for grading during the course. 
 	
+	All repositories on Github associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again in next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
 
 
@@ -194,7 +195,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercise and homework assignment turned in late will be docked 10 percentage points per day late.
 
-For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Tuesday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
+For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
 
 #### Penalty-free late days
