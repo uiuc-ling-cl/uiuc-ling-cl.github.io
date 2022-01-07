@@ -86,7 +86,7 @@ active_tab: syllabus
 	
 	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted to for grading during the course. 
 	
-	All repositories on Github associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again in next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
 
 
