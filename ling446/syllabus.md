@@ -37,15 +37,15 @@ active_tab: syllabus
 #### Course time and venue
 <!-- * Lectures:  **Tuesdays 2:00-3:20 PM**, [English Building](http://ada.fs.illinois.edu/0044.html), Room 304. -->
 <!-- * Lectures and discussion:  **Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A. -->
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G17. *(The classes in the w/c Jan 17, 2022 will be online as per the University guidlines)*
+* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G17. *(The classes in the w/c Jan 17, 2022 will be online as per the University guidelines)*
 * Time: 
 	* Lectures: **2:00 PM - 3:20 PM Tuesdays**
 	* Lab: **2:00 PM - 3:20 PM Thursdays**
 
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
-	* **TBD**
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) at FLB 4023:
+	* **Walk-in: **9:15-10:15 AM Friday**
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/86910808684?pwd=cWVrTlNzcnMwK1FjdmdFcUR0cDJpUT09) -->
 
 	
