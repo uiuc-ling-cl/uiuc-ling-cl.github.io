@@ -237,47 +237,46 @@
     
 
 
-####### Week 13 ######
-#-
-#   week: 13
-#   date: 2022-04-12
-#   lecturer: Yan Tang
-#   type: Lecture
-#   #    slides: shared/dsp_week13.pdf 
-#   topic: <b>Speech parameter extraction&#58; Time domain I</b>
-#   readings: Wiki for <a href="https://en.wikipedia.org/wiki/Zero_crossing" target="_blank">zero-crossing</a> and <a href="https://en.wikipedia.org/wiki/Voice_activity_detection" target="_blank">Voice Activity Detection</a>
-#
-#
-#-
-#   week: 13
-#   date: 2022-04-14
-#   lecturer: Yan Tang
-#   type: Lab session
-#   slides:
-#   topic: # Implement signal endpoint detector
-#      
-#
-#
-####### Week 14 ######
-#-
-#   week: 14
-#   date: 2022-04-19
-#   lecturer: Yan Tang
-#   type: Lecture
-#   #    slides: shared/dsp_week14.pdf 
-#   topic: <b>Speech parameter extraction&#58; Time domain II</b>
-#   readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelation" target="_blank">Autocorrleation</a>
-#
-#-
-#   week: 14
-#   date: 2022-04-21
-#   lecturer: Yan Tang
-#   type: Lab session
-#   slides:
-#   topic: # Implement F0 estimator using AMDF
-#      
-#
-#
+###### Week 13 ######
+-
+   week: 13
+   date: 2022-04-12
+   lecturer: Yan Tang
+   type: Lecture
+   #    slides: shared/dsp_week13.pdf 
+   topic: <b>Speech parameter extraction&#58; Time domain I</b>
+   readings: Wiki for <a href="https://en.wikipedia.org/wiki/Zero_crossing" target="_blank">zero-crossing</a> and <a href="https://en.wikipedia.org/wiki/Voice_activity_detection" target="_blank">Voice Activity Detection</a>
+
+-
+   week: 13
+   date: 2022-04-14
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Implement signal endpoint detector
+     
+
+
+###### Week 14 ######
+-
+   week: 14
+   date: 2022-04-19
+   lecturer: Yan Tang
+   type: Lecture
+   #    slides: shared/dsp_week14.pdf 
+   topic: <b>Speech parameter extraction&#58; Time domain II</b>
+   readings: Ben Gold et al., Chapter 31 <br/> Wiki for <a href="https://en.wikipedia.org/wiki/Pitch_detection_algorithm" target="_blank">pitch detection algorithms</a> and <a href="https://en.wikipedia.org/wiki/Autocorrelation" target="_blank">Autocorrleation</a>
+
+-
+   week: 14
+   date: 2022-04-21
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Implement F0 estimator using AMDF
+  
+
+
 ####### Week 15 ######
 #-
 #   week: 15
