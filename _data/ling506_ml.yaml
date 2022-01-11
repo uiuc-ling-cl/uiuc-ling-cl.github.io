@@ -113,45 +113,45 @@
 
 
 
-####### Week 7 ######
-#-
-#    week: 7
-#    date: 2022-03-01
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week07.pdf
-#    topic: <b>Classification using naive Bayes and Support Vector Machines</b> 
-#    readings: Unpingco, Chapter 2.6.6 <br/> Géron, Chapter 5&#58; Linear & nonlinear SVM Classification
-#    
-#
-#-
-#    week: 7
-#    date: 2022-03-03
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#
-#
-#
-####### Week 8 ######
-#-
-#    week: 8
-#    date: 2022-03-08
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week08.pdf
-#    topic: <b>Data partition, cross-validation and hyperparameter tuning</b> <br/> <span style="color:red;bold">Mid-term asssessment</span>
-#    readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
-#
-#-
-#    week: 8
-#    date: 2022-03-10
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#  
-#
-#  
+###### Week 7 ######
+-
+   week: 7
+   date: 2022-03-01
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week07.pdf
+   topic: <b>Classification using naive Bayes and Support Vector Machines</b> 
+   readings: Unpingco, Chapter 2.6.6 <br/> Géron, Chapter 5&#58; Linear & nonlinear SVM Classification
+   
+
+-
+   week: 7
+   date: 2022-03-03
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+
+
+
+###### Week 8 ######
+-
+   week: 8
+   date: 2022-03-08
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week08.pdf
+   topic: <b>Data partition, cross-validation and hyperparameter tuning</b> <br/> <span style="color:red;bold">Mid-term asssessment</span>
+   readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
+
+-
+   week: 8
+   date: 2022-03-10
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+ 
+
+ 
 ####### Week 9 ######
 #-
 #    week: 9
