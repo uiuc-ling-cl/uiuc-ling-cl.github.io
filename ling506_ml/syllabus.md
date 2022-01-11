@@ -11,7 +11,7 @@ active_tab: syllabus
 ---
 
 
-# Syllabus
+# Syllabus - T
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
