@@ -15,104 +15,104 @@
     
   
     
-####### Week 2 ######    
-#-
-#    week: 2
-#    date: 2022-01-25
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week02.pdf
-#    topic: <b>Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction</b>
-#    readings: Géron, Chapter 8&#58; PCA <br/> Unpingco, Chapter 4.10
-#
-#-
-#    week: 2
-#    date: 2022-01-27
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#
-#
-#
-####### Week 3 ######
-#-
-#    week: 3
-#    date: 2022-02-01
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week03.pdf
-#    topic: <b>Clustering using k-means and Gaussian mixture models</b>
-#    readings: Géron, Chapter 9 <br/> Unpingco, Chapter 4.11
-#
-#-
-#    week: 3
-#    date: 2022-02-03
-#    lecturer: Yan Tang
-#    type: Lab session
-#    slides:
-#    topic: 
-#
-#
-#
-####### Week 4 ######
-#-
-#    week: 4
-#    date: 2022-02-08
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week04.pdf
-#    topic: <b>Interpreting clustering and hierarchical clustering</b> 
-#    readings: Géron, Chapter 9
-#
-#-
-#    week: 4
-#    date: 2022-02-10
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic:
-#
-#
-#
-####### Week 5 ######
-#-
-#    week: 5
-#    date: 2022-02-15
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week05.pdf
-#    topic: <b>Building supervised classification models&#58; from data preparation to model evaluation</b>
-#    readings: Géron, Chapter 2 & 3&#58; Performance Measures
-#
-#-
-#    week: 5
-#    date: 2022-02-17
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#
-#
-#
-####### Week 6 ######
-#-
-#    week: 6
-#    date: 2022-02-22
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week06.pdf
-#    topic: <b>Classification using K-nearest neighbours and decision trees</b>
-#    readings: Géron, Chapter 6
-#
-#-
-#    week: 6
-#    date: 2022-02-24
-#    lecturer: Yan Tang
-#    type: Lab session
-#    slides:
-#    topic: 
-#
-#
-#
-#
+###### Week 2 ######    
+-
+   week: 2
+   date: 2022-01-25
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week02.pdf
+   topic: <b>Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction</b>
+   readings: Géron, Chapter 8&#58; PCA <br/> Unpingco, Chapter 4.10
+
+-
+   week: 2
+   date: 2022-01-27
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+
+
+
+###### Week 3 ######
+-
+   week: 3
+   date: 2022-02-01
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week03.pdf
+   topic: <b>Clustering using k-means and Gaussian mixture models</b>
+   readings: Géron, Chapter 9 <br/> Unpingco, Chapter 4.11
+
+-
+   week: 3
+   date: 2022-02-03
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: 
+
+
+
+###### Week 4 ######
+-
+   week: 4
+   date: 2022-02-08
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week04.pdf
+   topic: <b>Interpreting clustering and hierarchical clustering</b> 
+   readings: Géron, Chapter 9
+
+-
+   week: 4
+   date: 2022-02-10
+   lecturer: Yan Tang
+   type: Lab session
+   topic:
+
+
+
+###### Week 5 ######
+-
+   week: 5
+   date: 2022-02-15
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week05.pdf
+   topic: <b>Building supervised classification models&#58; from data preparation to model evaluation</b>
+   readings: Géron, Chapter 2 & 3&#58; Performance Measures
+
+-
+   week: 5
+   date: 2022-02-17
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+
+
+
+###### Week 6 ######
+-
+   week: 6
+   date: 2022-02-22
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week06.pdf
+   topic: <b>Classification using K-nearest neighbours and decision trees</b>
+   readings: Géron, Chapter 6
+
+-
+   week: 6
+   date: 2022-02-24
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: 
+
+
+
+
 ####### Week 7 ######
 #-
 #    week: 7
