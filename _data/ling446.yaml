@@ -196,47 +196,47 @@
 
 
 
-####### Week 11 ######
-#-
-#   week: 11
-#   date: 2022-03-29
-#   lecturer: Yan Tang
-#   type: Lecture
-#   #    slides: shared/dsp_week11.pdf 
-#   topic: <b>Digital filters and filter design I</b>
-#   readings: Rosen and Howell, Chapter 6 & 8 <br/> Ben Gold et al., Chapter 7.2
-#
-#-
-#   week: 11
-#   date: 2022-03-31
-#   lecturer: Yan Tang
-#   type: Lab session
-#   slides:
-#   topic: # Implementing band-stop and band-pass filters
-#
-#  
-#
-####### Week 12 ######
-#-
-#   week: 12
-#   date: 2022-04-05
-#   lecturer: Yan Tang
-#   type: Lecture
-#   #    slides: shared/dsp_week12.pdf 
-#   topic: <b>Digital filters and filter design II</b>
-#   readings: Rosen and Howell, Chapter 10
-#
-#   -
-#   week: 12
-#   date: 2022-04-07
-#   lecturer: Yan Tang
-#   type: Lab session
-#   slides:
-#   topic: # Vowel synthsis using the source-filter model
-#      
-#      
-#
-#
+###### Week 11 ######
+-
+   week: 11
+   date: 2022-03-29
+   lecturer: Yan Tang
+   type: Lecture
+   #    slides: shared/dsp_week11.pdf 
+   topic: <b>Digital filters and filter design I</b>
+   readings: Rosen and Howell, Chapter 6 & 8 <br/> Ben Gold et al., Chapter 7.2
+
+-
+   week: 11
+   date: 2022-03-31
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Implementing band-stop and band-pass filters
+
+ 
+
+###### Week 12 ######
+-
+  week: 12
+  date: 2022-04-05
+  lecturer: Yan Tang
+  type: Lecture
+  #    slides: shared/dsp_week12.pdf 
+  topic: <b>Digital filters and filter design II</b>
+  readings: Rosen and Howell, Chapter 10
+
+  -
+  week: 12
+  date: 2022-04-07
+  lecturer: Yan Tang
+  type: Lab session
+  slides:
+  topic: # Vowel synthsis using the source-filter model
+     
+     
+
+
 ####### Week 13 ######
 #-
 #   week: 13
