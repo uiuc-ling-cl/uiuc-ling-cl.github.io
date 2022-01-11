@@ -29,7 +29,7 @@ active_tab: schedule
     {% if lecture.topic == "SPRING BREAK" %} 
     	<tr style="background-color: #E0F8F1">
     {% else %}	
-    	<tr style="background-color: yellow">
+    	<tr>
     {% endif %}	
     		
       <td>
