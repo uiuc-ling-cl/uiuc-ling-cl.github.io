@@ -156,16 +156,16 @@
 -
   week: 9
   date: 2022-03-08
-  lecturer: 
-  type: 
+  lecturer: "&nbsp;"
+  type: "&nbsp;"
 #    slides: shared/ml_week08.pdf
   topic: SPRING BREAK
 
 -
   week: 9
   date: 2022-03-10
-  lecturer: 
-  type: 
+  lecturer: "&nbsp;"
+  type: "&nbsp;"
   topic:  SPRING BREAK
 
 
@@ -190,115 +190,114 @@
 
 
 
-####### Week 11 ######
-#-
-#    week: 11
-#    date: 2022-03-29
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week11.pdf 
-#    topic: <b>Regression analysis for linear problems</b>
-#    readings: Géron, Chapter 4&#58; Linear Regression, Gradient Descent
-#
-#-
-#    week: 11
-#    date: 2022-03-31
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#    
-#    
-#
-#
-####### Week 12 ######
-#-
-#    week: 12
-#    date: 2022-04-05
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week12.pdf 
-#    topic: <b>Polynomial regression and Regularised Linear models</b>
-#    readings: Géron, Chapter 4&#58 Polynomial Regression, Regularized Linear Models
-#
-#-
-#    week: 12
-#    date: 2022-04-07
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#        
-#        
-#
-#
-####### Week 13 ######
-#-
-#    week: 13
-#    date: 2022-04-12
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week13.pdf 
-#    topic: <b>Non-parametric regression models</b>
-#    readings: Géron, Chapter 5&#58; SVM Regression <br/> Géron, Chapter 6&#58; Regression
-#
-#-
-#    week: 13
-#    date: 2022-04-14
-#    lecturer: Yan Tang
-#    type: Lab session
-#    topic: 
-#        
-#
-#
-####### Week 14 ######
-#-
-#    week: 14
-#    date: 2022-04-19
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week14.pdf 
-#    topic: <b>Artificial neuron and feedforward neural network</b>
-#    readings: Géron, Chapter 10&#58; From Biological to Artificial Neurons
-#
-#-
-#    week: 14
-#    date: 2022-04-21
-#    lecturer: Yan Tang
-#    type: Lab session
-#    slides:
-#    topic: 
-#        
-#
-#
-####### Week 15 ######
-#-
-#    week: 15
-#    date: 2022-04-26
-#    lecturer: Yan Tang
-#    type: Lecture
-##    slides: shared/ml_week15.pdf 
-#    topic: <b>Fine-tuning artificial neural networkds <br/> <span style="color:red;">End-term asssessment</span></b>
-#    readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
-#-
-#    week: 15
-#    date: 2022-04-28
-#    lecturer: Yan Tang
-#    type: Reading day
-#    topic: 
-#        
-#        
-#
-####### Week 16 ######
-#-
-#    week: 16
-#    date: 2022-05-03
-#    lecturer: Yan Tang
-#    type: Lecture
-#    slides:
-#    topic:
-##    topic: Neural network applications&#58; A case study
-#-
-#    week: 16
-#    date: 2022-05-05
-#    lecturer: &nbsp;
-#    type: Reading day
-#    topic:  
+###### Week 11 ######
+-
+   week: 11
+   date: 2022-03-29
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week11.pdf 
+   topic: <b>Regression analysis for linear problems</b>
+   readings: Géron, Chapter 4&#58; Linear Regression, Gradient Descent
+
+-
+   week: 11
+   date: 2022-03-31
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+   
+   
+
+
+###### Week 12 ######
+-
+   week: 12
+   date: 2022-04-05
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week12.pdf 
+   topic: <b>Polynomial regression and Regularised Linear models</b>
+   readings: Géron, Chapter 4&#58 Polynomial Regression, Regularized Linear Models
+
+-
+   week: 12
+   date: 2022-04-07
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+       
+       
+
+
+###### Week 13 ######
+-
+   week: 13
+   date: 2022-04-12
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week13.pdf 
+   topic: <b>Non-parametric regression models</b>
+   readings: Géron, Chapter 5&#58; SVM Regression <br/> Géron, Chapter 6&#58; Regression
+
+-
+   week: 13
+   date: 2022-04-14
+   lecturer: Yan Tang
+   type: Lab session
+   topic: 
+       
+
+
+###### Week 14 ######
+-
+   week: 14
+   date: 2022-04-19
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week14.pdf 
+   topic: <b>Artificial neuron and feedforward neural network</b>
+   readings: Géron, Chapter 10&#58; From Biological to Artificial Neurons
+
+-
+   week: 14
+   date: 2022-04-21
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: 
+       
+
+
+###### Week 15 ######
+-
+   week: 15
+   date: 2022-04-26
+   lecturer: Yan Tang
+   type: Lecture
+#    slides: shared/ml_week15.pdf 
+   topic: <b>Fine-tuning artificial neural networkds <br/> <span style="color:red;">End-term asssessment</span></b>
+   readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
+-
+   week: 15
+   date: 2022-04-28
+   lecturer: Yan Tang
+   type: Reading day
+   topic: 
+       
+       
+
+###### Week 16 ######
+-
+   week: 16
+   date: 2022-05-03
+   lecturer: Yan Tang
+   type: Lecture
+   slides:
+   topic: Neural network applications&#58; A case study
+-
+   week: 16
+   date: 2022-05-05
+   lecturer: "&nbsp;"
+   type: Reading day
+   topic:  
