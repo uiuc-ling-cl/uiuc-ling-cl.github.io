@@ -27,7 +27,7 @@ active_tab: schedule
     </tr>
     {% for lecture in site.data.ling506_ml %}
     {% if lecture.week == 9 %} 
-    	<tr style="backgroundcolor:yellow">
+    	<tr style="background-color:yellow">
     {% else %}	
     	<tr>
     {% endif %}	
