@@ -152,22 +152,22 @@
  
 
  
-###### Week 9 ######
--
-   week: 9
-   date: 2022-03-08
-   lecturer: &nbsp;
-   type: &nbsp;
-#    slides: shared/ml_week08.pdf
-   topic: <i>SPRING BREAK</i>
-
--
-   week: 9
-   date: 2022-03-10
-   lecturer: &nbsp;
-   type: &nbsp;
-   topic:  <i>SPRING BREAK</i>
- 
+####### Week 9 ######
+#-
+#   week: 9
+#   date: 2022-03-08
+#   lecturer: &nbsp;
+#   type: &nbsp;
+##    slides: shared/ml_week08.pdf
+#   topic: <i>SPRING BREAK</i>
+#
+#-
+#   week: 9
+#   date: 2022-03-10
+#   lecturer: &nbsp;
+#   type: &nbsp;
+#   topic:  <i>SPRING BREAK</i>
+# 
 
  
 ###### Week 10 ######
