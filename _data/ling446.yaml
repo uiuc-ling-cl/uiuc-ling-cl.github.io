@@ -216,26 +216,26 @@
 
  
 
-###### Week 12 ######
--
-  week: 12
-  date: 2022-04-05
-  lecturer: Yan Tang
-  type: Lecture
-  #    slides: shared/dsp_week12.pdf 
-  topic: <b>Digital filters and filter design II</b>
-  readings: Rosen and Howell, Chapter 10
-
-  -
-  week: 12
-  date: 2022-04-07
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Vowel synthsis using the source-filter model
-     
-     
-
+####### Week 12 ######
+#-
+#  week: 12
+#  date: 2022-04-05
+#  lecturer: Yan Tang
+#  type: Lecture
+#  #    slides: shared/dsp_week12.pdf 
+#  topic: <b>Digital filters and filter design II</b>
+#  readings: Rosen and Howell, Chapter 10
+#
+#  -
+#  week: 12
+#  date: 2022-04-07
+#  lecturer: Yan Tang
+#  type: Lab session
+#  slides:
+#  topic: # Vowel synthsis using the source-filter model
+#     
+#     
+#
 
 ####### Week 13 ######
 #-
