@@ -48,7 +48,7 @@ active_tab: schedule
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.topic }}</a>
         {% else %}
-        	{% if lecture.topic == "Spring break" %}<em>{{ lecture.topic }}</em>
+        	{% if lecture.topic == "SPRING BREAK" %}<em>{{ lecture.topic }}</em>
         	{% else %}{{ lecture.topic }}{% endif %}    	
         {% endif %}
       </td>
