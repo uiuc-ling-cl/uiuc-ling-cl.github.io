@@ -4,7 +4,7 @@ img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/p/GDFDBB9B1
+url_campuswire: https://campuswire.com/c/G6AF898C5
 txt_home: LING446
 title: LING446 - Syllabus
 active_tab: syllabus 
