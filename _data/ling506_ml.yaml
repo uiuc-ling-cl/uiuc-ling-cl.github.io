@@ -140,7 +140,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week08.pdf
-   topic: <b>Data partition, cross-validation and hyperparameter tuning</b> <br/><br/> <span style="color:red;bold"><u>Mid-term asssessment</u></span>
+   topic: <b>Data partition, cross-validation and hyperparameter tuning <br/><br/> <span style="color:red;bold"><u>Mid-term asssessment</u></span></b>
    readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
 
 -
