@@ -1,36 +1,36 @@
 ###### Week 1 ######
 -
-    week: 1
-    date: 2022-01-18
-    lecturer: Yan Tang
-    type: Lecture
+   week: 1
+   date: 2022-01-18
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week01.pdf
-    topic: <b>Course introduction&#58; from analog to digital signal</b>
-    readings: Lynn and Fuerst, Chapter 1.1
+   topic: <b>Course introduction&#58; from analog to digital signal</b>
+   readings: Lynn and Fuerst, Chapter 1.1
     
 -
-    week: 1
-    date: 2022-01-20
-    lecturer: Yan Tang
-    type: Lab session
-    slides:
-    topic: # Python/anaconda installatoin, Github account
+   week: 1
+   date: 2022-01-20
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Python/anaconda installatoin, Github account
   
   
     
 ###### Week 2 ######    
 -
-  week: 2
-  date: 2022-01-25
-  lecturer: Yan Tang
-  type: Lecture
+   week: 2
+   date: 2022-01-25
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week02.pdf
-  topic: <b>Signal waveform and properties</b>
-  readings: Rosen and Howell, Chapter 2 & 3 
+   topic: <b>Signal waveform and properties</b>
+   readings: Rosen and Howell, Chapter 2 & 3 
   
 -
-  week: 2
-  date: 2022-01-27
+   week: 2
+   date: 2022-01-27
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -40,140 +40,139 @@
 
 ###### Week 3 ######
 -
-  week: 3
-  date: 2022-02-01
-  lecturer: Yan Tang
-  type: Lecture
+   week: 3
+   date: 2022-02-01
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week03.pdf
-  topic: <b>Sampling and quantisation</b>
-  readings: Rosen and Howell, Chapter 14 <br/> Lynn and Fuerst, Chapter 1.2
+   topic: <b>Sampling and quantisation</b>
+   readings: Rosen and Howell, Chapter 14 <br/> Lynn and Fuerst, Chapter 1.2
 
 -
-  week: 3
-  date: 2022-02-03
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Implementing mid-riser and mid-tread uniform quantisers
+   week: 3
+   date: 2022-02-03
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Implementing mid-riser and mid-tread uniform quantisers
 
 
 
 ###### Week 4 ######
 -
-  week: 4
-  date: 2022-02-08
-  lecturer: Yan Tang
-  type: Lecture
+   week: 4
+   date: 2022-02-08
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week04.pdf
-  topic: Digital audio format. Reading and writing WAV file
+   topic: Digital audio format. Reading and writing WAV file
 
 -
-  week: 4
-  date: 2022-02-10
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: #Making the header for WAV file 
+   week: 4
+   date: 2022-02-10
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: #Making the header for WAV file 
 
 
 
 ###### Week 5 ######
 -
-  week: 5
-  date: 2022-02-15
-  lecturer: Yan Tang
-  type: Lecture
+   week: 5
+   date: 2022-02-15
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week05.pdf 
-  topic: <b>Sound intensity and pressure</b>
-  readings: Rosen and Howell, Chapter 3
+   topic: <b>Sound intensity and pressure</b>
+   readings: Rosen and Howell, Chapter 3
 
 -
-  week: 5
-  date: 2022-02-17
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Using loudness model to measure loudness of puretones on LUFS
+   week: 5
+   date: 2022-02-17
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Using loudness model to measure loudness of puretones on LUFS
 
 
 
 ###### Week 6 ######
 -
-  week: 6
-  date: 2022-02-22
-  lecturer: Yan Tang
-  type: Lecture
+   week: 6
+   date: 2022-02-22
+   lecturer: Yan Tang
+   type: Lecture
 #    slides: shared/dsp_week06.pdf 
-  topic: <b>LTI system I - Principles</b>
-  readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
+   topic: <b>LTI system I - Principles</b>
+   readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
 
 -
-  week: 6
-  date: 2022-02-24
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Writing a class for simple linear processing
+   week: 6
+   date: 2022-02-24
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Writing a class for simple linear processing
 
 
 
 
 ###### Week 7 ######
 -
-  week: 7
-  date: 2022-03-01
-  lecturer: Yan Tang
-  type: Lecture
-#    slides: shared/dsp_week07.pdf 
-  topic: <b>LTI system II - Impulse response and convolution</b>
-  readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
+   week: 7
+   date: 2022-03-01
+   lecturer: Yan Tang
+   type: Lecture
+   #    slides: shared/dsp_week07.pdf 
+   topic: <b>LTI system II - Impulse response and convolution</b>
+   readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
   
-
 -
-  week: 7
-  date: 2022-03-03
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Gammatone filters and frequency components
+   week: 7
+   date: 2022-03-03
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Gammatone filters and frequency components
 
 
 
 ###### Week 8 ######
 -
-  week: 8
-  date: 2022-03-08
-  lecturer: Yan Tang
-  type: Lecture
-#    slides: shared/dsp_week08.pdf 
-  topic: <b>Discrete Fourier Transform and spectrum <br/><br/>  <span style="color:red;bold"><u>Mid-term asssessment</u></span></b>
-  readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
+   week: 8
+   date: 2022-03-08
+   lecturer: Yan Tang
+   type: Lecture
+   #    slides: shared/dsp_week08.pdf 
+   topic: <b>Discrete Fourier Transform and spectrum <br/><br/>  <span style="color:red;bold"><u>Mid-term asssessment</u></span></b>
+   readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
 
 -
-  week: 8
-  date: 2022-03-10
-  lecturer: Yan Tang
-  type: Lab session
-  slides:
-  topic: # Fast Fourier Transform on simple sinusoids 
+   week: 8
+   date: 2022-03-10
+   lecturer: Yan Tang
+   type: Lab session
+   slides:
+   topic: # Fast Fourier Transform on simple sinusoids 
 
 
 
 ###### Week 9 ######
 -
- week: 9
- date: 2022-03-08
- lecturer: "&nbsp;"
- type: "&nbsp;"
-#    slides: shared/ml_week08.pdf
- topic: SPRING BREAK
+   week: 9
+   date: 2022-03-08
+   lecturer: "&nbsp;"
+   type: "&nbsp;"
+   #    slides: shared/ml_week08.pdf
+   topic: SPRING BREAK
 
 -
- week: 9
- date: 2022-03-10
- lecturer: "&nbsp;"
- type: 
- topic: SPRING BREAK
+   week: 9
+   date: 2022-03-10
+   lecturer: "&nbsp;"
+   type: 
+   topic: SPRING BREAK
 
 
 
