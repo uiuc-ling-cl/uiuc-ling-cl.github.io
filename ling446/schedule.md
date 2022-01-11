@@ -16,7 +16,7 @@ active_tab: schedule
 
 <h2>Schedule</h2>
 
-<table class="tabled">  <!-- table-stripe -->
+<table class="table">  <!-- table-stripe -->
   <tbody>
     <tr>
       <th>Week</th>
