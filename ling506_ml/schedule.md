@@ -4,7 +4,7 @@ img: brain.png
 <!-- img_link: assets/img/dsp.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/p/GD03E1221
+url_campuswire: https://campuswire.com/c/G2BAC3056
 txt_home: LING506 ML
 title: LING506 ML - Schedule
 active_tab: schedule
@@ -39,7 +39,7 @@ active_tab: schedule
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.topic }}</a>
         {% else %}
-        	{% if lecture.topic == "Spring break" %}<em>{{ lecture.topic }}</em>
+        	{% if lecture.topic == "SPRING BREAK" %}<em>{{ lecture.topic }}</em>
         	{% else %}{{ lecture.topic }}{% endif %}    	
         {% endif %}
       </td>
