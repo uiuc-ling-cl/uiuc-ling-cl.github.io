@@ -218,7 +218,7 @@
    type: Lecture
 #    slides: shared/ml_week12.pdf 
    topic: <b>Polynomial regression and Regularised Linear models</b>
-   readings: Géron, Chapter 4&#58 Polynomial Regression, Regularized Linear Models
+   readings: Géron, Chapter 4&#58; Polynomial Regression, Regularized Linear Models
 
 -
    week: 12
