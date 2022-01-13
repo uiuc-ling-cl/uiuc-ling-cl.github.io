@@ -56,7 +56,7 @@ active_tab: syllabus
  -->
 
 
-#### Recommended text books and references
+#### Recommended textbooks and references
 
 * *Aurélien Géron*, "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, Second Edition", O'Reilly, 2019. 
 
@@ -70,13 +70,13 @@ active_tab: syllabus
    
 * *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. <a href="https://git-scm.com/book/en/v2" target="_blank">Available for free in multiple formats</a>
 	
-	As a quick reference for use of git, this book covers most of hands-on commands for common operations on Git.
+	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git.
 
 #### Required tools and software
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* Programming language used in this course is **Python** of version 3. 
+* The programming language used in this course is **Python** of version 3. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
 	
@@ -84,7 +84,7 @@ active_tab: syllabus
 	
 	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, as the git software is built in the macOS nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win) for installation. While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter. 
 	
-	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted to for grading during the course. 
+	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course. 
 	
 	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
@@ -94,24 +94,23 @@ active_tab: syllabus
 
 #### Knowledge and content scope
 
-* Some of the knowledge/contents involved in lab session may **not** be covered in lecture.
-* Some of the knowledge/contents involved in homework may **not** be covered in lecture or lab session.
-* Some of the knowledge/contents involved in final project may **not** be covered in lecture, lab session or homework.
+* Some of the knowledge/contents involved in lab sessions may **not** be covered in lectures.
+* Some of the knowledge/contents involved in homework assignments may **not** be covered in lectures or lab sessions.
 
 #### Responsibilities
 * Students are responsible for **all** of the material covered in class.
-* Students are responsible for **all** of the material covered in lab session.
+* Students are responsible for **all** of the material covered in lab sessions.
 * Students are responsible for **all** of the material covered in homework.
 * Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
-* Students are responsible for informing the instructs of any issues that they have encountered during the course in a timely manner.
+* Students are responsible for informing the instructs of any issues that they have encountered during the course promptly.
 * Students are responsible for the **originality** of their solutions/code. 
 
 #### Expectations
 
 * Students are expected to attend the entirety of every lecture and lab session and actively participate in the class.
-* Students are expected to develop self-learning and problem-solving abilities utilising all possible resources, e.g. office hours, text books, online contents and discussion with peers.
-* Students are expected to actively follow along and practice the examples presented in classe.
-* Students are encourage to conduct discussion with classmates. 
+* Students are expected to develop self-learning and problem-solving abilities utilising all possible resources, e.g. office hours, textbooks, online content and discussion with peers.
+* Students are expected to actively follow along and practice the examples presented in class.
+* Students are encouraged to conduct discussions with classmates. 
 
 
 <!-- 
@@ -126,7 +125,7 @@ Students who do so are expected to attain the learning goals and outcomes.
 
 ## Grading
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination practical exercises in computer lab and homework assignments. Assessments on theories in a written form however will make up a relatively small portion of the final grade.
+Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of practical exercises in a computer lab and homework assignments. Assessments on theories in a written form however will make up a relatively small portion of the final grade.
 
 Grades will be assessed on a 100-point scale:
 
@@ -163,7 +162,7 @@ Grades will be assessed on a 100-point scale:
 If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the third week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
-* Include a detailed description of the accommodations that the student is actually requesting for this class.
+* Include a detailed description of the accommodations that the student is requesting for this class.
 
 
 
@@ -173,7 +172,7 @@ This course follows the [University of Illinois Student Code regarding Academic 
 
 All work submitted for this class must be solely each student's own. 
 Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. 
-There is zero-tolerance to any form of violations.
+There is zero tolerance for any form of violations.
 
 
 
@@ -193,7 +192,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercise and homework assignment turned in late will be docked 10 percentage points per day late.
+In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late.
 
 For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 

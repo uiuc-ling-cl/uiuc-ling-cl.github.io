@@ -76,7 +76,7 @@ active_tab: syllabus
    
 * *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. [Available for free in multiple formats](https://git-scm.com/book/en/v2)
 	
-	As a quick reference for use of git, this book covers most of hands-on commands for common operations on Git.
+	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git.
 
 #### Required tools and software
 <!-- 
@@ -228,4 +228,4 @@ Penalty-free late days cannot be used to extend any deadline beyond the last reg
 
 Penalty-free late days cannot be used to turn in work after the solution has been presented to the students.
 
-Penalty-free late days do not apply to mid- and end-term assessments, and final project.
+Penalty-free late days do not apply to mid- and end-term assessments, and the final project.
