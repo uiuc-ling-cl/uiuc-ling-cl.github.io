@@ -11,7 +11,7 @@
     date: 2022-01-20
     lecturer: Yan Tang
     type: Lab session
-    topic: <b>Python/anaconda installatoin, Github account</b>
+    topic: <b>Python/anaconda installation, Github account</b>
     
   
     
@@ -140,7 +140,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week08.pdf
-   topic: <b>Data partition, cross-validation and hyperparameter tuning <br/><br/> <span style="color:red;bold"><u>Mid-term asssessment</u></span></b>
+   topic: <b>Data partition, cross-validation and hyperparameter tuning <br/><br/> <span style="color:red;bold"><u>Mid-term assessment</u></span></b>
    readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
 
 -
@@ -276,7 +276,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week15.pdf 
-   topic: <b>Fine-tuning artificial neural networkds <br/><br/> <span style="color:red;"><u>End-term asssessment</u></span></b>
+   topic: <b>Fine-tuning artificial neural networks <br/><br/> <span style="color:red;"><u>End-term assessment</u></span></b>
    readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
 -
    week: 15
