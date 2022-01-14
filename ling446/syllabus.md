@@ -44,19 +44,13 @@ active_tab: syllabus
 
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) at FLB 4023:
-	* Walk-in: **9:15-10:15 AM Friday**
-<!-- 	* [Zoom link](https://illinois.zoom.us/j/86910808684?pwd=cWVrTlNzcnMwK1FjdmdFcUR0cDJpUT09) -->
-
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
+	* Walk-in: **3:30-4:30 PM Thursdays**
+	* Office: FLB 4023
 	
-* Teaching Assistant [Yinglun Sun](https://linguistics.illinois.edu/directory/profile/yinglun2):
-	* **TBD**
-<!-- 	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09) -->
-	
-* Teaching Assistant [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2):
-	* **TBD**
-<!-- 	* [Zoom link](https://illinois.zoom.us/j/89812047837?pwd=UEhIejhpNTJPTFdablgwOHljR2Uvdz09) -->
-
+* Teaching Assistant [Yinglun Sun](https://linguistics.illinois.edu/directory/profile/yinglun2) and  [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2):
+	* Online: **10:00-11:00 AM Wednesdays**
+	* [Zoom link](https://illinois.zoom.us/j/82589040970?pwd=YjhrR2xYUWxtU1VxWDd1RndKYWgvZz09) 
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
 

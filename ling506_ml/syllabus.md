@@ -46,8 +46,9 @@ active_tab: syllabus
 	* Lab: **11:00 AM - 12:20 PM Thursdays**
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) at FLB 4023:
-	* Walk-in: **10:30-11:30 AM Friday**
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
+	* Walk-in: **10:00-11:00 AM Fridays**
+	* Office: FLB 4023
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/82305653046?pwd=Y2ZVMWpMWTc1aVREWWs1Nkl3QkFDZz09) -->
 
 <!-- 
