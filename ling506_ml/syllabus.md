@@ -40,7 +40,7 @@ active_tab: syllabus
 * Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
  -->
 
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G13. *(The classes in the w/c Jan 17, 2022 will be online as per the University guidelines)*
+* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G13.
 * Time: 
 	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
 	* Lab: **11:00 AM - 12:20 PM Thursdays**
