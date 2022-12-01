@@ -11,7 +11,7 @@ active_tab: syllabus
 ---
 
 
-# Syllabus
+# Syllabus (Spring 2022)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
