@@ -11,7 +11,7 @@ active_tab: syllabus
 ---
 
 
-# Syllabus (Spring 2022)
+# Syllabus (Spring 2023)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -37,7 +37,7 @@ active_tab: syllabus
 #### Course time and venue
 <!-- * Lectures:  **Tuesdays 2:00-3:20 PM**, [English Building](http://ada.fs.illinois.edu/0044.html), Room 304. -->
 <!-- * Lectures and discussion:  **Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A. -->
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G17.
+* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G23.
 * Time: 
 	* Lectures: **2:00 PM - 3:20 PM Tuesdays**
 	* Lab: **2:00 PM - 3:20 PM Thursdays**
@@ -48,9 +48,9 @@ active_tab: syllabus
 	* Walk-in: **3:30-4:30 PM Thursdays**
 	* Office: FLB 4023
 	
-* Teaching Assistant [Yinglun Sun](https://linguistics.illinois.edu/directory/profile/yinglun2) and  [Shuju Shi](https://linguistics.illinois.edu/directory/profile/shujus2):
-	* Online: **10:00-11:00 AM Wednesdays**
-	* [Zoom link](https://illinois.zoom.us/j/82589040970?pwd=YjhrR2xYUWxtU1VxWDd1RndKYWgvZz09) 
+* Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
+	* TBA
+	<!-- * [Zoom link](https://illinois.zoom.us/j/82589040970?pwd=YjhrR2xYUWxtU1VxWDd1RndKYWgvZz09)  -->
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
 
@@ -136,13 +136,13 @@ Students will be assessed on the extent to which they have attained the learning
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, lab exercises, mid- and end-term assessments (via Moodle) will make up 55% of the overall grade:
+* Lecture attendance, mid- and end-term assessments (via Moodle) will make up 25% of the overall grade:
 	* Attendance: **10%**
 	* Mid-term assessment: **7.5%**
 	* End-term assessment: **7.5%**
-	* Lab exercise: **30%**
 
-* After-class programming and scripting assignments will make up 45% of the overall grade:
+* Lab exercises, after-class programming and scripting assignments will make up 75% of the overall grade:
+	* Lab exercise: **30%**
 	* Bi-weekly homework: **30%**
 	* Final project: **15%**
 
