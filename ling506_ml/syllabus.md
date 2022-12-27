@@ -4,14 +4,14 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G2BAC3056
+url_campuswire: https://campuswire.com/c/G57E9AFCB
 txt_home: LING506 ML
 title: LING506 ML - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Spring 2022)
+# Syllabus (Spring 2023)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -35,26 +35,16 @@ active_tab: syllabus
 ## Logistics
 
 #### Course time and venue
-<!-- 
-* Lectures and discussion: **Mondays and Wednesdays 1-1:50 PM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G13.
-* Lab sessions: **Fridays 1-1:50 PM**, Foreign Languages Building, Room G13.
- -->
 
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G13.
+* Venue: [Gregory Hall](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html) 215.
 * Time: 
 	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
 	* Lab: **11:00 AM - 12:20 PM Thursdays**
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
-	* Walk-in: **10:00-11:00 AM Fridays**
+	* Walk-in: **1:00-2:00 PM Fridays**
 	* Office: FLB 4023
-<!-- 	* [Zoom link](https://illinois.zoom.us/j/82305653046?pwd=Y2ZVMWpMWTc1aVREWWs1Nkl3QkFDZz09) -->
-
-<!-- 
-	* Walk-in: **3:00-4:00 PM Friday**
-	* By appointment: **10:00-11:00 AM Thursday**
- -->
 
 
 #### Recommended textbooks and references
@@ -130,13 +120,14 @@ Students will be assessed on the extent to which they have attained the learning
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, lab exercises and theory assessments (via Moodle) will make up 60% of the overall grade:
+* Lecture attendance, lab exercises and theory assessments (via Moodle) will make up 30% of the overall grade:
 	* Attendance: **10%**
 	* Mid-term assessment: **10%**
 	* End-term assessment: **10%**
-	* Lab exercise: **30%**
 
-* After-class programming and scripting assignments will make up **40%** of the overall grade
+* Lab exercise, after-class programming and scripting assignments will make 70% of the overall grade:
+	* Lab exercise: **30%**
+	* Homework: **40%**
 
 
  The final letter grade for this course will be converted from the numeric grade using the following table:
@@ -160,7 +151,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the third week**. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the forth week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is requesting for this class.

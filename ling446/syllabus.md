@@ -4,7 +4,7 @@ img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G6AF898C5
+url_campuswire: https://campuswire.com/c/G71760655
 txt_home: LING446
 title: LING446 - Syllabus
 active_tab: syllabus 
@@ -167,7 +167,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the third week**. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the forth week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is requesting for this class.
