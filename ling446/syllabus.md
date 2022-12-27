@@ -45,7 +45,7 @@ active_tab: syllabus
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
-	* Walk-in: **3:30-4:30 PM Thursdays**
+	* Walk-in: **3:30 - 4:30 PM Thursdays**
 	* Office: FLB 4023
 	
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
