@@ -151,7 +151,7 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the forth week**. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the fourth week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
 * Include a detailed description of the accommodations that the student is requesting for this class.
