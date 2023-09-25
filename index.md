@@ -14,6 +14,6 @@ active_tab: main_page
 <br/>
 #### [LING 446 - Fundamentals for Speech Signal Processing and Analysis](ling446)
 <br/>
-#### [LING 506 - TOPICS IN COMPUTATIONAL LINGUISTICS: Introductory Machine Learning](ling506_ml)
+#### [LING 448 - Introductory Machine Learning](ling448)
 
 
