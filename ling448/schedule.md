@@ -6,7 +6,7 @@ url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
 url_campuswire: https://campuswire.com/c/G57E9AFCB
 txt_home: LING506 ML
-title: LING506 ML - Schedule
+title: LING 448 - Schedule
 active_tab: schedule
 ---
 
