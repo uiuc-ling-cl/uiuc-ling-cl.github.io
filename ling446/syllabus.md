@@ -83,7 +83,7 @@ Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ad
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python** of version 3.11.5. 
+* The programming language used in this course is **Python of version 3.11.5**. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/download).
 	
