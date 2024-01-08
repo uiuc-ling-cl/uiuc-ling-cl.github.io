@@ -4,7 +4,7 @@ img: sg.png
 <!-- img_link: assets/img/sg.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G71760655
+url_campuswire: https://campuswire.com/c/G2463E1CA
 txt_home: LING446
 title: LING446 - Schedule
 active_tab: schedule
