@@ -193,7 +193,7 @@ There is zero tolerance for any form of violations
 If a student will be absent from class for any reason, the student is expected to inform the course instructor and the TA ahead of time should the student wish to receive penalty-free credit:
 
 * Each absence must be separately reported ahead of time via a private post on Campuswire to the instructor and TA
-* Each Campuswire post must be filed under the folder "Excused absence"
+* Each Campuswire post must be filed under the "Excused absence" category
 * Each Campuswire post must list the date of the absence
 * Each Campuswire post must list the reason for the absence
 * Each Campuswire post must mention whether or not makeup credit is being requested
@@ -217,7 +217,7 @@ If a student wishes to make use of a penalty-free late day, the student must do 
   * The message must be filed under the Campuswire category for that homework assignment.
   * The title of the message must be "Penalty-free late day (X of 4)", where X is replaced by the number 1, 2, 3 or 4.
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
-* In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
+* In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the changes, and push the changes to the remote repository.
 
 Only when all of these steps have been taken prior to the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
 
