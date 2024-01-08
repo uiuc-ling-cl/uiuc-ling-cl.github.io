@@ -14,7 +14,7 @@ active_tab: schedule
 <p style="text-align:center;"><strong>Schedule are subject to change</strong></p>
 
 
-<h2>Schedule (Spring 2023)</h2>
+<h2>Schedule (Spring 2024)</h2>
 
 <table class="table">  <!-- table-stripe -->
   <tbody>

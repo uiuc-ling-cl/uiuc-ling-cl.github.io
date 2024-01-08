@@ -11,7 +11,7 @@ active_tab: syllabus
 ---
 
 
-# Syllabus (Spring 2023)
+# Syllabus (Spring 2024)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -37,20 +37,23 @@ active_tab: syllabus
 #### Course time and venue
 <!-- * Lectures:  **Tuesdays 2:00-3:20 PM**, [English Building](http://ada.fs.illinois.edu/0044.html), Room 304. -->
 <!-- * Lectures and discussion:  **Wednesdays 10:00-10:50 AM**, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), Room G8A. -->
-* Venue: [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html) G23.
+* Venue: [Literatures, Cultures and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html) G48.
 * Time: 
 	* Lectures: **2:00 PM - 3:20 PM Tuesdays**
-	* Lab: **2:00 PM - 3:20 PM Thursdays**
+	* Labs and discussion: **2:00 PM - 3:20 PM Thursdays**
 
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
-	* Walk-in: **3:30 - 4:30 PM Thursdays** (except for Weeks 3 and 4)
-	* Office: FLB 4023
+	* Walk-in: **3:30 - 4:30 PM Thursdays**
+	* Office: LCLB 4023
 	
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
+	* TBD
+<!-- 
 	* Online: **9:00 - 10:00 AM Tuesdays**
 	* [Zoom link](https://illinois.zoom.us/j/6706111045?pwd=b0Q3Uk1LNGdjaXpXdzR0MGt5ek1BZz09) 
+ -->
 <!-- Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment -->
 
 
@@ -81,17 +84,17 @@ active_tab: syllabus
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python** of version 3. 
+* The programming language used in this course is **Python** of version 3.11.5. 
 
-	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
+	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/download).
 	
-*  Git software and [Github](https://github.com) account for assignment deployment and submission 
+*  Git software and [GitHub](https://github.com) account for assignment deployment and submission 
 	
-	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, as the git software is built in the macOS nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win) for installation. While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter. 
+	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac or Linux users, as the git software is built in the OS nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win) for installation. While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter. 
 	
-	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course. 
+	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be ministered for this course. 
 	
-	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
 
 
 
@@ -101,13 +104,13 @@ active_tab: syllabus
 
 * Some of the knowledge/contents involved in lab sessions may **not** be covered in lectures.
 * Some of the knowledge/contents involved in homework assignments may **not** be covered in lectures or lab sessions.
-* Some of the knowledge/contents involved in the final project may **not** be covered in lectures, lab sessions or homework assignments.
+<!-- * Some of the knowledge/contents involved in the final project may **not** be covered in lectures, lab sessions or homework assignments. -->
 
 #### Responsibilities
 * Students are responsible for **all** of the material covered in class.
 * Students are responsible for **all** of the material covered in lab sessions.
 * Students are responsible for **all** of the material covered in homework.
-* Students are responsible for **all** of the material covered in the final project.
+<!-- * Students are responsible for **all** of the material covered in the final project. -->
 * Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
 * Students are responsible for informing the instructs of any issues that they have encountered during the course promptly.
 * Students are responsible for the **originality** of their solutions/code. 
@@ -136,15 +139,15 @@ Students will be assessed on the extent to which they have attained the learning
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, mid- and end-term assessments (via Moodle) will make up 25% of the overall grade:
+* Lecture attendance, mid- and end-term assessments will make up 30% of the overall grade:
 	* Attendance: **10%**
-	* Mid-term assessment: **7.5%**
-	* End-term assessment: **7.5%**
+	* Mid-term assessment: **10%**
+	* End-term assessment: **10%**
 
-* Lab exercises, after-class programming and scripting assignments will make up 75% of the overall grade:
-	* Lab exercise: **30%**
-	* Bi-weekly homework: **30%**
-	* Final project: **15%**
+* Lab exercises, after-class programming and scripting assignments will make up 70% of the overall grade:
+	* Lab exercise: **35%**
+	* Bi-weekly homework: **35%**
+<!-- 	* Final project: **15%** -->
 
  The final letter grade for this course will be converted from the numeric grade using the following table:
 
@@ -222,4 +225,6 @@ Penalty-free late days cannot be used to extend any deadline beyond the last reg
 
 Penalty-free late days cannot be used to turn in work after the solution has been presented to the students.
 
-Penalty-free late days do not apply to mid- and end-term assessments, and the final project.
+Penalty-free late days do not apply to mid- and end-term assessments.
+
+<!-- , and the final project. -->
