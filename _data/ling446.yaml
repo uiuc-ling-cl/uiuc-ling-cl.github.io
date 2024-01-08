@@ -58,34 +58,14 @@
 
 
 
-# ###### Week 4 ######
-# -
-#    week: 4
-#    date: 2024-02-07
-#    lecturer: Yan Tang
-#    type: Lecture
-# #    slides: shared/dsp_week04.pdf
-#    topic: <b>Digital audio format. Reading and writing WAV file</b>
-# 
-# -
-#    week: 4
-#    date: 2024-02-09
-#    lecturer: Yan Tang
-#    type: Lab session
-#    slides:
-#    topic: #Making the header for WAV file 
-
-
-
 ###### Week 4 ######
 -
    week: 4
    date: 2024-02-06
    lecturer: Yan Tang
    type: Lecture
-#    slides: shared/dsp_week05.pdf 
-   topic: <b>Sound intensity and pressure</b>
-   readings: Rosen and Howell, Chapter 3
+#    slides: shared/dsp_week04.pdf
+   topic: <b>Digital audio format. Reading and writing WAV file</b>
 
 -
    week: 4
@@ -93,7 +73,7 @@
    lecturer: Yan Tang
    type: Lab session
    slides:
-   topic: # Using loudness model to measure loudness of puretones on LUFS
+   topic: #Making the header for WAV file 
 
 
 
@@ -103,9 +83,9 @@
    date: 2024-02-13
    lecturer: Yan Tang
    type: Lecture
-#    slides: shared/dsp_week06.pdf 
-   topic: <b>LTI system I - Principles</b>
-   readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
+#    slides: shared/dsp_week05.pdf 
+   topic: <b>Sound intensity and pressure</b>
+   readings: Rosen and Howell, Chapter 3
 
 -
    week: 5
@@ -113,8 +93,7 @@
    lecturer: Yan Tang
    type: Lab session
    slides:
-   topic: # Writing a class for simple linear processing
-
+   topic: # Using loudness model to measure loudness of puretones on LUFS
 
 
 
@@ -124,17 +103,18 @@
    date: 2024-02-20
    lecturer: Yan Tang
    type: Lecture
-   #    slides: shared/dsp_week07.pdf 
-   topic: <b>LTI system II - Impulse response and convolution</b>
-   readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
-  
+#    slides: shared/dsp_week06.pdf 
+   topic: <b>LTI system I - Principles</b>
+   readings:  Rosen and Howell, Chapter 4 <br/> Lynn and Fuerst, Chapter 2.2
+
 -
    week: 6
    date: 2024-02-22
    lecturer: Yan Tang
    type: Lab session
    slides:
-   topic: # Gammatone filters and frequency components
+   topic: # Writing a class for simple linear processing
+
 
 
 
@@ -144,17 +124,18 @@
    date: 2024-02-27
    lecturer: Yan Tang
    type: Lecture
-   #    slides: shared/dsp_week08.pdf 
-   topic: <b>Discrete Fourier Transform and spectrum</b>
-   readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
-
+   #    slides: shared/dsp_week07.pdf 
+   topic: <b>LTI system II - Impulse response and convolution</b>
+   readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
+  
 -
    week: 7
    date: 2024-02-29
    lecturer: Yan Tang
    type: Lab session
    slides:
-   topic: # Fast Fourier Transform on simple sinusoids 
+   topic: # Gammatone filters and frequency components
+
 
 
 ###### Week 8 ######
@@ -164,8 +145,8 @@
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week08.pdf 
-   topic: READING DAY
-#    readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
+   topic: <b>Discrete Fourier Transform and spectrum <br/><br/> <span style="color:red;"><u>Mid-term assessment</u></span></b>
+   readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
 
 -
    week: 8
@@ -173,7 +154,26 @@
    lecturer: Yan Tang
    type: Lab session
    slides:
-   topic: <span style="color:red;bold"><b>Mid-term assessment</b></span>
+   topic: # Fast Fourier Transform on simple sinusoids 
+
+
+# ###### Week 9 ######
+# -
+#    week: 9
+#    date: 2024-03-12
+#    lecturer: Yan Tang
+#    type: Lecture
+#    #    slides: shared/dsp_week08.pdf 
+#    topic: READING DAY
+# #    readings: Rosen and Howell, Chapter 7 <br/> Lynn and Fuerst, Chapter 7
+# 
+# -
+#    week: 9
+#    date: 2024-03-14
+#    lecturer: Yan Tang
+#    type: Lab session
+#    slides:
+#    topic: <span style="color:red;bold"><b>Mid-term assessment</b></span>
    
 
 ###### Week 9 ######
