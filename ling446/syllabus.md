@@ -67,7 +67,7 @@ active_tab: syllabus
 
 * *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
 
-* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.8.1/)
+* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3.11/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.11.5/)
 
 	This book is the authoritative reference manual for Python 3.
    
