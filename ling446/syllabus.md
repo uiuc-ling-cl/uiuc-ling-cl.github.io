@@ -50,7 +50,8 @@ active_tab: syllabus
 	
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
 	* Online: **3:00 - 4:00 PM Mondays**
-	* [Zoom link](https://illinois.zoom.us/j/85886631749?pwd=UmxoOHg3UkI0aGJmek5aUzlqZFJGZz09) 
+	* [Zoom link](https://illinois.zoom.us/j/6706111045?pwd=b0Q3Uk1LNGdjaXpXdzR0MGt5ek1BZz09)
+	
 
 
 #### Recommended textbooks and references
