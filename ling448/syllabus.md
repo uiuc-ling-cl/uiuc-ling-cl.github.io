@@ -162,7 +162,7 @@ If a student has a disability or condition that requires special consideration, 
 
 This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401/). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are expected to read these resources prior to the second day of class, and to understand your responsibilities with regard to Academic Integrity. 
 
-(Students’ Quick Reference Guide to Academic Integrity)[Students’ Quick Reference Guide to Academic Integrity] states that it is students' "responsibility to refrain from infractions of academic integrity, from conduct that may lead to suspicion of such infractions, and from conduct that aids others in such infractions. “I did not know” is not an excuse."
+[Students’ Quick Reference Guide to Academic Integrity](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/) states that it is students' "responsibility to refrain from infractions of academic integrity, from conduct that may lead to suspicion of such infractions, and from conduct that aids others in such infractions. “I did not know” is not an excuse."
 
 All work submitted for this class must be solely each student's own. Violations of Academic Integrity include, but are not limited to, copying (from e.g. peer classmates, online sources, and AI tools), cheating, and unapproved collaboration. There is zero tolerance for any form of violation. Any violation of academic integrity, even unintentional, may result in penalties as stated in the Student Code and the course syllabus.
 
