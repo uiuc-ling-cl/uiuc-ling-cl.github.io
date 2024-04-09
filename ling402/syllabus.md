@@ -1,7 +1,7 @@
 ---
 layout: main
-img: hammurabi
-img_link: https://en.wikipedia.org/wiki/Law#/media/File:Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.jpg
+img: hammurabi.jpg
+<!-- img_link: https://en.wikipedia.org/wiki/Law#/media/File:Milkau_Oberer_Teil_der_Stele_mit_dem_Text_von_Hammurapis_Gesetzescode_369-2.jpg -->
 title: Syllabus
 active_tab: main_page 
 ---
@@ -40,9 +40,7 @@ TBD
 
 #### Office hours
 TBD
-<!-- 
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023.
-* TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment-->
+<!-- * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023. * TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment-->
 
 
 #### Required Texts and Tools
