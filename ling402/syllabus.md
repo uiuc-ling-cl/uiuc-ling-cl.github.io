@@ -115,16 +115,8 @@ Students are expected to attend class, attentively read assigned readings, atten
 
 Students who do so are expected to attain the learning goals and outcomes.
 
+<!-- 
 #### Grading
-<!--
-
-* **Lecture attendance**: 5%
-* **Daily quizzes**: 5%
-* **Daily homework**: 20%
-* **Weekly homework**: 50%
-* **Final homework**: 20%
-
--->
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of daily quizzes, practical exercises, homework assignments, and projects.
 
@@ -155,6 +147,7 @@ Grades will be assessed on a 10-point fixed letter grade system.
 | 62.00 - 67.99      	|      | D       		|
 | 60.00 - 61.99     	|      | D-       		|
 | < 60.00		     	|      | F       		|
+ -->
 
 
 
