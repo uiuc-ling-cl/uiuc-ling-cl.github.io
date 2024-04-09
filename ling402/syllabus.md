@@ -35,24 +35,17 @@ active_tab: main_page
 ## Logistics
 
 #### Course time and venue
-Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G27.
+TBD
+<!-- Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G27. -->
 
 #### Office hours
+TBD
+<!-- 
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023.
 
 * TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment
-
-<!-- 
-* Professor [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Tuesdays 5-6 PM in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019, and by appointment
-* TA [Omid Abdar](https://linguistics.illinois.edu/directory/profile/abdar2) - Office hours Wednesdays 2:30–3:30 in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4036, and by appointment
-
-
-#### Section A
-Tuesdays and Thursdays 3:30-4:50 PM, [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room G27. Section A is intended for students who have prior programming experience.
-
-#### Section B
-Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room G17. Section B is for students who have no programming experience, or who have very little programming experience.
  -->
+
 
 #### Required Texts and Tools
 
@@ -66,9 +59,11 @@ Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](https://www.fs
    While the 1st edition of this textbook is available for purchase, this class will use the online version, which is more current.
 
 
+<!-- 
 * [i>clicker](http://iclicker.illinois.edu/students.aspx)
 
   This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
+ -->
   
   
 * [Bash Reference Manual](https://www.gnu.org/software/bash/manual) by Chet Ramey and Brian Fox
