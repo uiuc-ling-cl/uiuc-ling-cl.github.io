@@ -160,10 +160,10 @@ Grades will be assessed on a 10-point fixed letter grade system.
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to post a private message to the instructor on Piazza (filed under the DRES folder) no later than the beginning of the second day of class. The message should:
+If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the fourth week**. The message should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
-* Include a detailed description of the accommodations that the student is actually requesting for this class.
+* Include a detailed description of the accommodations that the student is requesting for this class.
 
 
 
