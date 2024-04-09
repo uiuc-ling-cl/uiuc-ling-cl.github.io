@@ -42,9 +42,7 @@ TBD
 TBD
 <!-- 
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023.
-
-* TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment
- -->
+* TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment-->
 
 
 #### Required Texts and Tools
@@ -179,11 +177,7 @@ This course follows the [University of Illinois Student Code regarding Academic 
 All work submitted for this class must be solely your own. 
 Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. Violations will not be tolerated.
 
-
-
-
-
-
+å
 
 ## Absences and Late Work Policy
 
