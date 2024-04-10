@@ -137,11 +137,10 @@ Students will be assessed on the extent to which they have attained the learning
 Grades are assessed on a 100-point scale:
 
 * Programming and scripting assignments make up 80% of the overall grade:
-	* Weekly homework assignments: 50%
-	* Lab exercises: 30%
-* Daily practice makes up 10% of the overall grade.
-* Attendance counts for 10% of the overall grade.
-
+	* Weekly homework assignments: **50**%
+	* Lab exercises: **30**%
+* Daily practice makes up **10**% of the overall grade.
+* Attendance counts for **10**% of the overall grade.
 
 The final letter grade for this course will be converted from the numeric grade using the following table:
 
@@ -160,7 +159,6 @@ The final letter grade for this course will be converted from the numeric grade 
 | 62.00 - 67.99      	|      | D       		|
 | 60.00 - 61.99     	|      | D-       		|
 | < 60.00		     	|      | F       		|
- -->
 
 
 
