@@ -205,11 +205,11 @@ Reference solutions for lab exercises and homework assignments will be presented
 
 #### Penalty-free late days
 
-It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days for which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management**.
+It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of **four (4) penalty-free late days** for which no late penalty will be assessed for lab exercises or homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management**.
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a _private__ message on [Campuswire](https://campuswire.com) to the instructor and the TA:
+* Post a _private_ message on [Campuswire](https://campuswire.com) to the instructor and the TA:
 	* The message must be filed under the Campuswire category for that homework assignment.
 	* The title of the message must be “Penalty-free late day (X of 4)”, where X is replaced by the number 1, 2, 3 or 4.
 	* In the body of the message, the student must explicitly request the use of a penalty-free late day.
