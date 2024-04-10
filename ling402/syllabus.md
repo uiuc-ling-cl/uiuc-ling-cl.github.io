@@ -124,10 +124,7 @@ If any student runs into trouble when setting up the software environment on the
 * Students are expected to develop self-learning and problem-solving abilities utilising all possible resources, e.g. office hours, textbooks, online content and discussion with peer classmates.
 * Students are expected to actively follow along and practice the examples presented in class.
 * Students are encouraged to conduct discussions with classmates.
-<!-- 
-* Homework may cover material from the readings that have not been covered in class or in video lectures.
-* Homework may cover material from the video lectures that have not been covered in class or in the readings.
- -->
+<!-- * Homework may cover material from the readings that have not been covered in class or in video lectures. * Homework may cover material from the video lectures that have not been covered in class or in the readings. -->
 
 
 #### Grading
@@ -186,19 +183,17 @@ Should an incident occur in which a student is believed to have violated academi
 
 ## Absences and Late Work Policy
 
-
-Students are expected to complete all assigned readings and video lectures prior to the class for which they are assigned.
-
 #### Excused absence
 
-If a student will be absent from class for any reason, the student is expected to inform the course instructor and TA ahead of time.
+If a student will be absent from class for any reason, the student is expected to inform the course instructor and the TA ahead of time should the student wish to receive penalty-free credit:
 
-* Each absence must be separately reported ahead of time via a private post on Piazza to the instructor and TA
-* Each Piazza post must be filed under the folder "excused-absence"
-* Each Piazza post must list the date of the absence
-* Each Piazza post must list the reason for the absence
-* Each Piazza post must mention whether or not makeup credit is being requested
-* If makeup credit is being requested, the Piazza post must include a PDF attachment of the makeup work
+* Each absence must be separately reported ahead of time via a private post on Campuswire to the instructor and TA
+* Each Campuswire post must be filed under the "Excused absence" category
+* Each Campuswire post must list the date of the absence
+* Each Campuswire post must list the reason for the absence
+* Each Campuswire post must mention whether or not makeup credit is being requested
+
+No penalty-free credit will be granted if the procedure is not strictly followed. However, penalty-free credits for excused absence can be no more than **30**% of the total attendance credits presented above. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
 
 #### Makeup work
 
