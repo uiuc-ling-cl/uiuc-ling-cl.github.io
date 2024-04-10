@@ -167,10 +167,12 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor and the TA **no later than the beginning of the fourth week**. The message should:
+If a student has a disability or condition that requires special consideration and accommodation, the student is expected to inform the instructor and the TA by email **no later than the beginning of the fourth week**. The message in the email should:
 
-* Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
+* Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services (DRES).
 * Include a detailed description of the accommodations that the student is requesting for this class.
+
+To contact DRES students may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or email [disability@illinois.edu](disability@illinois.edu).
 
 
 
