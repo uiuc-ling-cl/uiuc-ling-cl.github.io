@@ -211,7 +211,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. A Homework assignment is normally due by **23:59:59 the _second_ Saturday** after it is announced. Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late.
+In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. A Homework assignment is normally due by **23:59:59 the _second_ Saturday** after it is announced. **Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late**.
 
 For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
