@@ -45,14 +45,33 @@ TBD
 
 #### Required Texts and Tools
 
-* [The Linux Command Line: A Complete Introduction](https://nostarch.com/tlcl2) by William E. Shotts, Jr.
+* William, E. and Shotts, Jr., **__The Linux Command Line: A Complete Introduction__**
 
-  This book is [available for free in PDF form](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl).
-  
+	This book is [available for free in PDF format](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl). 
 
-* [Natural Language Processing with Python](http://www.nltk.org/book) by Steven Bird, Ewan Klein, and Edward Loper
+* Ramey, C. and Fox, B., **__Bash Reference Manual__**
 
-   While the 1st edition of this textbook is available for purchase, this class will use the online version, which is more current.
+	This book is the authoritative reference manual for Bash. It is available for free in [PDF format](https://www.gnu.org/software/bash/manual/bash.pdf) and [other formats](https://www.gnu.org/software/bash/manual/). While the William and Shotts textbook will be our main source of assigned readings on the command line, this reference manual should be the first place you look when you need to look something up about Bash.
+	
+	
+* Guido van Rossum, et al. **__The Python Tutorial and The Python Language Reference__**
+
+	This is the authoritative [tutorial](https://docs.python.org/3.11/tutorial/index.html) and [reference manual](https://docs.python.org/3.11/reference/index.html) for Python. They are readily available on the official website of Python. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
+	
+	
+* Elkner et al., **__How to Think Like a Computer Scientist__**
+
+	A good starter book for first-time Python learners. It touches the ground and is easy to follow. [Download for free](http://openbookproject.net/thinkcs/python/english3e/index.html). 
+	
+	
+* Bird, S., Klein, E. and Loper, E., **__Natural Language Processing with Python__**
+
+	While the 1st edition of this textbook is available for purchase, this class will use [the online version](http://www.nltk.org/book/).
+	
+	
+* Chacon, S. and Straub, B.,  **__Pro Git, Second Edition__**, Apress, 2014.
+
+	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git. The book in multiple formats is available to [download for free](https://git-scm.com/book/en/v2). 
 
 
 <!-- 
@@ -60,16 +79,6 @@ TBD
 
   This hardware can be purchased at the Illini Union Bookstore. Students are responsible for purchasing and registering their i>clicker prior to the first day of class. Students are responsible for bringing their functional i>clicker to every class session.
  -->
-  
-  
-* [Bash Reference Manual](https://www.gnu.org/software/bash/manual) by Chet Ramey and Brian Fox
-
-   This book is the authoritative reference manual for Bash. It is [available for free in PDF form](https://www.gnu.org/software/bash/manual/bash.pdf) and [other formats](https://www.gnu.org/software/bash/manual/). While the Shotts textbook will be our main source of assigned readings on the command line, this reference manual should be the first place you look when you need to look something up about Bash.
-  
-   
-* [The Python Language Reference](https://docs.python.org/3/reference/index.html)  edited by Guido van Rossum, et al.
-
-   This book is the authoritative reference manual for Python. It is [available for free in PDF form](https://www.python.org/ftp/python/doc/3.4.3/python-3.4.3-docs-pdf-letter.zip) and [other formats](https://www.python.org/ftp/python/doc/3.4.3/).
 
 
 ## Student Responsibilities
