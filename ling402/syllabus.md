@@ -40,6 +40,7 @@ TBD
 
 #### Required Textbooks and References
 
+<!-- 
 * William, E. and Shotts, Jr., **_The Linux Command Line: A Complete Introduction_**
 
 	This book is [available for free in PDF format](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl). 
@@ -67,6 +68,7 @@ TBD
 * Chacon, S. and Straub, B.,  **_Pro Git, Second Edition_**, Apress, 2014.
 
 	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git. The book in multiple formats is available to [download for free](https://git-scm.com/book/en/v2). 
+ -->
 
 
 
