@@ -38,9 +38,9 @@ TBD
 <!-- * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023. * TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment-->
 
 
-#### Required Texts and Tools
+#### Required Textbooks and References
 
-* William, E. and Shotts, Jr., **The Linux Command Line: A Complete Introduction**
+* William, E. and Shotts, Jr., **_The Linux Command Line: A Complete Introduction_**
 
 	This book is [available for free in PDF format](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl). 
 
@@ -67,6 +67,15 @@ TBD
 * Chacon, S. and Straub, B.,  **_Pro Git, Second Edition_**, Apress, 2014.
 
 	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git. The book in multiple formats is available to [download for free](https://git-scm.com/book/en/v2). 
+
+
+
+#### Required Tools and Software
+
+* Students are expected to have their own computers for exercises and assignments. Internet connection is also essential for connecting to the on-campus server and downloading lab exercises and homework assignments. 
+
+	_Note that if you have trouble accessing a computer and/or internet on a demand basis in order to study this course, please contact the instructor as early as possible. They will work with the department, trying their best to accommodate and solve the issue._
+
 
 
 <!-- 
