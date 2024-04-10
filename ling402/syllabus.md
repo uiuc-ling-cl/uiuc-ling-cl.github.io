@@ -45,31 +45,31 @@ TBD
 
 #### Required Texts and Tools
 
-* William, E. and Shotts, Jr., **__The Linux Command Line: A Complete Introduction__**
+* William, E. and Shotts, Jr., **The Linux Command Line: A Complete Introduction**
 
 	This book is [available for free in PDF format](http://linuxcommand.org/tlcl.php) directly from the author under a Creative Commons license. If you want a paper, mobi, or epub copy, you can purchase this textbook [in both paper and electronic formats directly from the publisher](https://www.nostarch.com/tlcl). 
 
-* Ramey, C. and Fox, B., **__Bash Reference Manual__**
+* Ramey, C. and Fox, B., **_Bash Reference Manual_**
 
 	This book is the authoritative reference manual for Bash. It is available for free in [PDF format](https://www.gnu.org/software/bash/manual/bash.pdf) and [other formats](https://www.gnu.org/software/bash/manual/). While the William and Shotts textbook will be our main source of assigned readings on the command line, this reference manual should be the first place you look when you need to look something up about Bash.
 	
 	
-* Guido van Rossum, et al. **__The Python Tutorial and The Python Language Reference__**
+* Guido van Rossum, et al. **_The Python Tutorial and The Python Language Reference_**
 
-	This is the authoritative [tutorial](https://docs.python.org/3.11/tutorial/index.html) and [reference manual](https://docs.python.org/3.11/reference/index.html) for Python. They are readily available on the official website of Python. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
+	This is the authoritative [tutorial](https://docs.python.org/3.11/tutorial/index.html) and [reference manual](https://docs.python.org/3.11/reference/index.html) for Python. They are readily available on the official Python website. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
 	
 	
-* Elkner et al., **__How to Think Like a Computer Scientist__**
+* Elkner et al., **_How to Think Like a Computer Scientist_**
 
 	A good starter book for first-time Python learners. It touches the ground and is easy to follow. [Download for free](http://openbookproject.net/thinkcs/python/english3e/index.html). 
 	
 	
-* Bird, S., Klein, E. and Loper, E., **__Natural Language Processing with Python__**
+* Bird, S., Klein, E. and Loper, E., **_Natural Language Processing with Python_**
 
 	While the 1st edition of this textbook is available for purchase, this class will use [the online version](http://www.nltk.org/book/).
 	
 	
-* Chacon, S. and Straub, B.,  **__Pro Git, Second Edition__**, Apress, 2014.
+* Chacon, S. and Straub, B.,  **_Pro Git, Second Edition_**, Apress, 2014.
 
 	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git. The book in multiple formats is available to [download for free](https://git-scm.com/book/en/v2). 
 
