@@ -81,7 +81,7 @@ TBD
 	__Note that if you have trouble accessing a computer and/or internet on a demand basis in order to study this course, please contact the instructor as early as possible. They will work with the department, trying their best to accommodate and solve the issue.__
 	
 
-* Programming languages taught in this course include GNU bash of version 5.0 on Ubuntu 22 and Python of version 3.11.18
+* Programming languages taught in this course include GNU **_bash of version 5.0_** on Ubuntu 22 and **_Python of version 3.11.18_**
 
 	All students will have an account to access the on-campus server (the "cl" server) running Linux. This allows students to carry on practice on bash command line tools anytime online. For Mac users, bash command line tools are already installed as a part of your operating system. However, occasionally the same command may differ in the flags it takes and in the outputs it produces on Ubuntu and Mac, due to the different versions. For Windows 10 users, a Linux environment can be installed using the Windows Subsystem for Linux (WSL). Official instructions for doing so can be found [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Regardless of which system an exercise or homework is completed, it must also be tested on the on-campus server (i.e. the "cl" server) -- all the assignments will be graded based on their outputs running on the on-campus server.
 	
@@ -99,26 +99,21 @@ If any student runs into trouble when setting up the software environment on the
 
 ## Student Responsibilities
 
-#### Schedule and Readings
+#### Knowledge and content scope
 
-Students are expected to regularly review the schedule of assigned readings and video lectures. This schedule is subject to change.
-
-
-* Some of the material covered in readings will be covered in class.
-* Some of the material covered in readings will be covered in video lectures.
-* Some of the material covered in readings will **not** be covered in class and will **not** be covered in video lectures.
-* Some material will be covered in the video lectures, but **not** in the readings and **not** in class.
-* Some material will be covered in class, but **not** in the readings and **not** in video lectures.
-
-
+* Some of the knowledge/contents involved in lab sessions may not be covered in lectures.
+* Some of the knowledge/contents involved in homework may not be covered in lectures or lab sessions.
 
 #### Responsibilities
 
-
-* Students are responsible for **all** of the material covered in every reading.
-* Students are responsible for **all** of the material covered in every video lecture.
+* Students are responsible for **all** of the material covered in readings.
+* Students are responsible for **all** of the material covered in video lectures.
 * Students are responsible for **all** of the material covered in class.
-* Students are responsible for **all** of the material covered in public Piazza posts. This includes clarifications to homework instructions.
+* Students are responsible for **all** of the material covered in homework.
+* Students are responsible for **all** of the material covered in discussions on Campuswire. This includes clarifications to homework and lab instructions.
+* Students are responsible for informing the instructors in a timely manner of any issues they have encountered during the course.
+* Students are responsible for the originality of their solutions/code.
+* Students are responsible for ensuring that their code runs on the "cl" server. If your code does not run, you will be given a score of 0 for that homework/lab assignment. You will have the opportunity to come during office hours and explain and debug your work for a revised grade. Test your code on the "cl" server before submitting.
 
 
 
