@@ -191,7 +191,7 @@ If a student will be absent from class for any reason, the student is expected t
 * Each Campuswire post must list the reason for the absence
 * Each Campuswire post must mention whether or not makeup credit is being requested
 
-No penalty-free credit will be granted if the procedure is not strictly followed. However, penalty-free credits for excused absence can be no more than **30**% of the total attendance credits presented above. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
+No penalty-free credit will be granted if the procedure is not strictly followed. However, **penalty-free credits for excused absence can be no more than 30% of the total attendance credits presented above**. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
 
 
 #### Late work
