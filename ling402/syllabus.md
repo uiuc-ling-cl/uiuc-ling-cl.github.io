@@ -104,6 +104,7 @@ If any student runs into trouble when setting up the software environment on the
 * Some of the knowledge/contents involved in lab sessions may not be covered in lectures.
 * Some of the knowledge/contents involved in homework may not be covered in lectures or lab sessions.
 
+
 #### Responsibilities
 
 * Students are responsible for **all** of the material covered in readings.
@@ -116,41 +117,33 @@ If any student runs into trouble when setting up the software environment on the
 * Students are responsible for ensuring that their code runs on the "cl" server. If your code does not run, you will be given a score of 0 for that homework/lab assignment. You will have the opportunity to come during office hours and explain and debug your work for a revised grade. Test your code on the "cl" server before submitting.
 
 
-
 #### Expectations
 
-
-* Students are expected to attentively read assigned readings.
-* Students are expected to actively follow along and practice the examples presented in the readings.
-* Students are expected to attentively view assigned video lectures.
-* Students are expected to attend the entirety of every class session and actively participate in the class.
-* Quiz questions may come from readings, video lectures, or other material previously covered in class.
-* Homework questions may cover material from the readings that have not been covered in class or in video lectures.
-* Homework questions may cover material from the video lectures that have not been covered in class or in the readings.
-
-
-#### Learning Goals and Outcomes
-
-Students are expected to attend class, attentively read assigned readings, attentively view assigned video lectures, regularly practice the presented tools and techniques, and complete all assigned work.
-
-Students who do so are expected to attain the learning goals and outcomes.
-
+* Students are expected to attentively read assigned readings and view assigned video lectures.
+* Students are expected to attend the entirety of every lecture and lab session and actively participate in the class.
+* Students are expected to develop self-learning and problem-solving abilities utilising all possible resources, e.g. office hours, textbooks, online content and discussion with peer classmates.
+* Students are expected to actively follow along and practice the examples presented in class.
+* Students are encouraged to conduct discussions with classmates.
 <!-- 
+* Homework may cover material from the readings that have not been covered in class or in video lectures.
+* Homework may cover material from the video lectures that have not been covered in class or in the readings.
+ -->
+
+
 #### Grading
 
-Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of daily quizzes, practical exercises, homework assignments, and projects.
+Students will be assessed on the extent to which they have attained the learning goals and outcomes. This assessment will be primarily hands-on, assessed through a combination of daily practice and homework assignments.
 
-Grades will be assessed on a 10-point fixed letter grade system.
+Grades are assessed on a 100-point scale:
 
-* Programming and scripting assignments will make up approximately 70% of the overall grade:
-	* Weekly homework: 50%
-	* Final homework: 20%
-* Lecture attendance, in-class quizzes and other similar assessments will make up approximately 10% of the overall grade:
-	* Attendance: 5%
-	* Quizzes: 5%
-* Daily homework and reading log will make up approximately 20% of the overall grade.
+* Programming and scripting assignments make up 80% of the overall grade:
+	* Weekly homework assignments: 50%
+	* Lab exercises: 30%
+* Daily practice makes up 10% of the overall grade.
+* Attendance counts for 10% of the overall grade.
 
- The final letter grade for this course will be converted from the numeric grade using the following table:
+
+The final letter grade for this course will be converted from the numeric grade using the following table:
 
 | Numerical grade		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Letter grade 	|
 | :----:       			|:----:|    :----   	|
