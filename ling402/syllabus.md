@@ -13,11 +13,6 @@ active_tab: main_page
   * [Course time and venue](#course-time-and-venue)
   * [Office hours](#office-hours)
   * [Required Texts and Tools](#required-texts-and-tools)
-  
-<!-- 
-  * [Section A](#section-a)
-  * [Section B](#section-b)
- -->
 * [Student Responsibilities](#student-responsibilities)
   * [Schedule and Readings](#schedule-and-readings)
   * [Responsibilities](#responsibilities)
