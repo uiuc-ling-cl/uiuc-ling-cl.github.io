@@ -195,37 +195,26 @@ If a student will be absent from class for any reason, the student is expected t
 
 No penalty-free credit will be granted if the procedure is not strictly followed. However, penalty-free credits for excused absence can be no more than **30**% of the total attendance credits presented above. Once penalty-free credits reach the limit, no more credit will be granted for any form of absence.
 
-#### Makeup work
-
-If an absence is properly reported ahead of time, the student may turn in makeup work at the time that the absence is reported. If the absence is excused by the instructor, the makeup work will be graded in lieu of any participation and/or quiz credit missed as a result of the excused absence.
-
-* The makeup work must be a single PDF for each excused absence.
-* The PDF must begin with a title of the form "YYYY-MM-DD: TOPIC", where YYYY is replaced with the four-digit year, MM is replaced by the two-digit month, and DD is replaced by the two-digit date of the absence and TOPIC is replaced by the topic of the day as listed on the course schedule.
-* The PDF must list the student's name, email address, and github ID immediately after the title.
-* For every assigned reading and for every assigned video, the student must include a titled section for that reading or video. Each section body must be no less than 200 words in length, and must summarize the content of that reading or video.
-
 
 #### Late work
 
-Homework assignments are expected to be turned in on time. Homework turned in late will be docked 5 percentage points per day late (this corresponds approximately to half of a letter grade per day late).
+In-class exercises during a lab session must be turned in by **23:59:59 the _first__ Friday** after the lab session takes place. A homework assignment is normally due by **23:59:59 the _first_ Sunday** after it is announced. Occasionally, one home assignment may be given two weeks to complete. In that case, the deadline will be on the second Sunday. Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late.
 
-For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. The solution will typically be presented on the first class period after the assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
+Reference solutions for lab exercises and homework assignments will be presented after the deadlines. The solutions will typically be discussed during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
 
 #### Penalty-free late days
 
-However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of 3 penalty-free late days for which no late penalty will be assessed. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
+It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days for which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management**.
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
-* Post a private Piazza message to the instructor and the TA:
-  * The message **must** be filed under the Piazza folder for that homework assignment.
-  * The title of the message **must** be "Penalty-free late day (X of 3)", where X is replaced by the number 1, 2, or 3.
-  * In the body of the message, the student must explicitly request the use of a penalty-free late day.
-* In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
+* Post a _private__ message on [Campuswire](https://campuswire.com) to the instructor and the TA:
+	* The message must be filed under the Campuswire category for that homework assignment.
+	* The title of the message must be “Penalty-free late day (X of 4)”, where X is replaced by the number 1, 2, 3 or 4.
+	* In the body of the message, the student must explicitly request the use of a penalty-free late day.
+* In the student’s git repository for the assignment, the student must note the request in the appropriate file, check in the changes, and push the changes to the remote repository.
 
 Only when all of these steps have been taken prior to the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
 
-Penalty-free late days may not be used to extend any deadline beyond the last regular day of class for the semester.
-
-Penalty-free late days may not be used to turn in work after the solution has been presented to the students.
+Penalty-free late days cannot be used to extend any deadline beyond the last regular day of class in the semester, nor be used to turn in work after the solution has been presented to the students. 
