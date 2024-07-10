@@ -7,7 +7,7 @@ active_tab: main_page
 ---
 
 
-# Syllabus (__subject to be updated in due course__)
+# Syllabus (*subject to be updated in due course*)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
