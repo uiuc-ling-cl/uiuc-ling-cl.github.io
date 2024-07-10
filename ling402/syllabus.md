@@ -125,6 +125,7 @@ If any student runs into trouble when setting up the software environment on the
 <!-- * Homework may cover material from the readings that have not been covered in class or in video lectures. * Homework may cover material from the video lectures that have not been covered in class or in the readings. -->
 
 
+<!-- 
 #### Grading
 
 Students will be assessed on the extent to which they have attained the learning goals and outcomes. This assessment will be primarily hands-on, assessed through a combination of daily practice and homework assignments.
@@ -154,6 +155,7 @@ The final letter grade for this course will be converted from the numeric grade 
 | 62.00 - 67.99      	|      | D       		|
 | 60.00 - 61.99     	|      | D-       		|
 | < 60.00		     	|      | F       		|
+ -->
 
 
 
