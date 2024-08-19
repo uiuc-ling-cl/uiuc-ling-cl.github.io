@@ -25,6 +25,7 @@ Syllabus (Fall 2024)
   * [Excused absense](#excused-absence)
   * [Late work](#late-work)
   * [Penalty-free late days](#penalty-free-late-days)
+* [Inclusive Statement](#inclusive-statement)
   
 ## Logistics
 
