@@ -98,7 +98,10 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Bu
 * Git software and [GitHub](https://github.com/) account for assignment deployment and submission
 
 	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, the git software is built in the macOS, so nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win). While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter.
+	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
+	
+	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 	
 If any student runs into trouble when setting up the software environment on their own machines, please reach out to the instructor and TA for help. A part of the lecture and the lab session of the first week will be devoted to making sure all essential software is installed and running.
 

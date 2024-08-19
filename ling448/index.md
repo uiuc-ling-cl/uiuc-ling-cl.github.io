@@ -15,4 +15,4 @@ active_tab: main_page
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Schedule](schedule.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
-<!-- * <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G57E9AFCB)</span> -->
+* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G65A39C90)</span>

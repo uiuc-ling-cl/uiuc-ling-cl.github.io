@@ -11,7 +11,7 @@ active_tab: syllabus
 ---
 
 
-# Syllabus (Spring 2023)
+# Syllabus (Fall 2024)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -36,15 +36,16 @@ active_tab: syllabus
 
 #### Course time and venue
 
-* Venue: [Gregory Hall](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html) 215.
-* Time: 
-	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
+* Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119.
+	* Lectures: **12:30 AM - 1:50 PM Tuesdays**
 	* Lab: **11:00 AM - 12:20 PM Thursdays**
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
-	* Walk-in: **4:30 - 5:30 PM Thursdays** (except for Weeks 3 and 4)
-	* Office: FLB 4023
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
+	* 4:30-5:30 PM Thursdays @ LCLB, Room 4023. 
+
+* TA [Huiying Cai](https://linguistics.illinois.edu/directory/profile/huiying7)
+	* TBA
 
 
 #### Recommended textbooks and references
@@ -55,7 +56,7 @@ active_tab: syllabus
 
 * *José Unpingco*, "Python for Probability, Statistics, and Machine Learning, Second Edition", Springer, 2019.
 
-* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.8.1/" target="_blank">Available for free in multiple formats</a>
+* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3.11/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.11.9/" target="_blank">Available for free in multiple formats</a>
 
 	This book is the authoritative reference manual for Python 3.
    
@@ -73,11 +74,11 @@ active_tab: syllabus
 	
 *  Git software and [Github](https://github.com) account for assignment deployment and submission 
 	
-	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, as the git software is built in the macOS nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win) for installation. While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter. 
+	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, the git software is built in the macOS, so nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win). While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter.
 	
-	Students are required to register a free Github account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course. 
+	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All Github repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
 
 
