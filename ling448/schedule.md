@@ -10,7 +10,6 @@ title: LING 448 - Schedule
 active_tab: schedule
 ---
 
-
 <p style="text-align:center;"><strong>Schedule are subject to change</strong></p>
 
 
