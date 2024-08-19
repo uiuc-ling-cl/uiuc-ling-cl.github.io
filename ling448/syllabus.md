@@ -37,8 +37,8 @@ active_tab: syllabus
 #### Course time and venue
 
 * Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119.
-	* Lectures: **12:30 AM - 1:50 PM Tuesdays**
-	* Lab: **11:00 AM - 12:20 PM Thursdays**
+	* Lectures: **12:30 - 1:50 PM Tuesdays**
+	* Lab: **12:30 - 1:50 PM Thursdays**
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
@@ -152,10 +152,12 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration, the student is expected to email the instructor **no later than the beginning of the fourth week**. The message should:
+If a student has a disability or condition that requires special consideration and accommodation, the student is expected to inform the instructor and the TA by email **no later than the beginning of the fourth week**. The message in the email should:
 
-* Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services.
+* Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services (DRES).
 * Include a detailed description of the accommodations that the student is requesting for this class.
+
+To contact DRES students may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or email [disability@illinois.edu](disability@illinois.edu).
 
 
 
@@ -167,7 +169,7 @@ This course follows the [University of Illinois Student Code regarding Academic 
 
 All work submitted for this class must be solely each student's own. Violations of Academic Integrity include, but are not limited to, copying (from e.g. peer classmates, online sources, and AI tools), cheating, and unapproved collaboration. There is zero tolerance for any form of violation. Any violation of academic integrity, even unintentional, may result in penalties as stated in the Student Code and the course syllabus.
 
-Should an incident occur in which a student is believed to have violated academic integrity, the instructor(s) will initiate the [procedures](https://studentcode.illinois.edu/article1/part4/1-403/) outlined in the Illinois Academic Integrity Policy via Faculty Academic Integrity Reporting (FAIR), the system for reporting academic integrity allegations and violations. 
+Should an incident occur in which a student is believed to have violated academic integrity, the instructor(s) will initiate the [procedures](https://studentcode.illinois.edu/article1/part4/1-403/) outlined in the Illinois Academic Integrity Policy via Faculty Academic Integrity Reporting (FAIR), the system for reporting academic integrity allegations and violations.
 
 
 
@@ -187,7 +189,7 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late.
+In-class exercises during a lab session must be turned in before **12:00:00 the *first* Friday** after the lab session takes place. The deadline for a homework assignment will be set in its description when being announced. Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late.
 
 For some or all lab exercises and homework assignments, reference solutions will be presented to the class after the deadlines. The solutions will typically be presented during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
