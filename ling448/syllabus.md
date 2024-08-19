@@ -121,7 +121,7 @@ Students will be assessed on the extent to which they have attained the learning
 
 Grades will be assessed on a 100-point scale:
 
-* Lecture attendance, lab exercises and theory assessments (via Moodle) will make up 30% of the overall grade:
+* Lecture attendance, lab exercises and theory assessments will make up 30% of the overall grade:
 	* Attendance: **10%**
 	* Mid-term assessment: **10%**
 	* End-term assessment: **10%**
