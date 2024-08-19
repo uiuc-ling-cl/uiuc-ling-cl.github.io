@@ -25,7 +25,7 @@ active_tab: schedule
       <th>Topic</th>
       <th>Readings</th>
     </tr>
-    {% for lecture in site.data.ling506_ml %}
+    {% for lecture in site.data.ling448 %}
     {% if lecture.topic == "SPRING BREAK" %} 
     	<tr style="background-color: #E0F8F1">
     {% else %}

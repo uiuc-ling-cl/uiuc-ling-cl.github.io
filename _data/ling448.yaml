@@ -1,14 +1,14 @@
 ###### Week 1 ######
 -
     week: 1
-    date: 2023-01-17
+    date: 2024-08-27
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week01.pdf
     topic: <b>Course introduction</b>
 -
     week: 1
-    date: 2023-01-19
+    date: 2024-08-29
     lecturer: Yan Tang
     type: Lab session
     topic: <b>Python/anaconda installation, Github account</b>
@@ -18,7 +18,7 @@
 ###### Week 2 ######    
 -
    week: 2
-   date: 2023-01-24
+   date: 2024-09-03
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week02.pdf
@@ -27,7 +27,7 @@
 
 -
    week: 2
-   date: 2023-01-26
+   date: 2024-09-05
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -37,7 +37,7 @@
 ###### Week 3 ######
 -
    week: 3
-   date: 2023-01-31
+   date: 2024-09-10
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week03.pdf
@@ -46,7 +46,7 @@
 
 -
    week: 3
-   date: 2023-02-02
+   date: 2024-09-12
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -57,7 +57,7 @@
 ###### Week 4 ######
 -
    week: 4
-   date: 2023-02-07
+   date: 2024-09-17
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week04.pdf
@@ -66,7 +66,7 @@
 
 -
    week: 4
-   date: 2023-02-09
+   date: 2024-09-19
    lecturer: Yan Tang
    type: Lab session
    topic:
@@ -76,7 +76,7 @@
 ###### Week 5 ######
 -
    week: 5
-   date: 2023-02-14
+   date: 2024-09-24
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week05.pdf
@@ -85,7 +85,7 @@
 
 -
    week: 5
-   date: 2023-02-16
+   date: 2024-09-26
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -95,7 +95,7 @@
 ###### Week 6 ######
 -
    week: 6
-   date: 2023-02-21
+   date: 2024-10-01
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week06.pdf
@@ -104,7 +104,7 @@
 
 -
    week: 6
-   date: 2023-02-23
+   date: 2024-10-03
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -116,7 +116,7 @@
 ###### Week 7 ######
 -
    week: 7
-   date: 2023-02-28
+   date: 2024-10-08
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week07.pdf
@@ -126,7 +126,7 @@
 
 -
    week: 7
-   date: 2023-03-02
+   date: 2024-10-10
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -136,7 +136,7 @@
 ###### Week 8 ######
 -
    week: 8
-   date: 2023-03-07
+   date: 2024-10-15
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week08.pdf
@@ -145,35 +145,17 @@
 
 -
    week: 8
-   date: 2023-03-09
+   date: 2024-10-17
    lecturer: Yan Tang
    type: Lab session
    topic: 
- 
+
 
  
 ###### Week 9 ######
 -
-  week: 9
-  date: 2023-03-14
-  lecturer: "&nbsp;"
-  type: "&nbsp;"
-#    slides: shared/ml_week08.pdf
-  topic: SPRING BREAK
-
--
-  week: 9
-  date: 2023-03-16
-  lecturer: "&nbsp;"
-  type: 
-  topic: SPRING BREAK
-
-
- 
-###### Week 10 ######
--
-   week: 10
-   date: 2023-03-21
+   week: 9
+   date: 2024-10-22
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week0910.pdf 
@@ -181,19 +163,18 @@
    readings: Géron, Chapter 7 
 
 -
-   week: 10
-   date: 2023-03-23
+   week: 9
+   date: 2024-10-24
    lecturer: Yan Tang
    type: Lab session
    topic:   
 
 
 
-
-###### Week 11 ######
+###### Week 10 ######
 -
-   week: 11
-   date: 2023-03-28
+   week: 10
+   date: 2024-10-29
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week11.pdf 
@@ -201,19 +182,18 @@
    readings: Géron, Chapter 4&#58; Linear Regression, Gradient Descent
 
 -
-   week: 11
-   date: 2023-03-30
+   week: 10
+   date: 2024-10-31
    lecturer: Yan Tang
    type: Lab session
    topic: 
    
    
 
-
-###### Week 12 ######
+###### Week 11 ######
 -
-   week: 12
-   date: 2023-04-04
+   week: 11
+   date: 2024-11-05
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week12.pdf 
@@ -221,8 +201,8 @@
    readings: Géron, Chapter 4&#58; Polynomial Regression, Regularized Linear Models
 
 -
-   week: 12
-   date: 2023-04-06
+   week: 11
+   date: 2024-11-07
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -230,10 +210,10 @@
        
 
 
-###### Week 13 ######
+###### Week 12 ######
 -
-   week: 13
-   date: 2023-04-11
+   week: 12
+   date: 2024-11-12
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week13.pdf 
@@ -241,18 +221,18 @@
    readings: Géron, Chapter 5&#58; SVM Regression <br/> Géron, Chapter 6&#58; Regression
 
 -
-   week: 13
-   date: 2023-04-13
+   week: 12
+   date: 2024-11-14
    lecturer: Yan Tang
    type: Lab session
    topic: 
        
 
 
-###### Week 14 ######
+###### Week 13 ######
 -
-   week: 14
-   date: 2023-04-18
+   week: 13
+   date: 2024-11-19
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week14.pdf 
@@ -260,19 +240,37 @@
    readings: Géron, Chapter 10&#58; From Biological to Artificial Neurons
 
 -
-   week: 14
-   date: 2023-04-20
+   week: 13
+   date: 2024-11-21
    lecturer: Yan Tang
    type: Lab session
    slides:
    topic: 
-       
+   
+   
 
+###### Week 14 ######
+-
+  week: 14
+  date: 2024-11-26
+  lecturer: "&nbsp;"
+  type: "&nbsp;"
+#    slides: shared/ml_week08.pdf
+  topic: FALL BREAK
+
+-
+  week: 14
+  date: 2024-11-28
+  lecturer: "&nbsp;"
+  type: 
+  topic: FALL BREAK
+       
+       
 
 ###### Week 15 ######
 -
    week: 15
-   date: 2023-04-25
+   date: 2024-12-03
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week15.pdf 
@@ -280,24 +278,24 @@
    readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
 -
    week: 15
-   date: 2023-04-27
+   date: 2024-12-05
    lecturer: Yan Tang
    type: Reading day
    topic: 
-       
-       
-
+   
+   
+   
 ###### Week 16 ######
 -
    week: 16
-   date: 2023-05-02
+   date: 2024-12-10
    lecturer: Yan Tang
    type: Lecture
    slides:
-   topic: Machine Learning Case Study
+   topic: End-term exam
 -
    week: 16
-   date: 2023-05-04
+   date: 2024-12-12
    lecturer: "&nbsp;"
    type: Reading day
    topic:  
