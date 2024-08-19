@@ -11,6 +11,7 @@ active_tab: main_page
 # Syllabus (Fall 2024)
 
 * [Logistics](#logistics)
+  * [Course Info](#course-info)
   * [Course time and venue](#course-time-and-venue)
   * [Office hours](#office-hours)
   * [Required Texts and Tools](#required-texts-and-tools)
@@ -29,7 +30,11 @@ active_tab: main_page
   
 ## Logistics
 
-#### Course time and venue
+#### Course Info
+* Credits: 3 undergraduate or 4 graduate hours
+* <span style="color: #ff0000;">Students who have already taken courses, such as CS 105, CS 125, CS 225 and equivalent or above, will NOT receive credits by taking this course, unless the student has contacted the instructor with an appropriate reason and approval is hence granted</span>.
+
+#### Course Time and Venue
 Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20
 
 #### Office hours
