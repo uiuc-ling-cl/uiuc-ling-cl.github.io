@@ -129,7 +129,6 @@ If any student runs into trouble when setting up the software environment on the
 <!-- * Homework may cover material from the readings that have not been covered in class or in video lectures. * Homework may cover material from the video lectures that have not been covered in class or in the readings. -->
 
 
-<!-- 
 #### Grading
 
 Students will be assessed on the extent to which they have attained the learning goals and outcomes. This assessment will be primarily hands-on, assessed through a combination of daily practice and homework assignments.
@@ -159,7 +158,7 @@ The final letter grade for this course will be converted from the numeric grade 
 | 62.00 - 67.99      	|      | D       		|
 | 60.00 - 61.99     	|      | D-       		|
 | < 60.00		     	|      | F       		|
- -->
+
 
 
 
@@ -202,14 +201,14 @@ No penalty-free credit will be granted if the procedure is not strictly followed
 
 #### Late work
 
-In-class exercises during a lab session must be turned in by **23:59:59 the _first_ Friday** after the lab session takes place. A homework assignment is normally due by **23:59:59 the _first_ Sunday** after it is announced. Occasionally, one home assignment may be given two weeks to complete. In that case, the deadline will be on the second Sunday. **Lab exercises and homework assignments turned in late will be docked 10 percentage points per day late**.
+In-class exercises during a lab session must be turned in by **23:59:59 the _first_ Friday** after the lab session takes place. A homework assignment is normally due by **23:59:59 the _first_ Sunday** after it is announced. Occasionally, one home assignment may be given two weeks to complete. In that case, the deadline will be on the second Sunday. **Lab exercises and homework assignments turned in late will be docked 15 percentage points per day late**.
 
 Reference solutions for lab exercises and homework assignments will be presented after the deadlines. The solutions will typically be discussed during the class on the Thursday after an assignment is due. Under no circumstances will late work be accepted after the solution has been presented to the class.
 
 
 #### Penalty-free late days
 
-It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of **four (4) penalty-free late days** for which no late penalty will be assessed for lab exercises or homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management**.
+In order to accommodate extraordinary events, such as illness, students will be allotted a budget of **four (4) penalty-free late days** for which no late penalty will be assessed for lab exercises or homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management**.
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
@@ -217,8 +216,17 @@ If a student wishes to make use of a penalty-free late day, the student must do 
 	* The message must be filed under the Campuswire category for that homework assignment.
 	* The title of the message must be “Penalty-free late day (X of 4)”, where X is replaced by the number 1, 2, 3 or 4.
 	* In the body of the message, the student must explicitly request the use of a penalty-free late day.
+	* If the student does not receive a reply acknowledging the record from the instructors within 24 hours, a direct email may be sent to the instructors as a reminder.
+	
 * In the student’s git repository for the assignment, the student must note the request in the appropriate file, check in the changes, and push the changes to the remote repository.
 
 Only when all of these steps have been taken prior to the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
 
+For unforeseeable matters (e.g. emergencies), the student should still notify the instructors afterwards about any reasons that caused the delay, as well as the intention to use penalty-free late day(s). 
+
 Penalty-free late days cannot be used to extend any deadline beyond the last regular day of class in the semester, nor be used to turn in work after the solution has been presented to the students. 
+
+
+#### Inclusive Statement
+
+The effectiveness of this course is dependent upon the creation of an encouraging and safe classroom environment.  Exclusionary, offensive or hateful speech (such as racism, sexism, homophobia, transphobia, etc.) will not be tolerated and in some cases subject to University harassment procedures.  Both instructors and students all responsible for creating a positive and safe environment that allows all students equal respect and comfort.  Everyone is, therefore, expected to help establish and maintain an environment where everyone can contribute without fear of ridicule, intolerance, or offensive language and behaviour.
