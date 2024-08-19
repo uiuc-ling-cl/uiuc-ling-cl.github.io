@@ -4,7 +4,7 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G57E9AFCB
+url_campuswire: https://campuswire.com/c/G65A39C90
 txt_home: LING 448
 title: LING 448 - Syllabus
 active_tab: syllabus 

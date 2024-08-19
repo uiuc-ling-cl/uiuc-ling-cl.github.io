@@ -4,7 +4,7 @@ img: brain.png
 <!-- img_link: assets/img/dsp.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G57E9AFCB
+url_campuswire: https://campuswire.com/c/G65A39C90
 txt_home: LING 448
 title: LING 448 - Schedule
 active_tab: schedule
