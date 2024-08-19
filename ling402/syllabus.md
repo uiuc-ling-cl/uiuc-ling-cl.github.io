@@ -8,7 +8,7 @@ active_tab: main_page
 
 
 <!-- # Syllabus (*subject to be updated in due course*) -->
-Syllabus (Fall 2024)
+# Syllabus (Fall 2024)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
