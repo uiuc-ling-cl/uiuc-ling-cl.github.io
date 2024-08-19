@@ -34,7 +34,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Bu
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
-	* 4:00-5:00 PM Thursdays
+	* 3:30-4:30 PM Thursdays
 	* LCLB, Room 4023. 
 
 * TA [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5)
