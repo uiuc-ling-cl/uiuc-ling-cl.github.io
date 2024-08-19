@@ -26,10 +26,10 @@ active_tab: schedule
       <th>Readings</th>
     </tr>
     {% for lecture in site.data.ling448 %}
-    {% if lecture.topic == "SPRING BREAK" %} 
+    {% if lecture.topic == "FALL BREAK" %} 
     	<tr style="background-color: #E0F8F1">
     {% else %}
-    	{% if lecture.week == 8 or lecture.week == 15 %} 
+    	{% if lecture.week == 8 or lecture.week == 16 %} 
     		<tr style="background-color: #F8E0E6">
     	{% else %}
     		<tr>
@@ -48,7 +48,7 @@ active_tab: schedule
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.topic }}</a>
         {% else %}
-        	{% if lecture.topic == "SPRING BREAK" %}<em>{{ lecture.topic }}</em>
+        	{% if lecture.topic == "FALL BREAK" %}<em>{{ lecture.topic }}</em>
         	{% else %}{{ lecture.topic }}{% endif %}    	
         {% endif %}
       </td>
