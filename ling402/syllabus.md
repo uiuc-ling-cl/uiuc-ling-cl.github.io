@@ -7,7 +7,8 @@ active_tab: main_page
 ---
 
 
-# Syllabus (*subject to be updated in due course*)
+<!-- # Syllabus (*subject to be updated in due course*) -->
+Syllabus (Fall 2024)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -28,12 +29,15 @@ active_tab: main_page
 ## Logistics
 
 #### Course time and venue
-TBD
-<!-- Tuesdays and Thursdays 2:00-3:20 PM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G27. -->
+Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20
 
 #### Office hours
-TBD
-<!-- * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty) - Office hours: Tuesdays (walk-in) and Thursday (by appointment) 4:00-5:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4023. * TA [Chase Adams](https://linguistics.illinois.edu/directory/profile/chasea2) - Office hours: Fridays 01:00–02:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 2039, and by appointment-->
+* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
+	* 4:00-5:00 PM Thursdays
+	* LCLB, Room 4023. 
+
+* TA [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5)
+	* TBA
 
 
 #### Required Textbooks and References
@@ -79,7 +83,7 @@ TBD
 	__Note that if you have trouble accessing a computer and/or internet on a demand basis in order to study this course, please contact the instructor as early as possible. They will work with the department, trying their best to accommodate and solve the issue.__
 	
 
-* Programming languages taught in this course include GNU **_bash of version 5.0_** on Ubuntu 22 and **_Python of version 3.11.9_**
+* Programming languages taught in this course include GNU **_bash of version 5.1_** on Ubuntu 22 and **_Python of version 3.11.9_**
 
 	All students will have an account to access the on-campus server (the "cl" server) running Linux. This allows students to carry on practice on bash command line tools anytime online. For Mac users, bash command line tools are already installed as a part of your operating system. However, occasionally the same command may differ in the flags it takes and in the outputs it produces on Ubuntu and Mac, due to the different versions. For Windows 10 users, a Linux environment can be installed using the Windows Subsystem for Linux (WSL). Official instructions for doing so can be found [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Regardless of which system an exercise or homework is completed, it must also be tested on the on-campus server (i.e. the "cl" server) -- all the assignments will be graded based on their outputs running on the on-campus server.
 	

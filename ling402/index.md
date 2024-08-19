@@ -3,7 +3,6 @@ layout: course_inactive
 img: cl.png
 <!-- img_link: assets/img/neuron.png -->
 url_git: https://github.com/uiuc-ling-cl
-<!-- url_piazza: https://piazza.com/illinois/spring2020/ling506 -->
 title: LING402
 active_tab: main_page 
 ---
@@ -16,9 +15,6 @@ Introduction to aspects of the tools and methods of studies in speech and natura
 
 
 
-* [Syllabus](syllabus.html)
-<!-- * [Schedule & Readings](schedule.html)
- -->
-
-<!-- * [Github](https://github.com/2019-Fall-UIUC-LING402)
-* [Piazza](https://piazza.com/illinois/fall2019/ling402) -->
+* <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G873060CB/feed)</span>
