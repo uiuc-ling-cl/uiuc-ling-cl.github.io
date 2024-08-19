@@ -132,7 +132,7 @@ If any student runs into trouble when setting up the software environment on the
 
 #### Grading
 
-Students will be assessed on the extent to which they have attained the learning goals and outcomes. This assessment will be primarily hands-on, assessed through a combination of daily practice and homework assignments.
+Students will be assessed on the extent to which they have attained the learning goals and outcomes. This assessment will be primarily hands-on, assessed through a combination of daily practice, lab exercises, and homework assignments.
 
 Grades are assessed on a 100-point scale:
 
