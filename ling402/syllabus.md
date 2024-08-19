@@ -227,6 +227,6 @@ For unforeseeable matters (e.g. emergencies), the student should still notify th
 Penalty-free late days cannot be used to extend any deadline beyond the last regular day of class in the semester, nor be used to turn in work after the solution has been presented to the students. 
 
 
-#### Inclusive Statement
+## Inclusive Statement
 
 The effectiveness of this course is dependent upon the creation of an encouraging and safe classroom environment.  Exclusionary, offensive or hateful speech (such as racism, sexism, homophobia, transphobia, etc.) will not be tolerated and in some cases subject to University harassment procedures.  Both instructors and students all responsible for creating a positive and safe environment that allows all students equal respect and comfort.  Everyone is, therefore, expected to help establish and maintain an environment where everyone can contribute without fear of ridicule, intolerance, or offensive language and behaviour.
