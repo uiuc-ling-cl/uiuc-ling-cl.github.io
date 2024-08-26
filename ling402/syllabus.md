@@ -42,7 +42,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Bu
 	* 3:30-4:30 PM Thursdays @ LCLB, Room 4023. 
 
 * TA [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5)
-	* TBA
+	* 3:00-4:00 PM Wednesdays; meeting over Zoom (link is available on Canvas/Campuswire) until further notice.
 
 
 #### Required Textbooks and References
@@ -88,7 +88,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Bu
 	__Note that if you have trouble accessing a computer and/or internet on a demand basis in order to study this course, please contact the instructor as early as possible. They will work with the department, trying their best to accommodate and solve the issue.__
 	
 
-* Programming languages taught in this course include GNU **_bash of version 5.1_** on Ubuntu 22 and **_Python of version 3.11.7_**
+* Programming languages taught in this course include GNU **_bash of version 5.1_** on Ubuntu 22 and **_Python of version 3.11.9_**
 
 	All students will have an account to access the on-campus server (the "cl" server) running Linux. This allows students to carry on practice on bash command line tools anytime online. For Mac users, bash command line tools are already installed as a part of your operating system. However, occasionally the same command may differ in the flags it takes and in the outputs it produces on Ubuntu and Mac, due to the different versions. For Windows 10 users, a Linux environment can be installed using the Windows Subsystem for Linux (WSL). Official instructions for doing so can be found [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Regardless of which system an exercise or homework is completed, it must also be tested on the on-campus server (i.e. the "cl" server) -- all the assignments will be graded based on their outputs running on the on-campus server.
 	

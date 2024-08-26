@@ -45,7 +45,7 @@ active_tab: syllabus
 	* 4:30-5:30 PM Thursdays @ LCLB, Room 4023. 
 
 * TA [Huiying Cai](https://linguistics.illinois.edu/directory/profile/huiying7)
-	* TBA
+	* 2:00-3:00 PM Tuesdays @ LCLB, Room 3036.
 
 
 #### Recommended textbooks and references
