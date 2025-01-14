@@ -46,7 +46,8 @@ active_tab: syllabus
 	* 4:30-5:30 PM Thursdays @ LCLB, Room 4023. 
 
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
-	* TBA
+	* Online: **3:00 - 4:00 PM Wednesdays** 
+	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1)
 
 
 #### Recommended textbooks and references
