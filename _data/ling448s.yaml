@@ -6,6 +6,7 @@
     type: Lecture
 #    slides: shared/ml_week01.pdf
     topic: <b>Course introduction</b>
+    
 -
     week: 1
     date: 2025-01-23
@@ -23,7 +24,7 @@
    type: Lecture
 #    slides: shared/ml_week02.pdf
    topic: <b>Intro to unsupervised clustering. Low dimensional visualisation and dimensionality reduction</b>
-   readings: Géron, Chapters 8&#58; PCA <br/> Unpingco, Chapter 4.10
+   readings: Géron, Chapter 8&#58; PCA <br/> Unpingco, Chapter 4.10
 
 -
    week: 2
@@ -141,7 +142,7 @@
    type: Lecture
 #    slides: shared/ml_week08.pdf
    topic: <b>Data partition, cross-validation and hyperparameter tuning <br/><br/> <span style="color:red;bold"><u>Mid-term assessment</u></span></b>
-   readings: Géron, Chapters 2&#58; Select and Train a Model; Fine-tune Your Model
+   readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
 
 -
    week: 8
@@ -218,7 +219,7 @@
    type: Lecture
 #    slides: shared/ml_week12.pdf 
    topic: <b>Polynomial regression and Regularised Linear models</b>
-   readings: Géron, Chapters 4&#58; Polynomial Regression, Regularized Linear Models
+   readings: Géron, Chapter 4&#58; Polynomial Regression, Regularized Linear Models
 
 -
    week: 12
@@ -238,7 +239,7 @@
    type: Lecture
 #    slides: shared/ml_week13.pdf 
    topic: <b>Non-parametric regression models</b>
-   readings: Géron, Chapters 5&#58; SVM Regression <br/> Géron, Chapters 6&#58; Regression
+   readings: Géron, Chapter 5&#58; SVM Regression <br/> Géron, Chapter 6&#58; Regression
 
 -
    week: 13
@@ -277,7 +278,7 @@
    type: Lecture
 #    slides: shared/ml_week15.pdf 
    topic: <b>Fine-tuning artificial neural networks <br/><br/> <span style="color:red;"><u>End-term assessment</u></span></b>
-   readings:  Géron, Chapters 10&#58; Fine-Tuning Neural Network Hyperparameters
+   readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
 -
    week: 15
    date: 2025-05-01
