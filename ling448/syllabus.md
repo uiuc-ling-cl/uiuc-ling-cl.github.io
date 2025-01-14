@@ -4,14 +4,14 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G65A39C90
+url_campuswire: https://campuswire.com/c/GFD049862
 txt_home: LING 448
 title: LING 448 - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Fall 2024)
+# Syllabus (Spring 2025)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -36,21 +36,22 @@ active_tab: syllabus
 
 #### Course time and venue
 
-* Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119.
-	* Lectures: **12:30 - 1:50 PM Tuesdays**
-	* Lab: **12:30 - 1:50 PM Thursdays**
+<!-- * Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119. -->
+* Venue: [Literatures, Cultures and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html) G17.
+	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
+	* Lab: **11:00 AM - 12:20 PM PM Thursdays**
 
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 4:30-5:30 PM Thursdays @ LCLB, Room 4023. 
 
-* TA [Huiying Cai](https://linguistics.illinois.edu/directory/profile/huiying7)
-	* 2:00-3:00 PM Tuesdays @ LCLB, Room 3036.
+* Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
+	* TBA
 
 
 #### Recommended textbooks and references
 
-* *Aurélien Géron*, "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, Second Edition", O'Reilly, 2019. 
+* *Aurélien Géron*, "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, Third Edition", O'Reilly, 2022. 
 
 * *Sebastian Raschka, Vahid Mirjalili*, "Python Machine Learning, Third Edition", Packt, 2019.
 
@@ -78,7 +79,7 @@ active_tab: syllabus
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
 
 
 
@@ -94,7 +95,7 @@ active_tab: syllabus
 * Students are responsible for **all** of the material covered in lab sessions.
 * Students are responsible for **all** of the material covered in homework.
 * Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
-* Students are responsible for informing the instructs of any issues that they have encountered during the course promptly.
+* Students are responsible for informing the instructors of any issues that they have encountered during the course promptly.
 * Students are responsible for the **originality** of their solutions/code. 
 
 #### Expectations
@@ -126,7 +127,7 @@ Grades will be assessed on a 100-point scale:
 	* Mid-term assessment: **10%**
 	* End-term assessment: **10%**
 
-* Lab exercise, after-class programming and scripting assignments will make 70% of the overall grade:
+* Lab exercises, after-class programming and scripting assignments will make 70% of the overall grade:
 	* Lab exercise: **30%**
 	* Homework: **40%**
 

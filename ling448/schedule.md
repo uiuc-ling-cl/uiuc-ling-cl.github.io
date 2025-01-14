@@ -4,7 +4,7 @@ img: brain.png
 <!-- img_link: assets/img/dsp.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G65A39C90
+url_campuswire: https://campuswire.com/c/GFD049862
 txt_home: LING 448
 title: LING 448 - Schedule
 active_tab: schedule
@@ -13,7 +13,7 @@ active_tab: schedule
 <p style="text-align:center;"><strong>Schedule are subject to change</strong></p>
 
 
-<h2>Schedule (Fall 2024)</h2>
+<h2>Schedule (Spring 2025)</h2>
 
 <table class="table"> 
   <tbody>
@@ -24,7 +24,7 @@ active_tab: schedule
       <th>Topic</th>
       <th>Readings</th>
     </tr>
-    {% for lecture in site.data.ling448 %}
+    {% for lecture in site.data.ling448s %}
     {% if lecture.topic == "FALL BREAK" %} 
     	<tr style="background-color: #E0F8F1">
     {% else %}
