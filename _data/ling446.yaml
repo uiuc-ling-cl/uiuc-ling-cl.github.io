@@ -222,7 +222,7 @@
    type: Lecture
    #    slides: shared/dsp_week11.pdf 
    topic: <b>Digital filters and filter design I</b>
-   readings: Rosen and Howell, Chapter 6 & 8 <br/> Ben Gold et al., Chapter 7.2
+   readings: Rosen and Howell, Chapters 6 & 8 <br/> Ben Gold et al., Chapter 7.2
 
 -
    week: 11
