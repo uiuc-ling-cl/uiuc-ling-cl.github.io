@@ -4,14 +4,14 @@ img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G2463E1CA
+url_campuswire: https://campuswire.com/c/G39EB8524
 txt_home: LING446
 title: LING446 - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Spring 2024)
+# Syllabus (Spring 2025)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -64,7 +64,7 @@ active_tab: syllabus
 
 * *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
 
-* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3.11/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.11.5/)
+* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3.12/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.12.8/)
 
 	This book is the authoritative reference manual for Python 3.
    
@@ -81,7 +81,7 @@ active_tab: syllabus
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python of version 3.11.5**. 
+* The programming language used in this course is **Python of version 3.12**. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/download).
 	
@@ -91,7 +91,7 @@ active_tab: syllabus
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be ministered for this course. 
 	
-	All GitHub repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, by when all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
 
 
 
@@ -180,19 +180,11 @@ To contact DRES students may visit 1207 S. Oak St., Champaign, call 333-4603 (V/
 
 This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401/). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are expected to read these resources prior to the second day of class, and to understand your responsibilities with regard to Academic Integrity. 
 
-All work submitted for this class must be solely each student's own. 
-Violations of Academic Integrity include, but are not limited to, copying, cheating, and unapproved collaboration. 
-There is zero tolerance for any form of violations
-
-<!-- 
-This course follows the [University of Illinois Student Code regarding Academic Integrity](https://studentcode.illinois.edu/article1/part4/1-401/). The College of Liberal Arts and Sciences also has [an excellent web page on the topic](http://www.las.illinois.edu/students/integrity). You are expected to read these resources prior to the second day of class, and to understand your responsibilities with regard to Academic Integrity. 
-
 [Students’ Quick Reference Guide to Academic Integrity](https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/) states that it is students' "responsibility to refrain from infractions of academic integrity, from conduct that may lead to suspicion of such infractions, and from conduct that aids others in such infractions. “I did not know” is not an excuse."
 
 All work submitted for this class must be solely each student's own. Violations of Academic Integrity include, but are not limited to, copying (from e.g. peer classmates, online sources, and AI tools), cheating, and unapproved collaboration. There is zero tolerance for any form of violation. Any violation of academic integrity, even unintentional, may result in penalties as stated in the Student Code and the course syllabus.
 
 Should an incident occur in which a student is believed to have violated academic integrity, the instructor(s) will initiate the [procedures](https://studentcode.illinois.edu/article1/part4/1-403/) outlined in the Illinois Academic Integrity Policy via Faculty Academic Integrity Reporting (FAIR), the system for reporting academic integrity allegations and violations.
- -->
 
 
 ## Absences and Late Work Policy
@@ -236,4 +228,3 @@ Penalty-free late days cannot be used to turn in work after the solution has bee
 
 Penalty-free late days do not apply to mid- and end-term assessments.
 
-<!-- , and the final project. -->

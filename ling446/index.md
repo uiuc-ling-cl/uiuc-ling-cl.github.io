@@ -3,7 +3,7 @@ layout: course
 img: dsp.png
 <!-- img_link: assets/img/dsp.png -->
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G2463E1CA
+url_campuswire: https://campuswire.com/c/G39EB8524
 title: LING 446
 active_tab: main_page 
 ---
@@ -15,4 +15,4 @@ active_tab: main_page
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Schedule](schedule.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
-* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G2463E1CA)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G39EB8524)</span>

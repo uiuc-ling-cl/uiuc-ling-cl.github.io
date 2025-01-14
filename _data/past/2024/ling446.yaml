@@ -1,7 +1,7 @@
 ###### Week 1 ######
 -
    week: 1
-   date: 2025-01-21
+   date: 2024-01-16
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week01.pdf
@@ -10,7 +10,7 @@
     
 -
    week: 1
-   date: 2025-01-23
+   date: 2024-01-18
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -21,16 +21,16 @@
 ###### Week 2 ######    
 -
    week: 2
-   date: 2025-01-28
+   date: 2024-01-23
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week02.pdf
    topic: <b>Signal waveform and properties</b>
-   readings: Rosen and Howell, Chapters 2 & 3 
+   readings: Rosen and Howell, Chapter 2 & 3 
   
 -
    week: 2
-   date: 2025-01-30
+   date: 2024-01-25
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -41,7 +41,7 @@
 ###### Week 3 ######
 -
    week: 3
-   date: 2025-02-04
+   date: 2024-01-30
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week03.pdf
@@ -50,7 +50,7 @@
 
 -
    week: 3
-   date: 2025-02-06
+   date: 2024-02-01
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -61,7 +61,7 @@
 ###### Week 4 ######
 -
    week: 4
-   date: 2025-02-11
+   date: 2024-02-06
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week04.pdf
@@ -69,7 +69,7 @@
 
 -
    week: 4
-   date: 2025-02-13
+   date: 2024-02-08
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -80,7 +80,7 @@
 ###### Week 5 ######
 -
    week: 5
-   date: 2025-02-18
+   date: 2024-02-13
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week05.pdf 
@@ -89,7 +89,7 @@
 
 -
    week: 5
-   date: 2025-02-20
+   date: 2024-02-15
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -100,7 +100,7 @@
 ###### Week 6 ######
 -
    week: 6
-   date: 2025-02-25
+   date: 2024-02-20
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/dsp_week06.pdf 
@@ -109,7 +109,7 @@
 
 -
    week: 6
-   date: 2025-02-27
+   date: 2024-02-22
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -120,16 +120,16 @@
 ###### Week 7 ######
 -
    week: 7
-   date: 2025-03-04
+   date: 2024-02-27
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week07.pdf 
    topic: <b>LTI system II - Impulse response and convolution</b>
-   readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapters 2.3, 2.4
+   readings: Rosen and Howell, Chapter 9 <br/> Lynn and Fuerst, Chapter 2.3, 2.4
   
 -
    week: 7
-   date: 2025-03-06
+   date: 2024-02-29
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -140,7 +140,7 @@
 ###### Week 8 ######
 -
    week: 8
-   date: 2025-03-11
+   date: 2024-03-05
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week08.pdf 
@@ -149,7 +149,7 @@
 
 -
    week: 8
-   date: 2025-03-13
+   date: 2024-03-07
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -160,7 +160,7 @@
 # ###### Week 9 ######
 # -
 #    week: 9
-#    date: 2025-03-12
+#    date: 2024-03-12
 #    lecturer: Yan Tang
 #    type: Lecture
 #    #    slides: shared/dsp_week08.pdf 
@@ -169,7 +169,7 @@
 # 
 # -
 #    week: 9
-#    date: 2025-03-14
+#    date: 2024-03-14
 #    lecturer: Yan Tang
 #    type: Lab session
 #    slides:
@@ -179,7 +179,7 @@
 ###### Week 9 ######
 -
    week: 9
-   date: 2025-03-18
+   date: 2024-03-12
    lecturer: "&nbsp;"
    type: "&nbsp;"
    #    slides: shared/ml_week08.pdf
@@ -187,7 +187,7 @@
 
 -
    week: 9
-   date: 2025-03-20
+   date: 2024-03-14
    lecturer: "&nbsp;"
    type: 
    topic: SPRING BREAK
@@ -197,7 +197,7 @@
 ###### Week 10 ######
 -
    week: 10
-   date: 2025-03-25
+   date: 2024-03-19
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week0910.pdf 
@@ -206,7 +206,7 @@
 
 -
    week: 10
-   date: 2025-03-27
+   date: 2024-03-21
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -217,7 +217,7 @@
 ###### Week 11 ######
 -
    week: 11
-   date: 2025-04-01
+   date: 2024-03-26
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week11.pdf 
@@ -226,7 +226,7 @@
 
 -
    week: 11
-   date: 2025-04-03
+   date: 2024-03-28
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -237,7 +237,7 @@
 ###### Week 12 ######
 -
    week: 12
-   date: 2025-04-08
+   date: 2024-04-02
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week12.pdf 
@@ -246,7 +246,7 @@
 
 -
    week: 12
-   date: 2025-04-10
+   date: 2024-04-04
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -257,7 +257,7 @@
 ###### Week 13 ######
 -
    week: 13
-   date: 2025-04-15
+   date: 2024-04-09
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week13.pdf 
@@ -266,7 +266,7 @@
 
 -
    week: 13
-   date: 2025-04-17
+   date: 2024-04-11
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -277,7 +277,7 @@
 ###### Week 14 ######
 -
    week: 14
-   date: 2025-04-22
+   date: 2024-04-16
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week14.pdf 
@@ -286,7 +286,7 @@
 
 -
    week: 14
-   date: 2025-04-24
+   date: 2024-04-18
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -297,7 +297,7 @@
 ###### Week 15 ######
 -
    week: 15
-   date: 2025-04-29
+   date: 2024-04-23
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week15.pdf 
@@ -306,7 +306,7 @@
 
 -
    week: 15
-   date: 2025-05-01
+   date: 2024-04-25
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -318,7 +318,7 @@
 ###### Week 16 ######
 -
    week: 16
-   date: 2025-05-06
+   date: 2024-04-30
    lecturer: Yan Tang
    type: Lecture
    #    slides: shared/dsp_week16.pdf
@@ -327,7 +327,7 @@
 
 -
    week: 16
-   date: 2025-05-08
+   date: 2024-05-04
    lecturer: "&nbsp;"
    type: Reading day
    topic:  
