@@ -141,7 +141,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week08.pdf
-   topic: <b>Data partition, cross-validation and hyperparameter tuning <br/><br/> <span style="color:red;bold"><u>Mid-term assessment</u></span></b>
+   topic: <b>Data partition, cross-validation and hyperparameter tuning</b>
    readings: Géron, Chapter 2&#58; Select and Train a Model; Fine-tune Your Model
 
 -
@@ -149,7 +149,7 @@
    date: 2025-03-13
    lecturer: Yan Tang
    type: Lab session
-   topic: 
+   topic: <b><span style="color:red;bold"><u>Mid-term assessment</u></span></b>
  
 
  
@@ -199,7 +199,7 @@
    type: Lecture
 #    slides: shared/ml_week11.pdf 
    topic: <b>Regression analysis for linear problems</b>
-   readings: Géron, Chapters 4&#58; Linear Regression, Gradient Descent
+   readings: Géron, Chapter 4&#58; Linear Regression, Gradient Descent
 
 -
    week: 11
@@ -218,7 +218,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week12.pdf 
-   topic: <b>Polynomial regression and Regularised Linear models</b>
+   topic: <b>Polynomial regression and regularised linear models</b>
    readings: Géron, Chapter 4&#58; Polynomial Regression, Regularized Linear Models
 
 -
@@ -277,7 +277,7 @@
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week15.pdf 
-   topic: <b>Fine-tuning artificial neural networks <br/><br/> <span style="color:red;"><u>End-term assessment</u></span></b>
+   topic: <b>Fine-tuning artificial neural networks</b>
    readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
 -
    week: 15
