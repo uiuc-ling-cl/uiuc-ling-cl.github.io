@@ -37,7 +37,7 @@ active_tab: syllabus
 #### Course time and venue
 
 <!-- * Venue: [English Building](https://facilityaccessmaps.fs.illinois.edu/archibus/schema/ab-products/essential/workplace/index.html), Room 119. -->
-* Venue: [Literatures, Cultures and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html) G17.
+* Venue: [English Building (EB)](https://answers.uillinois.edu/illinois/page.php?id=75877) 44.
 	* Lectures: **11:00 AM - 12:20 PM Tuesdays**
 	* Lab: **11:00 AM - 12:20 PM PM Thursdays**
 
