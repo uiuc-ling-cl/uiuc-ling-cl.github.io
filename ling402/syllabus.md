@@ -39,8 +39,8 @@ TBA
 <!-- Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20 -->
 
 #### Office hours
-<!-- 
-TBA 
+TBA
+<!--  
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:30-4:30 PM Thursdays @ LCLB, Room 4023.
  --> 
@@ -65,7 +65,7 @@ TBA
 	
 * Guido van Rossum, et al. **_The Python Tutorial and The Python Language Reference_**
 
-	This is the authoritative [tutorial](https://docs.python.org/3.11/tutorial/index.html) and [reference manual](https://docs.python.org/3.11/reference/index.html) for Python. They are readily available on the official Python website. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
+	This is the authoritative [tutorial](https://docs.python.org/3.12/tutorial/index.html) and [reference manual](https://docs.python.org/3.12/reference/index.html) for Python. They are readily available on the official Python website. The offline version of the reference manual can be downloaded for free in various formats such as PDF, HTML and epub.
 	
 	
 * Elkner et al., **_How to Think Like a Computer Scientist_**
