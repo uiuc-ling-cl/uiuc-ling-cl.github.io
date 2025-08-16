@@ -17,4 +17,4 @@ Introduction to aspects of the tools and methods of studies in speech and natura
 
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
-* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G873060CB/feed)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G01186A39/feed)</span>

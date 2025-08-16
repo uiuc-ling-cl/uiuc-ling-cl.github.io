@@ -8,7 +8,7 @@ active_tab: main_page
 
 
 <!-- # Syllabus (*subject to be updated in due course*) -->
-# Syllabus (Fall 2024)
+# Syllabus (Fall 2025)
 
 * [Logistics](#logistics)
   * [Course Info](#course-info)
@@ -35,14 +35,18 @@ active_tab: main_page
 * <span style="color: #ff0000;">Students who have already taken courses, such as CS 105, CS 125, CS 225 and equivalent or above, will NOT receive credits by taking this course, unless the student has contacted the instructor with an appropriate reason and approval is hence granted</span>.
 
 #### Course Time and Venue
-Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20
+TBA
+<!-- Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20 -->
 
 #### Office hours
+TBA
+<!-- 
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:30-4:30 PM Thursdays @ LCLB, Room 4023. 
 
 * TA [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5)
 	* 3:00-4:00 PM Wednesdays; meeting over Zoom (link is available on Canvas/Campuswire) until further notice.
+ -->
 
 
 #### Required Textbooks and References
