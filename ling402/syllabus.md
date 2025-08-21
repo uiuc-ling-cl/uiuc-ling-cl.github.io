@@ -39,7 +39,12 @@ TBA
 <!-- Tuesdays and Thursdays 9:30-10:50 AM, [Literatures, Cultures, and Linguistics Building (LCLB)](http://ada.fs.illinois.edu/0172.html), Room G20 -->
 
 #### Office hours
-TBA
+* TA [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5)
+	* 3:00-4:00 PM Wednesdays; meeting over Zoom (link is available on Canvas/Campuswire) until further notice.
+	
+* TA [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2)
+	* 2:00-3:00 PM Mondays @ LCLB, Room 4103
+	
 <!--  * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 3:30-4:30 PM Thursdays @ LCLB, Room 4023.--> 
 	
