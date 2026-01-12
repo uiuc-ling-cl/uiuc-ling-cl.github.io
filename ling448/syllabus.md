@@ -74,13 +74,13 @@ active_tab: syllabus
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
 	
-*  Git software and [Github](https://github.com) account for assignment deployment and submission 
+*  Git software and [GitHub](https://github.com) account for assignment deployment and submission 
 	
 	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, the git software is built in macOS, so nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win). While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter.
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All GitHub repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the students' responsibility to keep a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments in this course will be stored on [the course GitHub account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the students' responsibility to keep a copy of their own repositories before they are removed.
 
 
 
