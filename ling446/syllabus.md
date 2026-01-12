@@ -44,15 +44,14 @@ active_tab: syllabus
 
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
+* Associate Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
 	* Walk-in: **3:30 - 4:30 PM Thursdays**
 	* Office: LCLB 4096
 	
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
-<!-- 
-	* Online: **2:00 - 3:00 PM Wednesdays** 
-	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1)
- -->
+<!-- 	* Online: **2:00 - 3:00 PM Wednesdays**  -->
+<!-- 	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1) -->
+
 	
 
 
@@ -66,7 +65,7 @@ active_tab: syllabus
 
 * *Allen B. Downey*, "Think DSP - Digital Signal Processing in Python", Green Tea Press, 2014. [Available for free in multiple formats](https://greenteapress.com/wp/think-dsp/)
 
-* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3.12/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.12.8/)
+* *Guido van Rossum, et al.*, "[The Python Language Reference](https://docs.python.org/3.13/reference/index.html)". [Available for free in multiple formats](https://www.python.org/ftp/python/doc/3.13.11/)
 
 	This book is the authoritative reference manual for Python 3.
    
