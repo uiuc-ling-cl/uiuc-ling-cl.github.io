@@ -1,7 +1,7 @@
 ###### Week 1 ######
 -
     week: 1
-    date: 2025-01-21
+    date: 2026-01-20
     lecturer: Yan Tang
     type: Lecture
 #    slides: shared/ml_week01.pdf
@@ -9,7 +9,7 @@
     
 -
     week: 1
-    date: 2025-01-23
+    date: 2026-01-22
     lecturer: Yan Tang
     type: Lab session
     topic: <b>Python/anaconda installation, Github account</b>
@@ -19,7 +19,7 @@
 ###### Week 2 ######    
 -
    week: 2
-   date: 2025-01-28
+   date: 2026-01-27
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week02.pdf
@@ -28,7 +28,7 @@
 
 -
    week: 2
-   date: 2025-01-30
+   date: 2026-01-29
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -38,7 +38,7 @@
 ###### Week 3 ######
 -
    week: 3
-   date: 2025-02-04
+   date: 2026-02-03
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week03.pdf
@@ -47,7 +47,7 @@
 
 -
    week: 3
-   date: 2025-02-06
+   date: 2026-02-05
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -58,7 +58,7 @@
 ###### Week 4 ######
 -
    week: 4
-   date: 2025-02-11
+   date: 2026-02-10
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week04.pdf
@@ -67,7 +67,7 @@
 
 -
    week: 4
-   date: 2025-02-13
+   date: 2026-02-12
    lecturer: Yan Tang
    type: Lab session
    topic:
@@ -77,7 +77,7 @@
 ###### Week 5 ######
 -
    week: 5
-   date: 2025-02-18
+   date: 2026-02-17
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week05.pdf
@@ -86,7 +86,7 @@
 
 -
    week: 5
-   date: 2025-02-20
+   date: 2026-02-19
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -96,7 +96,7 @@
 ###### Week 6 ######
 -
    week: 6
-   date: 2025-02-25
+   date: 2026-02-24
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week06.pdf
@@ -105,7 +105,7 @@
 
 -
    week: 6
-   date: 2025-02-27
+   date: 2026-02-26
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -117,7 +117,7 @@
 ###### Week 7 ######
 -
    week: 7
-   date: 2025-03-04
+   date: 2026-03-03
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week07.pdf
@@ -127,7 +127,7 @@
 
 -
    week: 7
-   date: 2025-03-06
+   date: 2026-03-05
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -137,7 +137,7 @@
 ###### Week 8 ######
 -
    week: 8
-   date: 2025-03-11
+   date: 2026-03-10
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week08.pdf
@@ -146,7 +146,7 @@
 
 -
    week: 8
-   date: 2025-03-13
+   date: 2026-03-12
    lecturer: Yan Tang
    type: Lab session
    topic: <b><span style="color:red;bold"><u>Mid-term assessment</u></span></b>
@@ -156,7 +156,7 @@
 ###### Week 9 ######
 -
   week: 9
-  date: 2025-03-18
+  date: 2026-03-17
   lecturer: "&nbsp;"
   type: "&nbsp;"
 #    slides: shared/ml_week08.pdf
@@ -164,7 +164,7 @@
 
 -
   week: 9
-  date: 2025-03-20
+  date: 2026-03-19
   lecturer: "&nbsp;"
   type: 
   topic: SPRING BREAK
@@ -174,7 +174,7 @@
 ###### Week 10 ######
 -
    week: 10
-   date: 2025-03-25
+   date: 2026-03-24
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week0910.pdf 
@@ -183,7 +183,7 @@
 
 -
    week: 10
-   date: 2025-03-27
+   date: 2026-03-26
    lecturer: Yan Tang
    type: Lab session
    topic:   
@@ -194,7 +194,7 @@
 ###### Week 11 ######
 -
    week: 11
-   date: 2025-04-01
+   date: 2026-03-031
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week11.pdf 
@@ -203,7 +203,7 @@
 
 -
    week: 11
-   date: 2025-04-03
+   date: 2026-04-02
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -214,7 +214,7 @@
 ###### Week 12 ######
 -
    week: 12
-   date: 2025-04-08
+   date: 2026-04-07
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week12.pdf 
@@ -223,7 +223,7 @@
 
 -
    week: 12
-   date: 2025-04-10
+   date: 2026-04-09
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -234,7 +234,7 @@
 ###### Week 13 ######
 -
    week: 13
-   date: 2025-04-15
+   date: 2026-04-14
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week13.pdf 
@@ -243,7 +243,7 @@
 
 -
    week: 13
-   date: 2025-04-17
+   date: 2026-04-16
    lecturer: Yan Tang
    type: Lab session
    topic: 
@@ -253,7 +253,7 @@
 ###### Week 14 ######
 -
    week: 14
-   date: 2025-04-22
+   date: 2026-04-21
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week14.pdf 
@@ -262,7 +262,7 @@
 
 -
    week: 14
-   date: 2025-04-24
+   date: 2026-04-23
    lecturer: Yan Tang
    type: Lab session
    slides:
@@ -273,7 +273,7 @@
 ###### Week 15 ######
 -
    week: 15
-   date: 2025-04-29
+   date: 2026-04-28
    lecturer: Yan Tang
    type: Lecture
 #    slides: shared/ml_week15.pdf 
@@ -281,7 +281,7 @@
    readings:  Géron, Chapter 10&#58; Fine-Tuning Neural Network Hyperparameters
 -
    week: 15
-   date: 2025-05-01
+   date: 2026-04-30
    lecturer: Yan Tang
    type: Reading day
    topic: 
@@ -291,14 +291,14 @@
 ###### Week 16 ######
 -
    week: 16
-   date: 2025-05-06
+   date: 2026-05-05
    lecturer: Yan Tang
    type: Lecture
    slides:
    topic: <b><span style="color:red;"><u>End-term assessment</u></span></b>
 -
    week: 16
-   date: 2025-05-08
+   date: 2026-05-07
    lecturer: "&nbsp;"
    type: Reading day
    topic:

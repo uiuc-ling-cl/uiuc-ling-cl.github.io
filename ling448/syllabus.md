@@ -4,14 +4,14 @@ img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/GFD049862
+url_campuswire: https://campuswire.com/c/G69086320
 txt_home: LING 448
 title: LING 448 - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Spring 2025)
+# Syllabus (Spring 2026)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -42,12 +42,12 @@ active_tab: syllabus
 	* Lab: **11:00 AM - 12:20 PM PM Thursdays**
 
 #### Office hours
-* Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
-	* 4:30-5:30 PM Thursdays @ LCLB, Room 4023. 
+* Associate Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
+	* 4:30-5:30 PM Thursdays @ LCLB, Room 4096. 
 
-* Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
-	* Online: **3:00 - 4:00 PM Wednesdays** 
-	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1)
+* Teaching Assistant [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2):
+<!-- 	* Online: **3:00 - 4:00 PM Wednesdays**  -->
+<!-- 	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1) -->
 
 
 #### Recommended textbooks and references
@@ -58,29 +58,29 @@ active_tab: syllabus
 
 * *José Unpingco*, "Python for Probability, Statistics, and Machine Learning, Second Edition", Springer, 2019.
 
-* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3.11/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.11.9/" target="_blank">Available for free in multiple formats</a>
+* *Guido van Rossum, et al.*, "<a href="https://docs.python.org/3.13/reference/index.html" target="_blank">The Python Language Reference</a>". <a href="https://www.python.org/ftp/python/doc/3.13.11/" target="_blank">Available for free in multiple formats</a>
 
 	This book is the authoritative reference manual for Python 3.
    
 * *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. <a href="https://git-scm.com/book/en/v2" target="_blank">Available for free in multiple formats</a>
 	
-	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git.
+	As a quick reference for using Git, this book covers most of the hands-on commands for common operations.
 
 #### Required tools and software
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python** of version 3. 
+* The programming language used in this course is **Python** 3.13. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
 	
 *  Git software and [Github](https://github.com) account for assignment deployment and submission 
 	
-	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, the git software is built in the macOS, so nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win). While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter.
+	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac users, the git software is built in macOS, so nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win). While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter.
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All Github repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is students' responsibility for keeping a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments in this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the students' responsibility to keep a copy of their own repositories before they are removed.
 
 
 
@@ -105,17 +105,6 @@ active_tab: syllabus
 * Students are expected to develop self-learning and problem-solving abilities utilising all possible resources, e.g. office hours, textbooks, online content and discussion with peers.
 * Students are expected to actively follow along and practice the examples presented in class.
 * Students are encouraged to conduct discussions with classmates. 
-
-
-<!-- 
-#### Learning Goals and Outcomes
-
-Students are expected to attend class and lab session, regularly practice the presented tools and techniques, and complete all assigned work.
-
-Students who do so are expected to attain the learning goals and outcomes.
- -->
-
-
 
 ## Grading
 
@@ -198,7 +187,7 @@ For some or all lab exercises and homework assignments, reference solutions will
 
 #### Penalty-free late days
 
-It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days for which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
+It is understood that illness and other extraordinary events do occur from time to time. To accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days, during which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
@@ -208,7 +197,7 @@ If a student wishes to make use of a penalty-free late day, the student must do 
   * In the body of the message, the student must explicitly request the use of a penalty-free late day.
 * In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.
 
-Only when all of these steps have been taken prior to the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
+Only when all of these steps have been completed before the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
 
 Penalty-free late days cannot be used to extend any deadline beyond the last regular day of class for the semester.
 
