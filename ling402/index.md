@@ -2,7 +2,7 @@
 layout: course_inactive
 img: cl.png
 <!-- img_link: assets/img/neuron.png -->
-url_git: https://github.com/uiuc-ling-cl
+url_git: https://github.com/uiuc-ling
 title: LING402
 active_tab: main_page 
 ---
@@ -16,5 +16,5 @@ Introduction to aspects of the tools and methods of studies in speech and natura
 
 
 * <span style="font-family:Papyrus; font-size:1.2em;">[Syllabus](syllabus.html)</span>
-* <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling-cl)</span>
+* <span style="font-family:Papyrus; font-size:1.2em;">[Github](https://github.com/uiuc-ling)</span>
 * <span style="font-family:Papyrus; font-size:1.2em;">[Campuswire](https://campuswire.com/c/G01186A39/feed)</span>
