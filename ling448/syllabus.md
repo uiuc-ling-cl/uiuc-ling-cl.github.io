@@ -45,7 +45,7 @@ active_tab: syllabus
 * Associate Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty)
 	* 4:30-5:30 PM Thursdays @ LCLB, Room 4096. 
 
-* Teaching Assistant [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2):
+* Teaching Assistant [Yixin Gu](https://linguistics.illinois.edu/directory/profile/yixingu2)
 <!-- 	* Online: **3:00 - 4:00 PM Wednesdays**  -->
 <!-- 	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1) -->
 
