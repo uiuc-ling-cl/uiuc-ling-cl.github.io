@@ -4,14 +4,14 @@ img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
 url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/G39EB8524
+url_campuswire: https://campuswire.com/c/G7CCDD508
 txt_home: LING446
 title: LING446 - Syllabus
 active_tab: syllabus 
 ---
 
 
-# Syllabus (Spring 2025)
+# Syllabus (Spring 2026)
 
 * [Logistics](#logistics)
   * [Course time and venue](#course-time-and-venue)
@@ -46,11 +46,13 @@ active_tab: syllabus
 #### Office hours
 * Assistant Professor [Yan Tang](https://linguistics.illinois.edu/directory/profile/yty):
 	* Walk-in: **3:30 - 4:30 PM Thursdays**
-	* Office: LCLB 4023
+	* Office: LCLB 4096
 	
 * Teaching Assistant [Mingyue Huo](https://linguistics.illinois.edu/directory/profile/mhuo5):
+<!-- 
 	* Online: **2:00 - 3:00 PM Wednesdays** 
 	* [Zoom link](https://illinois.zoom.us/j/84659508717?pwd=NHa20nJi5ZbWx4uLvJK9oQngr1JDJf.1)
+ -->
 	
 
 
@@ -70,7 +72,7 @@ active_tab: syllabus
    
 * *Scott Chacon* and *Ben Straub*, "Pro Git, Second Edition", Apress, 2014. [Available for free in multiple formats](https://git-scm.com/book/en/v2)
 	
-	As a quick reference for the use of git, this book covers most of the hands-on commands for common operations on Git.
+	As a quick reference for using Git, this book covers most of the hands-on commands for common operations on Git.
 
 #### Required tools and software
 <!-- 
@@ -81,7 +83,7 @@ active_tab: syllabus
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python of version 3.12**. 
+* The programming language used in this course is **Python 3.13**. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/download).
 	
@@ -89,9 +91,9 @@ active_tab: syllabus
 	
 	Git is a [version control system](https://en.wikipedia.org/wiki/Version_control) that records changes to a file or set of files over time. For Mac or Linux users, as the git software is built in the OS nothing needs to be done. For Windows users, the binary installer can be downloaded from [Git](https://git-scm.com/download/win) for installation. While both 32- and 64-bit versions are available for downloading, Windows systems of contemporary versions should fully support the latter. 
 	
-	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be ministered for this course. 
+	Students are required to register for a free GitHub account at [https://github.com](https://github.com), where exercises and assignments for this course will be managed. 
 	
-	All GitHub repositories associated with assignments of this course will be stored on [the course Github account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments of this course will be stored on [the course GitHub account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
 
 
 
@@ -109,7 +111,7 @@ active_tab: syllabus
 * Students are responsible for **all** of the material covered in homework.
 <!-- * Students are responsible for **all** of the material covered in the final project. -->
 * Students are responsible for **all** of the material covered in public Campuswire posts. This includes clarifications to homework instructions.
-* Students are responsible for informing the instructs of any issues that they have encountered during the course promptly.
+* Students are responsible for informing the instructors of any issues that they have encountered during the course promptly.
 * Students are responsible for the **originality** of their solutions/code. 
 
 #### Expectations
@@ -167,12 +169,12 @@ Grades will be assessed on a 100-point scale:
 
 ## DRES
 
-If a student has a disability or condition that requires special consideration and accommodation, the student is expected to inform the instructor and the TA by email **no later than the beginning of the fourth week**. The message in the email should:
+If a student has a disability or condition that requires special consideration and accommodation, the student is expected to inform the instructor and TA by email **no later than the beginning of the fourth week**. The message in the email should:
 
 * Include a scanned attachment of the requisite letter from the University Division of Disability Resources and Educational Services (DRES).
 * Include a detailed description of the accommodations that the student is requesting for this class.
 
-To contact DRES students may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or email [disability@illinois.edu](disability@illinois.edu).
+To contact DRES, students may visit 1207 S. Oak St., Champaign, call 333-4603 (V/TTY), or email [disability@illinois.edu](disability@illinois.edu).
 
 
 
@@ -210,7 +212,7 @@ For some or all lab exercises and homework assignments, reference solutions will
 
 #### Penalty-free late days
 
-It is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days for which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
+It is understood that illness and other extraordinary events do occur from time to time. To accommodate such extraordinary events, students will be allotted a budget of four (4) penalty-free late days, during which no late penalty will be assessed for lab exercises and homework assignments. **Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.**
 
 If a student wishes to make use of a penalty-free late day, the student must do **all** of the following **prior to the current assignment deadline**:
 
