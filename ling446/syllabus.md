@@ -3,7 +3,7 @@ layout: course
 img: wave.png
 <!-- img_link: assets/img/wave.png -->
 url_home: index.html
-url_git: https://github.com/uiuc-ling-cl
+url_git: https://github.com/uiuc-ling
 url_campuswire: https://campuswire.com/c/G7CCDD508
 txt_home: LING446
 title: LING446 - Syllabus
@@ -92,7 +92,7 @@ active_tab: syllabus
 	
 	Students are required to register for a free GitHub account at [https://github.com](https://github.com), where exercises and assignments for this course will be managed. 
 	
-	All GitHub repositories associated with assignments of this course will be stored on [the course GitHub account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments of this course will be stored on [the course GitHub account](https://github.com/uiuc-ling) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the student's responsibility to keep a copy of their own repositories before they are removed.
 
 
 

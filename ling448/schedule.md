@@ -3,8 +3,8 @@ layout: course
 img: brain.png
 <!-- img_link: assets/img/dsp.png -->
 url_home: index.html
-url_git: https://github.com/uiuc-ling-cl
-url_campuswire: https://campuswire.com/c/GFD049862
+url_git: https://github.com/uiuc-ling
+url_campuswire: https://campuswire.com/c/G69086320
 txt_home: LING 448
 title: LING 448 - Schedule
 active_tab: schedule

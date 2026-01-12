@@ -3,7 +3,7 @@ layout: course
 img: quantum.png
 <!-- img_link: assets/img/quantum.png -->
 url_home: index.html
-url_git: https://github.com/uiuc-ling-cl
+url_git: https://github.com/uiuc-ling
 url_campuswire: https://campuswire.com/c/G69086320
 txt_home: LING 448
 title: LING 448 - Syllabus
@@ -81,7 +81,7 @@ active_tab: syllabus
 	
 	Students are required to register a free GitHub account at [https://github.com](https://github.com), where exercises and assignments will be submitted for grading during the course.
 	
-	All GitHub repositories associated with assignments in this course will be stored on [the course GitHub account](https://github.com/uiuc-ling-cl) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the students' responsibility to keep a copy of their own repositories before they are removed.
+	All GitHub repositories associated with assignments in this course will be stored on [the course GitHub account](https://github.com/uiuc-ling) **until the same course is offered again next year**, at which point all the repositories from the previous year will be deleted. Therefore, if needed, it is the students' responsibility to keep a copy of their own repositories before they are removed.
 
 
 

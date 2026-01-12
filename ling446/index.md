@@ -2,7 +2,7 @@
 layout: course
 img: dsp.png
 <!-- img_link: assets/img/dsp.png -->
-url_git: https://github.com/uiuc-ling-cl
+url_git: https://github.com/uiuc-ling
 url_campuswire: https://campuswire.com/c/G7CCDD508
 title: LING 446
 active_tab: main_page 

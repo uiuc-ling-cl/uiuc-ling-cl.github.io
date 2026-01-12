@@ -3,7 +3,7 @@ layout: course
 img: sg.png
 <!-- img_link: assets/img/sg.png -->
 url_home: index.html
-url_git: https://github.com/uiuc-ling-cl
+url_git: https://github.com/uiuc-ling
 url_campuswire: https://campuswire.com/c/G7CCDD508
 txt_home: LING446
 title: LING446 - Schedule
