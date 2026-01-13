@@ -71,7 +71,7 @@ active_tab: syllabus
 
 * Students are expected to have their own computers for after-class exercises and assignments.
 
-* The programming language used in this course is **Python** 3.13. 
+* The programming language used in this course is **Python** 3.12. 
 
 	Students are responsible for installing the programming environment on their own computers. It is recommended to install Python and relevant modules via [Anaconda Distribution](https://www.anaconda.com/distribution/).
 	
